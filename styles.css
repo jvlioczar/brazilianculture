@@ -152,6 +152,8 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 @media (min-width:1024px){
   .hero-in{width:min(1240px,100% - 80px);margin-inline:auto}
   .hero h1,.hero .lede{max-width:56%}
+  /* a altura cresce com a largura: assim o recorte nunca corta o topo da estátua */
+  .hero{--ul-h:min(max(clamp(240px,48vh,520px),29.2vw),calc(100svh - var(--sb) - var(--head) - 12px))}
 }
 /* tablet: texto ocupa a largura, Cristo um pouco mais alto */
 @media (min-width:600px) and (max-width:1023px){

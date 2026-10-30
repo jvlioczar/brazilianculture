@@ -1,9 +1,9 @@
 {
   "id": "/",
-  "name": "Cultura Brasileira",
-  "short_name": "Cultura BR",
-  "description": "Um guia interativo para entender o Brasil e os brasileiros",
-  "lang": "pt-BR",
+  "name": "Brazilian Culture",
+  "short_name": "Brazil Culture",
+  "description": "An interactive guide to understanding Brazil and Brazilians",
+  "lang": "en",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

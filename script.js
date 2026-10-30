@@ -7,7 +7,7 @@ const A = window.BC, MAP = window.BC_MAP;
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
-/* Idioma: o mesmo script serve as páginas em português (raiz) e em inglês (/en/) */
+/* Idioma: o mesmo script serve as páginas em inglês (raiz) e em português (/pt/) */
 const EN = document.documentElement.lang.startsWith('en');
 const t = (pt, en) => EN ? en : pt;
 const LOC = t('pt-BR', 'en');
@@ -40,12 +40,12 @@ const CH_ALL = [ [ "famosos", "famosos.html", "Famosos", "Atletas, atores, escri
   [ "quiz", "quiz.html", "Quiz", "Você tem ginga?", "#c8e04a", "#0c2016", "quiz.html", "Quiz", "Got ginga?" ] ];
 const CH = CH_ALL.map(c => EN ? [c[0], c[6], c[7], c[8], c[4], c[5]] : c.slice(0, 6));
 const ABOUT = t('sobre.html', 'about.html');
-/* a mesma página no outro idioma (o inglês fica em /en/) */
+/* a mesma página no outro idioma (o português fica em /pt/) */
 const otherLang = id => {
-  if (id === 'inicio') return EN ? '../' : 'en/';
-  if (id === 'sobre') return EN ? '../sobre.html' : 'en/about.html';
+  if (id === 'inicio') return EN ? 'pt/' : '../';
+  if (id === 'sobre') return EN ? 'pt/sobre.html' : '../about.html';
   const c = CH_ALL.find(x => x[0] === id);
-  return c ? (EN ? '../' + c[1] : 'en/' + c[6]) : (EN ? '../' : 'en/');
+  return c ? (EN ? 'pt/' + c[1] : '../' + c[6]) : (EN ? 'pt/' : '../');
 };
 const chOf = id => CH.find(c => c[0] === id);
 /* listas que moram dentro da página de outra parada */
@@ -278,8 +278,10 @@ if ($('hero')) {
   // em telas estreitas o enquadramento fecha no Cristo, para a estátua caber inteira
   const ul = $('hero').querySelector('.cristo');
   const frame = () => {
-    ul.setAttribute('viewBox', innerWidth < 1024 ? '580 0 920 420' : '0 0 1440 420');
-    ul.setAttribute('preserveAspectRatio', innerWidth < 1024 ? 'xMidYMax slice' : 'xMaxYMax slice');
+    // o enquadramento acompanha o tamanho real da ilustração, para o Cristo nunca perder a cabeça
+    const r = ul.getBoundingClientRect(), vw = 420 * r.width / r.height;
+    const x = innerWidth < 1024 && vw < 1440 ? clamp(1040 - vw / 2, 0, 1440 - vw) : 1440 - vw;
+    ul.setAttribute('viewBox', `${x.toFixed(1)} 0 ${vw.toFixed(1)} 420`);
   };
   frame(); addEventListener('resize', frame);
 }
