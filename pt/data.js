@@ -351,7 +351,7 @@ comida: [
   { n: 'Tapioca', t: 'Ingredientes', d: 'Goma de mandioca feita em frigideira, recheada de tudo. Tecnologia indígena que hoje é moda em todo o país.' },
   { n: 'Dendê', t: 'Ingredientes', d: 'O azeite de palma alaranjado, vindo da África, que dá à cozinha baiana o sabor e a cor.' },
   { n: 'Frutas nativas', t: 'Ingredientes', d: 'Cupuaçu, jabuticaba, caju, pitanga, cajá, graviola, açaí. Boa parte delas nem tem tradução para o inglês.', w: 'Fruta' },
-  { n: 'Cafezinho', t: 'Bebidas', d: 'Forte, pequeno, doce. O Brasil é o maior produtor mundial de café há mais de 150 anos, e oferecer um é o gesto básico de hospitalidade.' },
+  { n: 'Cafézinho', t: 'Bebidas', d: 'Forte, pequeno, doce. O Brasil é o maior produtor mundial de café há mais de 150 anos, e oferecer um é o gesto básico de hospitalidade.', w: 'Cafezinho' },
   { n: 'Caipirinha', t: 'Bebidas', d: 'Cachaça, limão, açúcar e gelo. Patrimônio nacional, o drinque brasileiro mais famoso do mundo.' },
   { n: 'Cachaça', t: 'Bebidas', d: 'Destilado de cana-de-açúcar com denominação própria e milhares de marcas e de apelidos: branquinha, marvada, pinga.' },
   { n: 'Chimarrão', t: 'Bebidas', d: 'Erva-mate em cuia, com bomba de metal e água quente, herança guarani. Em Porto Alegre, anda com a pessoa até na rua.' },

@@ -351,7 +351,7 @@ comida: [
   { n: 'Tapioca', t: 'Ingredients', d: 'Manioc starch cooked in a pan and filled with anything. Indigenous technology that’s now fashionable all over the country.' },
   { n: 'Dendê', t: 'Ingredients', d: 'The orange palm oil from Africa that gives Bahian cooking its colour and flavour.', w: 'Palm oil' },
   { n: 'Native fruit', t: 'Ingredients', d: 'Cupuaçu, jabuticaba, cashew fruit, pitanga, cajá, soursop, açaí. Many of them don’t even have an English name.', w: 'List of Brazilian fruits' },
-  { n: 'Cafezinho', t: 'Drinks', d: 'Strong, small and sweet. Brazil has been the world’s largest coffee producer for over 150 years and offering a cup is the basic gesture of hospitality.', w: 'Coffee production in Brazil' },
+  { n: 'Cafézinho', t: 'Drinks', d: 'Strong, small and sweet. Brazil has been the world’s largest coffee producer for over 150 years and offering a cup is the basic gesture of hospitality.', w: 'Coffee production in Brazil' },
   { n: 'Caipirinha', t: 'Drinks', d: 'Cachaça, lime, sugar and ice. National heritage and the world’s most famous Brazilian cocktail.' },
   { n: 'Cachaça', t: 'Drinks', d: 'A sugarcane spirit with its own protected name, thousands of brands and just as many nicknames.' },
   { n: 'Chimarrão', t: 'Drinks', d: 'Yerba mate in a gourd, with a metal straw and hot water, inherited from the Guarani. In Porto Alegre, people carry it down the street.' },

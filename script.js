@@ -218,7 +218,7 @@ const land = (el, delay = 0) => anim(el, [
 const goY = y => scrollTo({top: y, behavior: reduced ? 'auto' : 'smooth'});
 const goEl = el => goY(el.getBoundingClientRect().top + scrollY - (parseInt(getComputedStyle(document.documentElement).scrollPaddingTop) || 0));
 
-/* Abertura: o cafezinho de boas-vindas (uma vez por sessão) */
+/* Abertura: o cafézinho de boas-vindas (uma vez por sessão) */
 if ($('gate')) {
   let seen = false;
   try { seen = sessionStorage.getItem('bc-ack') === '1'; } catch (e) {}
@@ -288,7 +288,7 @@ if ($('hero')) {
 
 /* Faixa com gírias */
 if ($('mq')) {
-  const words = ['saudades', 'eita', 'tá ligado', 'cafuné', 'valeu', 'oxente', 'uai', 'bah', 'tamo junto', 'gambiarra', 'cafezinho', 'show de bola', 'partiu', 'jeitinho', 'nossa', 'sextou'];
+  const words = ['saudades', 'eita', 'tá ligado', 'cafuné', 'valeu', 'oxente', 'uai', 'bah', 'tamo junto', 'gambiarra', 'cafézinho', 'show de bola', 'partiu', 'jeitinho', 'nossa', 'sextou'];
   const run = words.map(w => `<span>${esc(w)}</span><i aria-hidden="true">✶</i>`).join('');
   $('mq').innerHTML = run + run;
 }
@@ -491,7 +491,7 @@ const WAY = EN ? [
   ['Zoeira', 'Everything becomes a joke, even a national tragedy. Brazil’s internet invades comment sections worldwide: “zoeira never ends”.'],
   ['Gambiarra', 'Fixed it with tape and it works? Sorted. Short on money, rich in creativity. From the TV aerial with steel wool to the car repaired with wire.'],
   ['Everything’s a party', 'Carnival, June festivals, barbecues, birthdays, even a team’s match: a reason to gather family, neighbours and whoever turns up. There’s always room for one more.'],
-  ['Cafezinho, rapidinho', 'The diminutive softens everything: um minutinho (a little minute), um favorzinho (a little favour). And nobody believes “a little minute” really lasts a minute.']
+  ['Cafézinho, rapidinho', 'The diminutive softens everything: um minutinho (a little minute), um favorzinho (a little favour). And nobody believes “a little minute” really lasts a minute.']
 ] : [
   ['Jeitinho', 'Sempre se dá um jeito. Pode ser a criatividade que resolve o impossível ou a regra contornada na conversa. O país tem orgulho e vergonha disso ao mesmo tempo.'],
   ['Saudade', 'Sentir falta de alguém, de um lugar ou de um tempo, com carinho. É a palavra favorita da língua, cantada em todo samba e toda sofrência.'],
@@ -499,7 +499,7 @@ const WAY = EN ? [
   ['Zoeira', 'Tudo vira piada, inclusive a tragédia nacional. A internet brasileira invade os comentários do mundo inteiro: é a “zoeira never ends”.'],
   ['Gambiarra', 'Prendeu com fita, funcionou? Está resolvido. Falta dinheiro, sobra criatividade. Da antena de TV com bombril ao conserto do carro com arame.'],
   ['Tudo vira festa', 'Carnaval, São João, churrasco, aniversário e até jogo do time: motivo para reunir a família, os vizinhos e quem mais chegar. Sempre cabe mais um.'],
-  ['Cafezinho, rapidinho', 'O diminutivo suaviza tudo: um minutinho, um favorzinho, um beijinho. E ninguém acredita que “um minutinho” dure mesmo um minuto.']
+  ['Cafézinho, rapidinho', 'O diminutivo suaviza tudo: um minutinho, um favorzinho, um beijinho. E ninguém acredita que “um minutinho” dure mesmo um minuto.']
 ];
 const WAYC = ['#00843d', '#ffc72c', '#0b3d91', '#ff8fb1', '#7b2fbe', '#0a7d4f', '#ff6b4a'];
 if ($('wayRow')) {
@@ -765,7 +765,7 @@ function quizDraw(){
     const msg = p === 1 ? t('Arretado! Você tem ginga: é brasileiro de coração.', 'Arretado! You’ve got ginga: Brazilian at heart.')
       : p >= .7 ? t('Show de bola! Já dá para se virar em qualquer churrasco.', 'Show de bola! You’d hold your own at any churrasco.')
       : p >= .4 ? t('Tá quase! Mais uma volta pelo guia e você chega lá.', 'Almost! One more lap of the guide and you’ll get there.')
-      : t('Vixe... Vale reler o guia com um cafezinho na mão.', 'Vixe... Worth another read of the guide, cafezinho in hand.');
+      : t('Vixe... Vale reler o guia com um cafézinho na mão.', 'Vixe... Worth another read of the guide, cafézinho in hand.');
     box.innerHTML = `<div class="res"><div class="sc">${Q.ok}/${n}</div><p>${msg}</p>
       <button class="btn" type="button" id="qAgain">${t('Jogar de novo', 'Play again')}</button></div>`;
     $('qAgain').onclick = quizStart;
