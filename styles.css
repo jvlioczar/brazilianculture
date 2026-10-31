@@ -128,7 +128,7 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 .hero-in{position:relative;z-index:1;padding-top:clamp(22px,5.5vh,72px)}
 .hero h1{font-size:clamp(60px,min(13vw,17vh),220px);line-height:.84;letter-spacing:0;margin:12px 0 0}
 /* os textos da capa só existem depois do aviso: a abertura (classe .play) é quem os revela */
-@media (scripting:enabled){.hero:not(.play) .hero-in>*{opacity:0}}
+@media (scripting:enabled){.hero:not(.play) .hero-in>*,.hero:not(.play) .sun,.hero:not(.play) .cristo{opacity:0}}
 .hero h1 .ln{display:block;padding-bottom:.04em}
 .hero h1 .ch{display:inline-block;transform-origin:50% 100%;will-change:transform}
 .hero h1 em{display:block;font:400 .78em/1 var(--hand);text-transform:lowercase;color:#fff8ea;margin-top:.06em;text-shadow:0 3px 0 rgba(11,79,44,.35)}

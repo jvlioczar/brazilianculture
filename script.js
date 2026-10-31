@@ -255,7 +255,7 @@ function heroIntro(){
     {transform: 'translate(-26%, 46%) scale(.82)', opacity: 0},
     {transform: 'translate(-8%, 10%) scale(.96)', opacity: 1, offset: .55},
     {transform: 'translate(0,0) scale(1)', opacity: 1}], {duration: 2200, easing: EASE.OUT, fill: 'backwards'});
-  anim(h.querySelector('.cristo'), [{transform: 'translateY(40px)'}, {transform: 'none'}], {duration: 1600, easing: EASE.OUT});
+  anim(h.querySelector('.cristo'), [{transform: 'translateY(40px)', opacity: 0}, {transform: 'none', opacity: 1}], {duration: 1600, easing: EASE.OUT});
   h.querySelectorAll('h1 .ch').forEach((c, i) => {
     intro.push(anim(c, [
       {transform: 'translateY(-120%) scale(.9,1.2)', opacity: 0},
