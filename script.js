@@ -391,7 +391,11 @@ const MS = EN ? [
 const yearTxt = y => y < 0 ? fmt(Math.round(-y / 1000) * 1000) + t(' a.C.', ' BC') : String(Math.round(y));
 const PHONE = matchMedia('(max-width: 760px)');
 if ($('timeTrack')) {
-  $('yrTicks').innerHTML = MS.map(([y, tx], i) => `<li data-i="${i}"><b>${yearTxt(y)}</b><span>${esc(tx)}</span></li>`).join('');
+  /* cada marco tem uma bolinha na barra e o ano logo abaixo, nas mesmas posições: é onde a rolagem para */
+  const pos = i => (i / (MS.length - 1) * 100).toFixed(3) + '%';
+  $('yrBar').parentElement.insertAdjacentHTML('beforeend', MS.map((_, i) => `<span class="yr-dot" style="--p:${pos(i)}" aria-hidden="true"></span>`).join(''));
+  const dots = [...document.querySelectorAll('.yr-dot')];
+  $('yrTicks').innerHTML = MS.map(([y, tx], i) => `<li data-i="${i}" style="--p:${pos(i)}"><b>${yearTxt(y)}</b><span>${esc(tx)}</span></li>`).join('');
   const ticks = [...$('yrTicks').children], tr = $('timeTrack'), LAST = MS.length - 1;
   const span = () => tr.offsetHeight - innerHeight;
   const posOf = () => clamp(-tr.getBoundingClientRect().top / span(), 0, 1) * LAST; // 0 = 1º marco, LAST = último
@@ -412,7 +416,7 @@ if ($('timeTrack')) {
     if (wasMoving && !moving) { land($('yr')); if (k === last) showLabel(); } // o ano "aterrissa" em cada marco
     if (k !== last) {
       last = k; $('yrLabel').textContent = MS[k][1];
-      ticks.forEach((li, j) => { li.classList.toggle('on', j <= k); li.classList.toggle('now', j === k); });
+      [ticks, dots].forEach(l => l.forEach((el, j) => { el.classList.toggle('on', j <= k); el.classList.toggle('now', j === k); }));
       if (!moving) showLabel();
     }
     wasMoving = moving;
