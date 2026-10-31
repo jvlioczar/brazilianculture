@@ -123,7 +123,7 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 .hero{--dusk:0;position:relative;height:calc(100svh - var(--sb) - var(--head));min-height:560px;overflow:hidden;color:#06281a;background:linear-gradient(180deg,var(--hero-a) 0%,var(--hero-b) 52%,var(--hero-c) 100%);isolation:isolate}
 .hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,#0a1a3a,#1b3a6b 60%,#123a5c);opacity:calc(var(--dusk) * .7);pointer-events:none}
 .sky{position:absolute;inset:0;z-index:-2}
-.sun{position:absolute;width:clamp(260px,38vw,560px);aspect-ratio:1;border-radius:50%;right:12%;top:14%;background:radial-gradient(circle,#ffdf80 0 36%,#ffc23d 37% 55%,transparent 56%);will-change:transform,translate}
+.sun{--sun:clamp(200px,min(28vw,46vh),440px);--at:28%;position:absolute;width:var(--sun);aspect-ratio:1;border-radius:50%;right:calc(var(--at) - var(--sun) / 2);bottom:calc(var(--ul-h) * .74 - var(--sun) / 2);background:radial-gradient(circle,#ffdf80 0 36%,#ffc23d 37% 55%,transparent 56%);will-change:transform,translate}
 .stars{position:absolute;inset:0;width:100%;height:100%;opacity:calc(var(--dusk) * 1.2);transition:opacity .6s}
 .hero-in{position:relative;z-index:1;padding-top:clamp(22px,5.5vh,72px)}
 .hero h1{font-size:clamp(60px,min(13vw,17vh),220px);line-height:.84;letter-spacing:0;margin:12px 0 0}
@@ -153,7 +153,14 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 /* tela grande: o texto à esquerda equilibra o Cristo à direita */
 @media (min-width:1024px){
   .hero-in{width:min(1240px,100% - 80px);margin-inline:auto}
-  .hero h1,.hero .lede{max-width:56%}
+  /* o texto fica compacto no alto da capa: título em uma linha e a dica de rolagem ao lado do parágrafo */
+  .hero-in{display:grid;grid-template-columns:minmax(0,660px) auto;justify-content:start;column-gap:40px;padding-top:clamp(18px,3.5vh,56px)}
+  .hero-in>.lq,.hero h1{grid-column:1/-1}
+  .hero h1{font-size:clamp(60px,min(9vw,12.5vh),170px);margin-top:8px}
+  .hero h1 .ln{display:inline-block;margin-right:.22em;padding-bottom:0}
+  .hero h1 em{display:inline-block;margin-top:0;font-size:1.08em;line-height:.8}
+  .hero .lede{margin-top:14px;max-width:none}
+  .scrollcue{margin-top:14px;align-self:center}
   /* a altura cresce com a largura: assim o recorte nunca corta o topo da estátua */
   .hero{--ul-h:min(max(clamp(240px,48vh,520px),29.2vw),calc(100svh - var(--sb) - var(--head) - 12px))}
 }
@@ -161,7 +168,7 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 @media (min-width:600px) and (max-width:1023px){
   .hero-in{width:calc(100% - 64px);margin-inline:auto;padding-top:7vh}
   .hero h1{font-size:clamp(84px,min(20vw,15vh),180px)}
-  .sun{width:48vw;right:6%;top:34%}
+  .sun{--sun:34vw;--at:50%}
   .hero{--ul-h:clamp(250px,40vh,420px)}
 }
 /* celular: título grande mas contido, sol menor no canto */
@@ -169,7 +176,7 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
   .hero-in{width:calc(100% - 32px);margin-inline:auto;padding-top:5vh}
   .hero h1{font-size:clamp(58px,min(21vw,13vh),104px)}
   .hero .lede{font-size:17px}
-  .sun{width:230px;right:8%;top:auto;bottom:calc(clamp(190px,32vh,270px) * .42)}
+  .sun{--sun:170px;--at:50%}
   .hero{--ul-h:clamp(190px,32vh,270px)}
 }
 :root[data-theme="dark"] .hero{color:#fbeedd;--m-a:#1a5a3e;--m-b:#0f4230;--m-c:#082a1e;--s-a:#fffdf0;--s-b:#ffe7a8;--ped:#c9b78e;--far:#124a31;--sea-c:#123a6b}
