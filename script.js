@@ -179,7 +179,7 @@ if (cites && document.querySelector('.page')) document.querySelector('.page').in
   `<p class="cite">${t('Fontes', 'Sources')}: ${cites.map(([n, u]) => `<a href="${u}" target="_blank" rel="noopener">${esc(n)}</a>`).join(', ')}.</p>`);
 
 $('foot').innerHTML = `<div class="wrap">
-  <p class="foot-big">${t('Até mais, <em>volte sempre.</em>', 'Até mais, <em>come back soon.</em>')}</p>
+  <p class="foot-big">Até mais, <em>volte sempre.</em></p>
   <p class="lead">${t('O projeto <strong>Cultura Brasileira</strong> foi idealizado por Julio Cesar Prava e é um projeto especial da <strong>BiblioVerse</strong>.', '<strong>Brazilian Culture</strong> was created by Julio Cesar Prava and is a special project of <strong>BiblioVerse</strong>.')}</p>
   <div class="acts">
     <a href="${ABOUT}">${t('Sobre', 'About')}</a>
