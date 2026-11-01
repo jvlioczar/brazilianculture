@@ -875,6 +875,7 @@ costumes: [
   { n: 'Rice and beans', t: 'At the table', d: 'Lunch on a normal day, for rich and poor. Plenty of Brazilians abroad say this is what they miss the most.', w: 'Rice and beans' },
   { n: 'The churrasco', t: 'At the table', d: 'More a social event than a meal: someone stays at the grill for hours, the meat comes out bit by bit and everyone has an opinion on the salt. Any excuse will do.' },
   { n: 'Sunday lunch', t: 'At the table', d: 'The extended family at grandma’s, with too much food, noise and someone asking when you’re getting married.', wk: '' },
+  { n: 'Hospitality in the interior', t: 'At the table', d: 'In small towns and the countryside, people love having you over, and the table fills up before you’ve even sat down. Finish your plate and they’ll tell you to have some more: “you’ve hardly eaten a thing!”. Saying no rarely works.', wk: '' },
   { n: 'Cafézinho', t: 'At the table', d: 'Offered at home, at the office and even at the mechanic’s. Refusing one takes some explaining.', w: 'Coffee production in Brazil' },
   { n: 'Watching football', t: 'On screen', d: 'You often inherit your club from your family, and the choice is for life. Datafolha’s 2026 poll shows 63% have some interest in football, and 36% have none. So not quite everybody.', wk: '' },
   { n: 'The telenovela', t: 'On screen', d: 'For decades, the country planned its evening around the nine o’clock novela. In 2025, the remake of Vale Tudo got the whole country asking again who killed Odete Roitman.', w: 'Telenovelas in Brazil' },

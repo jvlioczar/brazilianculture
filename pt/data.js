@@ -875,6 +875,7 @@ costumes: [
   { n: 'Arroz e feijão', t: 'Na mesa', d: 'O almoço de um dia normal, para rico e para pobre. Muito brasileiro no exterior diz que é disso que sente mais falta.', w: 'Arroz com feijão' },
   { n: 'O churrasco', t: 'Na mesa', d: 'Mais um evento social do que uma refeição: alguém fica horas na churrasqueira, a carne sai aos poucos e todo mundo tem opinião sobre o sal. Qualquer desculpa serve.' },
   { n: 'O almoço de domingo', t: 'Na mesa', d: 'A família inteira na casa da avó, com comida demais, barulho e alguém perguntando quando você vai casar.', wk: '' },
+  { n: 'A hospitalidade do interior', t: 'Na mesa', d: 'Nas cidades pequenas e na roça, as pessoas adoram receber, e a mesa enche antes mesmo de você sentar. Terminou o prato? Vão mandar repetir: “você não comeu nada!”. Dizer não raramente funciona.', wk: '' },
   { n: 'Cafézinho', t: 'Na mesa', d: 'Oferecido em casa, no escritório e até na oficina mecânica. Recusar exige explicação.', w: 'Café no Brasil' },
   { n: 'Assistir futebol', t: 'Na tela', d: 'O time muitas vezes vem de família, e a escolha é para a vida. Na pesquisa Datafolha de 2026, 63% têm algum interesse por futebol e 36% não têm nenhum. Ou seja, nem todo mundo.', wk: '' },
   { n: 'A novela', t: 'Na tela', d: 'Por décadas, o país organizou a noite em torno da novela das nove. Em 2025, o remake de Vale Tudo fez o Brasil inteiro perguntar de novo quem matou Odete Roitman.', w: 'Telenovela brasileira' },
