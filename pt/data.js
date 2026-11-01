@@ -4,7 +4,7 @@
    w = termo de busca na Wikipédia (opcional; o padrão é o nome) */
 window.BC = {
 
-updated: 'Outubro/2026',
+updated: 'novembro de 2026',
 
 /* ============ FAMOSOS ============ */
 famosos: [
@@ -861,10 +861,128 @@ quiz: [
   { q: 'Qual bioma é a maior planície alagável do mundo?', o: ['Cerrado', 'Caatinga', 'Pantanal', 'Pampa'], a: 2 },
   { q: 'O que quer dizer “cafuné”?', o: ['Um café forte', 'Carinho nos cabelos', 'Um salgado', 'Uma briga'], a: 1 },
   { q: 'Em que ano aconteceu o “7 a 1”?', o: ['2002', '2010', '2014', '2018'], a: 2 },
-  { q: 'Quem desenhou a arquitetura de Brasília?', o: ['Burle Marx', 'Lina Bo Bardi', 'Santos-Dumont', 'Oscar Niemeyer'], a: 3 }
+  { q: 'Quem desenhou a arquitetura de Brasília?', o: ['Burle Marx', 'Lina Bo Bardi', 'Santos-Dumont', 'Oscar Niemeyer'], a: 3 },
+  { q: 'Qual carro foi o mais vendido do Brasil por 27 anos seguidos?', o: ['Fusca', 'Volkswagen Gol', 'Fiat Uno', 'Chevrolet Onix'], a: 1 },
+  { q: 'O que é um caramelo, na internet brasileira?', o: ['Um cachorro', 'Um doce mineiro', 'Uma dança', 'Uma praia'], a: 0 }
+],
+
+/* ============ PAIXÕES NACIONAIS ============ */
+/* Estereótipos que cabem em muitos brasileiros, não em todos (ver o aviso na página) */
+costumes: [
+  { n: 'O barzinho', t: 'No bar', d: 'Mesa de plástico na calçada, porção de petiscos e amigos sem hora para ir embora. A saideira raramente é a última.', wk: '' },
+  { n: 'Cerveja gelada', t: 'No bar', d: 'O Brasil é o terceiro maior produtor de cerveja do mundo, com cerca de 15 bilhões de litros por ano. A garrafa de 600 ml vai para o meio da mesa e todo mundo divide, em copo pequeno para não esquentar.', w: 'Cerveja no Brasil' },
+  { n: 'Caipirinha', t: 'No bar', d: 'O coquetel nacional de cachaça e limão aparece na praia, no churrasco e na festa. Hoje também vem com morango, maracujá e vodca, para desgosto dos puristas.' },
+  { n: 'Arroz e feijão', t: 'Na mesa', d: 'O almoço de um dia normal, para rico e para pobre. Muito brasileiro no exterior diz que é disso que sente mais falta.', w: 'Arroz com feijão' },
+  { n: 'O churrasco', t: 'Na mesa', d: 'Mais um evento social do que uma refeição: alguém fica horas na churrasqueira, a carne sai aos poucos e todo mundo tem opinião sobre o sal. Qualquer desculpa serve.' },
+  { n: 'O almoço de domingo', t: 'Na mesa', d: 'A família inteira na casa da avó, com comida demais, barulho e alguém perguntando quando você vai casar.', wk: '' },
+  { n: 'Cafézinho', t: 'Na mesa', d: 'Oferecido em casa, no escritório e até na oficina mecânica. Recusar exige explicação.', w: 'Café no Brasil' },
+  { n: 'Assistir futebol', t: 'Na tela', d: 'O time muitas vezes vem de família, e a escolha é para a vida. Na pesquisa Datafolha de 2026, 63% têm algum interesse por futebol e 36% não têm nenhum. Ou seja, nem todo mundo.', wk: '' },
+  { n: 'A novela', t: 'Na tela', d: 'Por décadas, o país organizou a noite em torno da novela das nove. Em 2025, o remake de Vale Tudo fez o Brasil inteiro perguntar de novo quem matou Odete Roitman.', w: 'Telenovela brasileira' },
+  { n: 'BBB', t: 'Na tela', d: 'No ar desde 2002, ocupa o começo de todo ano com brigas, memes e discursos de eliminação. Um paredão do BBB 20 teve mais de 1,5 bilhão de votos e entrou para o Guinness.', w: 'Big Brother Brasil' },
+  { n: 'A praia', t: 'Na rua', d: 'Cooler, guarda-sol, chinelo, ambulante gritando e bola no ar. Até quem mora longe do mar planeja o ano em função dela.', wk: '' },
+  { n: 'Discussão política na internet', t: 'Na rua', d: 'Comentários, grupos da família e threads em que ninguém muda de ideia. Muita família tem a regra: política fica fora do grupo.', wk: '' },
+  { n: 'Chegar atrasado', t: 'Na rua', d: 'A festa “às 8” começa às 10, e quem chega na hora pode pegar o anfitrião no banho. No trabalho e no médico, a história é outra.', wk: '' },
+  { n: '“Passa lá em casa”', t: 'Na rua', d: 'É simpatia, não um convite de verdade. Não espere data marcada. O mesmo vale para “vamos marcar”.', wk: '' },
+  { n: 'A despedida longa', t: 'Na rua', d: 'Dizer “já vou” começa um processo de meia hora: mais uma conversa na sala, outra no portão e a última na janela do carro.', wk: '' },
+  { n: 'Tomar muito banho', t: 'Em casa', d: 'Pelo menos um por dia, muitas vezes dois no calor. Muito brasileiro se choca ao descobrir que essa regra não vale em todo lugar.', wk: '' },
+  { n: 'A fofoca', t: 'Em casa', d: 'Esporte nacional, praticado na calçada, no grupo da família e em páginas com milhões de seguidores.', wk: '' }
+],
+esportes: [
+  { n: 'Futebol', t: 'Mais acompanhados', d: 'Lidera todas as pesquisas, com cinco Copas do Mundo. Também é o esporte mais praticado: 15,3 milhões de pessoas, ou 39,3% de quem pratica algum esporte, segundo o IBGE.', w: 'Futebol no Brasil' },
+  { n: 'Vôlei', t: 'Mais acompanhados', d: 'O segundo lugar habitual em popularidade, graças a décadas de medalhas da seleção, na quadra e na areia.', w: 'Voleibol no Brasil' },
+  { n: 'Fórmula 1', t: 'Mais acompanhados', d: 'As manhãs de domingo com o tema da vitória do Senna marcaram uma geração. O interesse voltou a crescer, com a chegada de Gabriel Bortoleto ao grid em 2025.', w: 'Grande Prêmio do Brasil' },
+  { n: 'MMA', t: 'Mais acompanhados', d: 'Anderson Silva, José Aldo e Amanda Nunes transformaram o UFC em evento nacional, mesmo de madrugada.', w: 'Artes marciais mistas' },
+  { n: 'Basquete', t: 'Mais acompanhados', d: 'De Oscar Schmidt e Hortência à NBA, que tem público grande e crescente no Brasil.', w: 'Basquetebol no Brasil' },
+  { n: 'Tênis', t: 'Mais acompanhados', d: 'Os títulos do Guga em Roland Garros causaram um boom nos anos 2000, e João Fonseca reacendeu a paixão nos anos 2020.', w: 'João Fonseca' },
+  { n: 'Surfe', t: 'Mais acompanhados', d: 'A “Brazilian Storm” de Medina, Italo e Filipe Toledo fez o país acordar de madrugada para ver campeonatos do outro lado do mundo.', w: 'Surfe' },
+  { n: 'Skate', t: 'Mais acompanhados', d: 'Antes malvisto, conquistou o país com as medalhas olímpicas de Rayssa Leal.', w: 'Rayssa Leal' },
+  { n: 'Ginástica', t: 'Mais acompanhados', d: 'Muita gente só acompanha nas Olimpíadas, mas Rebeca Andrade para o país quando compete.', w: 'Rebeca Andrade' },
+  { n: 'A pelada', t: 'Mais praticados', d: 'No campo de terra, na rua ou na quadra alugada, com a mesma turma toda semana e discussão incluída. Segundo o IBGE, 94,5% de quem joga futebol são homens.', wk: '' },
+  { n: 'Caminhada', t: 'Mais praticados', d: 'A atividade física mais comum fora do esporte, segundo o IBGE: 9,5 milhões de pessoas, principalmente a partir dos 60 anos.', wk: '' },
+  { n: 'Futsal', t: 'Mais praticados', d: 'O clássico da quadra da escola e a base de muitos craques do futebol.', w: 'Futsal' },
+  { n: 'Academia', t: 'Mais praticados', d: 'Musculação, aulas e muita selfie no espelho. Tem academia em toda esquina, e para muita gente ela faz parte da vida social.', wk: '' },
+  { n: 'Corrida de rua', t: 'Mais praticados', d: 'Febre recente, com grupos de corrida e provas lotadas pelo país. O clássico é a São Silvestre, em 31 de dezembro, em São Paulo.', w: 'Corrida Internacional de São Silvestre' },
+  { n: 'Futevôlei', t: 'Mais praticados', d: 'Vôlei sem usar as mãos, inventado nas praias do Rio. Pura exibição, e muito difícil.', w: 'Futevôlei' },
+  { n: 'Beach tennis e altinha', t: 'Mais praticados', d: 'O beach tennis virou febre até longe do mar. A altinha é mais simples: uma roda de amigos mantendo a bola no ar, com os pés na água.', w: 'Beach tennis' },
+  { n: 'Jiu-jítsu brasileiro', t: 'Mais praticados', d: 'A família Gracie adaptou o judô japonês no Rio e criou uma arte marcial hoje praticada no mundo todo.', w: 'Jiu-jitsu brasileiro' },
+  { n: 'Capoeira', t: 'Mais praticados', d: 'Criada por africanos escravizados e seus descendentes, mistura luta, dança e música. É praticada em escolas e praças e é patrimônio brasileiro.', w: 'Capoeira' },
+  { n: 'Peteca', t: 'Mais praticados', d: 'De origem indígena e jogada com a mão, é uma das favoritas do recreio, principalmente em Minas Gerais.', w: 'Peteca' }
+],
+festas: [
+  { n: 'Carnaval', t: 'País todo', d: 'Escolas de samba no Rio e em São Paulo, trios em Salvador, frevo em Recife e Olinda e blocos em todo canto. Muita gente também aproveita para fugir de tudo isso.', w: 'Carnaval do Brasil' },
+  { n: 'Festa Junina', t: 'País todo', d: 'Fogueira, camisa xadrez, sarda pintada, quadrilha, milho de todo jeito e pescaria. Toda escola faz a sua, geralmente com pais constrangidos.', w: 'Festa junina' },
+  { n: 'Réveillon de Copacabana', t: 'País todo', d: 'Roupa branca, sete ondas e fogos. O Guinness reconheceu o do Rio como a maior festa de Ano-Novo do mundo, com 2,5 milhões de pessoas na areia em frente ao palco principal.', w: 'Réveillon em Copacabana' },
+  { n: 'A festa de aniversário', t: 'País todo', d: 'Brigadeiro, coxinha, mesa temática e o “Parabéns” com versos extras. Quem ganha o primeiro pedaço de bolo é a pessoa homenageada.', wk: '' },
+  { n: 'Caruaru contra Campina Grande', t: 'Nordeste', d: 'As duas cidades disputam o título de maior São João do mundo: um mês de forró em Pernambuco e na Paraíba, disputa tão animada quanto a festa.', w: 'São João de Campina Grande' },
+  { n: 'Parintins', t: 'Norte', d: 'Na Amazônia, os bois Garantido e Caprichoso competem com alegorias gigantes em um festival em junho. A cidade se divide entre vermelho e azul.', w: 'Festival de Parintins' },
+  { n: 'Círio de Nazaré', t: 'Norte', d: 'Em Belém, mais de 2 milhões de pessoas acompanham a procissão em outubro, um dos maiores eventos religiosos do mundo.', w: 'Círio de Nazaré' },
+  { n: 'Bumba meu boi', t: 'Nordeste', d: 'A história do boi que morre e ressuscita, com fantasias, tambores e dança. No Maranhão, é o coração do São João e patrimônio da Unesco.', w: 'Bumba meu boi' },
+  { n: 'Lavagem do Bonfim', t: 'Nordeste', d: 'Em janeiro, baianas lavam as escadarias da igreja em Salvador com água de cheiro, em um grande encontro entre catolicismo e candomblé.', w: 'Lavagem do Bonfim' },
+  { n: 'Oktoberfest de Blumenau', t: 'Sul', d: 'Chope, roupas típicas e dança alemã em Santa Catarina desde 1984. Herança dos imigrantes, no calor tropical.', w: 'Oktoberfest de Blumenau' },
+  { n: 'Natal Luz de Gramado', t: 'Sul', d: 'Um Natal de fantasia europeia sem neve na Serra Gaúcha, que dura meses e atrai visitantes de todo o país.', w: 'Natal Luz' },
+  { n: 'Festa do Peão de Barretos', t: 'Sudeste', d: 'Realizado desde os anos 1950 no interior de São Paulo, o rodeio mais famoso do país mistura montaria e grandes nomes do sertanejo todo mês de agosto.', w: 'Festa do Peão de Boiadeiro de Barretos' },
+  { n: 'Rock in Rio e The Town', t: 'Sudeste', d: 'O festival nascido em 1985 virou marca global. O evento irmão, The Town, acontece em São Paulo desde 2023.', w: 'Rock in Rio' },
+  { n: 'Shows de graça na areia', t: 'Sudeste', d: 'Copacabana virou palco mundial: a prefeitura estimou 1,6 milhão de pessoas para Madonna em 2024 e 2,1 milhões para Lady Gaga em 2025.', w: 'Copacabana (bairro do Rio de Janeiro)' },
+  { n: 'Parada LGBT+ de São Paulo', t: 'Sudeste', d: 'A Avenida Paulista recebe uma das maiores paradas do orgulho do mundo desde 1997.', w: 'Parada do Orgulho LGBT de São Paulo' },
+  { n: 'Marcha para Jesus', t: 'Sudeste', d: 'O evento evangélico que lota as ruas de São Paulo todo ano, com gospel nos trios. Um sinal de como a fé do país vem mudando.', w: 'Marcha para Jesus' }
+],
+carros: [
+  { n: 'Fusca', t: 'Clássicos', y: '1959', d: 'O mais vendido do país por 24 anos. Saiu de linha e voltou em 1993, a pedido do presidente Itamar Franco. Muitos ainda rodam, e são amados.', w: 'Volkswagen Fusca' },
+  { n: 'Kombi', t: 'Clássicos', y: '1957', d: 'Fabricada no Brasil até 2013. Transporte escolar, carro de sorvete, loja ambulante e sonho de surfista.', w: 'Volkswagen Kombi' },
+  { n: 'Chevrolet Opala', t: 'Clássicos', y: '1968', d: 'O sedã grande de seis cilindros foi carro dos sonhos por décadas e ainda tem clubes de fãs devotos.', w: 'Chevrolet Opala' },
+  { n: 'Brasília', t: 'Clássicos', y: '1973', d: 'O carro de família dos anos 1970, imortalizado pela música dos Mamonas Assassinas sobre a Brasília amarela.', w: 'Volkswagen Brasília' },
+  { n: 'Volkswagen Gol', t: 'Populares', y: '1980', d: 'O carro mais vendido do Brasil por 27 anos seguidos e o mais produzido da história do país. Saiu de linha em 2022, com muita despedida.', w: 'Volkswagen Gol' },
+  { n: 'Fiat Uno', t: 'Populares', y: '1984', d: 'O “Mille” quadrado e barato foi o primeiro carro de milhões. Virou meme: o com escada no teto é a coisa mais rápida da estrada.', w: 'Fiat Uno' },
+  { n: 'Chevrolet Onix', t: 'Populares', y: '2012', d: 'Tomou a coroa do Gol e foi o carro mais vendido do país de 2015 a 2020.', w: 'Chevrolet Onix' },
+  { n: 'Fiat Strada', t: 'Hoje', y: '1998', d: 'Uma picape pequena é a favorita do país: o veículo mais emplacado desde 2021, com cerca de 143 mil unidades em 2025. Trabalha na roça, no comércio e leva criança à escola.', w: 'Fiat Strada' },
+  { n: 'Toyota Hilux', t: 'Hoje', d: 'A picape grande é símbolo do agronegócio e de status, mesmo que nunca saia do asfalto.', w: 'Toyota Hilux' },
+  { n: 'O carro flex', t: 'Paixões', y: '2003', d: 'O brasileiro escolhe entre etanol e gasolina na bomba, fazendo conta de cabeça. A maioria dos carros novos é flex, e todo motorista conhece a regra dos 70%.', w: 'Veículo flex' },
+  { n: 'Honda CG', t: 'Paixões', d: 'A moto que entrega de tudo. Motos são o ganha-pão de milhões, de entregadores a mototaxistas, e a CG é a mais popular delas.', w: 'Honda CG 125' },
+  { n: 'O som automotivo', t: 'Paixões', d: 'Porta-malas cheio de caixas, “paredão” no posto e funk ou forró no volume máximo. Muitas vezes ilegal, e sempre audível.', wk: '' },
+  { n: 'Carro rebaixado', t: 'Paixões', d: 'Vidro escuro, roda grande e suspensão quase tocando o chão. Encontros lotam estacionamentos nos fins de semana.', wk: '' },
+  { n: 'Frase de para-choque', t: 'Paixões', d: 'A filosofia dos caminhoneiros, pintada na traseira. Humor, fé e dor de cotovelo a 80 km/h.', wk: '' },
+  { n: 'Lavar o carro no domingo', t: 'Paixões', d: 'O carro é status e membro da família: é lavado na rua, com as portas abertas e música ligada.', wk: '' }
+],
+internet: [
+  { n: 'Sempre online', t: 'Hábitos', d: 'Segundo o relatório Digital 2026, o brasileiro passa cerca de 53 horas por semana online, contra 33 da média mundial. Nas redes sociais, são 29 horas contra 18,6.', wk: '' },
+  { n: 'O zap', t: 'Hábitos', d: 'É o verdadeiro sistema operacional do país, com cerca de 1h38 por dia: para pedir pizza, falar com o médico e brigar com a família.', w: 'WhatsApp' },
+  { n: 'O áudio de quatro minutos', t: 'Hábitos', d: 'Muita gente prefere falar a digitar. Outros ouvem em velocidade dobrada, ou respondem por texto em protesto.', wk: '' },
+  { n: 'A imagem de “bom dia”', t: 'Hábitos', d: 'Rosas, nascer do sol, versículo e glitter, enviados ao grupo pela sua tia às 6 da manhã.', wk: '' },
+  { n: 'Meme em minutos', t: 'Memes', d: 'Qualquer notícia, jogo ou premiação vira piada em minutos. O brasileiro também costuma rir da tragédia, como forma de lidar com ela. Veja também Virais e memes.', wk: '' },
+  { n: 'Figurinhas', t: 'Memes', d: 'O brasileiro transformou as figurinhas do WhatsApp em forma de arte, muitas vezes recortadas de qualquer foto de qualquer pessoa, incluindo amigos e parentes.', wk: '' },
+  { n: 'kkkkkk', t: 'Memes', d: 'É assim que o brasileiro escreve a risada. Quanto mais k, mais engraçado. O antigo “rsrs” hoje entrega a idade.', wk: '' },
+  { n: 'Cala Boca Galvão', t: 'Memes', y: '2010', d: 'Na Copa, os brasileiros levaram a frase aos assuntos mais comentados do Twitter no mundo e convenceram estrangeiros de que era para salvar uma ave rara. Era para mandar o narrador Galvão Bueno calar a boca.', w: 'Galvão Bueno' },
+  { n: 'A invasão dos comentários', t: 'Lá fora', d: 'Quando uma celebridade olha para o Brasil ou um clube estrangeiro contrata um brasileiro, os comentários se enchem de “come to Brazil”. Muitos artistas se encantam, alguns se assustam.', wk: '' },
+  { n: 'Huehuehue', t: 'Lá fora', d: 'Nos jogos online, os brasileiros ficaram famosos pela risada e por certa bagunça. “BR?” ainda é a primeira frase de qualquer partida.', wk: '' },
+  { n: 'Orkut', t: 'Lá fora', y: '2004', d: 'A rede do Google foi um fenômeno brasileiro, com comunidades como “Eu odeio acordar cedo”. Fechou em 2014 e ainda deixa saudade.', w: 'Orkut' },
+  { n: 'A mudança para o Bluesky', t: 'Lá fora', y: '2024', d: 'Quando o STF suspendeu o X por mais de um mês, milhões de brasileiros testaram outras redes e levaram o humor junto.', w: 'Bloqueio do X no Brasil' },
+  { n: 'As lives', t: 'Hábitos', d: 'Na pandemia, o país assistiu a shows em casa, com Marília Mendonça entre as recordistas mundiais. Hoje, a CazéTV do Casimiro transmite a Copa no YouTube.', w: 'Marília Mendonça' },
+  { n: 'A fake news do tio', t: 'Hábitos', d: 'Correntes com cura milagrosa, teoria da conspiração ou golpe. Problema sério, e também piada de família.', c: 'A desinformação em aplicativos de mensagem virou um problema real nas eleições e nas campanhas de saúde, e é tema de debate na Justiça e no Congresso.', wk: '' }
+],
+caramelo: [
+  { n: 'Quem é ele?', t: 'O cachorro', d: 'Não é uma raça. O caramelo é um vira-lata de porte médio e pelo dourado, visto em quase toda rua do país. E costuma andar como se fosse o dono do lugar.', wk: '' },
+  { n: 'O cachorro do bairro', t: 'O cachorro', d: 'Muitas vezes mora no posto, na padaria da esquina ou no mercado, com o pote de um vizinho e a cama de outro. De ninguém e de todo mundo.', wk: '' },
+  { n: 'A nota de R$ 200', t: 'Fama na internet', y: '2020', d: 'Quando a nova nota foi anunciada, a internet fez campanha para estampar um caramelo, e as notas falsas viralizaram. O lobo-guará ficou no lugar, mas o cachorro ganhou no voto popular.', w: 'Cédula de duzentos reais' },
+  { n: 'O astro de cinema', t: 'Fama na internet', y: '2025', d: 'Caramelo, da Netflix, com Rafael Vitti e o vira-lata resgatado Amendoim, fez o público chorar pelo mundo e chegou ao topo do ranking global da plataforma.', wk: '' },
+  { n: 'Garoto-propaganda', t: 'Fama na internet', d: 'As marcas o adotaram para parecer mais brasileiras. Poucos personagens são tão queridos em todas as regiões e lados políticos.', wk: '' },
+  { n: 'O cavalo Caramelo', t: 'Um afeto nacional', y: '2024', d: 'Nas enchentes do Rio Grande do Sul, um cavalo ilhado em um telhado em Canoas foi resgatado ao vivo na TV. O nome dele? Caramelo, claro.', wk: '' },
+  { n: 'Manchinha', t: 'Um afeto nacional', y: '2018', d: 'A morte de uma cachorra de rua espancada em um supermercado em Osasco causou comoção nacional e reforçou os pedidos de leis mais duras contra maus-tratos.', wk: '' },
+  { n: 'Adote, não compre', t: 'Um afeto nacional', d: 'A fama ajudou as campanhas pelos vira-latas. Mas o problema é real: abrigos e voluntários pelo país continuam lotados.', wk: '' }
+],
+maisPaixoes: [
+  { n: 'Fé em tudo', t: 'Dia a dia', d: 'Missa, culto, candomblé, umbanda e espiritismo, às vezes na mesma família. “Graças a Deus” fecha quase toda frase.', w: 'Religião no Brasil' },
+  { n: 'Pet como filho', t: 'Dia a dia', d: 'Cães e gatos têm festa de aniversário, roupa e lugar à mesa. Donos se chamam de “mãe” e “pai” sem nenhum constrangimento.', wk: '' },
+  { n: 'Mãe', t: 'Dia a dia', d: 'Sabe de tudo, diz “leva um casaco” a 30 °C e ameaça com o chinelo. Instituição nacional, e meme.', wk: '' },
+  { n: 'Chinelo', t: 'Dia a dia', d: 'Usado na praia, na padaria e, para alguns, em quase todo lugar. A Havaianas levou o chinelo ao mundo, mas ele nasceu aqui como calçado do dia a dia do povo.', w: 'Havaianas' },
+  { n: 'Parcelar tudo', t: 'Dinheiro', d: '“Em quantas vezes?” Geladeira, tênis e até o mercado são divididos: 12 vezes sem juros é esporte nacional.', wk: '' },
+  { n: 'Pix', t: 'Dinheiro', d: 'O pagamento instantâneo do Banco Central conquistou dos bancos ao vendedor de coco na praia. “Me faz um Pix” virou parte da língua.', w: 'Pix' },
+  { n: 'Apostas', t: 'Dinheiro', d: 'Do jogo do bicho e da Mega-Sena aos aplicativos de bets, a aposta está em toda parte, e as camisas dos clubes agora anunciam casas de apostas.', c: 'As apostas online foram regulamentadas em 2025, depois de anos de crescimento. Profissionais de saúde e entidades de defesa do consumidor alertam para dívidas e vício, sobretudo entre os mais pobres.', wk: '' },
+  { n: 'Beleza e cuidado', t: 'Corpo', d: 'O Brasil está entre os líderes mundiais em cirurgia plástica, e há salões em todo lugar. Cabelo, unha e dente recebem atenção de verdade.', c: 'A mesma pressão pesa sobre quem não cabe no padrão, principalmente mulheres e pessoas negras.', wk: '' },
+  { n: 'Música o tempo todo', t: 'Dia a dia', d: 'Sertanejo, funk, pagode, forró e gospel: da caixa de som do vizinho no domingo, você querendo ou não.', wk: '' }
 ],
 
 fontes: {
+  paixoes: [['IBGE: esporte e atividade física (PNAD 2015)', 'https://educa.ibge.gov.br/jovens/materias-especiais/19051-pnad-esportes-2015-pratica-de-esportes-e-atividades-fisicas.html'], ['Datafolha via Tribuna de Jundiaí', 'https://tribunadejundiai.com.br/mais/esportes/interesse-do-brasil-pelo-futebol-cai-aponta-datafolha/'], ['Digital 2026: Brasil', 'https://datareportal.com/reports/digital-2026-brazil'], ['Fenabrave via Monitor Mercantil', 'https://monitormercantil.com.br/carros-mais-vendidos-em-2025-strada-lidera-onix-despenca-e-argo-surpreende/'], ['Guinness sobre o Réveillon do Rio, via Jovem Pan', 'https://jovempan.com.br/brasil/reveillon-do-rio-janeiro-e-reconhecido-como-o-maior-do-mundo-pelo-guinness-book/'], ['CNN Brasil: cerveja', 'https://www.cnnbrasil.com.br/viagemegastronomia/viagem/dia-internacional-da-cerveja-brasil-tem-mais-de-1-500-cervejarias-registradas/'], ['Bloomberg Línea: o caramelo', 'https://www.bloomberglinea.com.br/estilo-de-vida/da-publicidade-a-netflix-como-o-vira-lata-caramelo-se-tornou-estrela-comercial/']],
   telas: [['Ancine', 'https://www.gov.br/ancine']],
   comida: [['Iphan: patrimônio imaterial', 'https://www.gov.br/iphan']],
   recordes: [['Inpe', 'https://www.gov.br/inpe'], ['Itaipu Binacional', 'https://www.itaipu.gov.br'], ['Slave Voyages', 'https://www.slavevoyages.org'], ['ONU: World Urbanization Prospects 2025', 'https://www.un.org/development/desa/pd/content/launch-world-urbanization-prospects-2025']],

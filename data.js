@@ -4,7 +4,7 @@
    w = Wikipedia search term (optional; defaults to the name) */
 window.BC = {
 
-updated: 'October 2026',
+updated: 'November 2026',
 
 /* ============ FAMOUS BRAZILIANS ============ */
 famosos: [
@@ -861,10 +861,128 @@ quiz: [
   { q: 'Which biome is the world’s largest tropical wetland?', o: ['Cerrado', 'Caatinga', 'Pantanal', 'Pampa'], a: 2 },
   { q: 'What does “cafuné” mean?', o: ['A strong coffee', 'Running fingers through someone’s hair', 'A savoury snack', 'A fight'], a: 1 },
   { q: 'What year was the “7–1”?', o: ['2002', '2010', '2014', '2018'], a: 2 },
-  { q: 'Who designed the buildings of Brasília?', o: ['Burle Marx', 'Lina Bo Bardi', 'Santos-Dumont', 'Oscar Niemeyer'], a: 3 }
+  { q: 'Who designed the buildings of Brasília?', o: ['Burle Marx', 'Lina Bo Bardi', 'Santos-Dumont', 'Oscar Niemeyer'], a: 3 },
+  { q: 'Which car was Brazil’s best-seller for 27 years in a row?', o: ['Fusca', 'Volkswagen Gol', 'Fiat Uno', 'Chevrolet Onix'], a: 1 },
+  { q: 'What is a caramelo?', o: ['A dog', 'A sweet from Minas Gerais', 'A dance', 'A beach'], a: 0 }
+],
+
+/* ============ NATIONAL PASSIONS ============ */
+/* Stereotypes that fit many Brazilians, not all of them (see the notice on the page) */
+costumes: [
+  { n: 'The barzinho', t: 'At the bar', d: 'A plastic table on the pavement, a plate of snacks and friends with no plans to leave. “Just one more” (the saideira) is rarely the last.', wk: '' },
+  { n: 'Ice-cold beer', t: 'At the bar', d: 'Brazil is the world’s third-largest beer producer, with about 15 billion litres a year. The 600 ml bottle goes in the middle of the table and everyone shares, in small glasses so it stays freezing.', w: 'Beer in Brazil' },
+  { n: 'Caipirinha', t: 'At the bar', d: 'The national cocktail of cachaça and lime turns up at the beach, at barbecues and at parties. Now it also comes with strawberry, passion fruit and vodka, to purists’ dismay.' },
+  { n: 'Rice and beans', t: 'At the table', d: 'Lunch on a normal day, for rich and poor. Plenty of Brazilians abroad say this is what they miss the most.', w: 'Rice and beans' },
+  { n: 'The churrasco', t: 'At the table', d: 'More a social event than a meal: someone stays at the grill for hours, the meat comes out bit by bit and everyone has an opinion on the salt. Any excuse will do.' },
+  { n: 'Sunday lunch', t: 'At the table', d: 'The extended family at grandma’s, with too much food, noise and someone asking when you’re getting married.', wk: '' },
+  { n: 'Cafézinho', t: 'At the table', d: 'Offered at home, at the office and even at the mechanic’s. Refusing one takes some explaining.', w: 'Coffee production in Brazil' },
+  { n: 'Watching football', t: 'On screen', d: 'You often inherit your club from your family, and the choice is for life. Datafolha’s 2026 poll shows 63% have some interest in football, and 36% have none. So not quite everybody.', wk: '' },
+  { n: 'The telenovela', t: 'On screen', d: 'For decades, the country planned its evening around the nine o’clock novela. In 2025, the remake of Vale Tudo got the whole country asking again who killed Odete Roitman.', w: 'Telenovelas in Brazil' },
+  { n: 'Big Brother Brasil', t: 'On screen', d: 'On air since 2002, it fills the start of every year with fights, memes and elimination speeches. A BBB 20 vote drew over 1.5 billion votes and entered Guinness World Records.', w: 'Big Brother Brasil' },
+  { n: 'The beach', t: 'Out and about', d: 'Cool box, parasol, flip-flops, sellers shouting their snacks and a ball in the air. Even those who live far from the sea plan their year around it.', wk: '' },
+  { n: 'Arguing about politics online', t: 'Out and about', d: 'Comment sections, family groups and threads where nobody changes their mind. Many families have a rule: politics stays out of the group.', wk: '' },
+  { n: 'Arriving late', t: 'Out and about', d: 'A party “at 8” starts at 10, and turning up on the dot may catch your host in the shower. Work and the doctor’s are another story.', wk: '' },
+  { n: '“Come round some time”', t: 'Out and about', d: 'It’s friendly, not a real invitation. Don’t expect a date. The same goes for “we must get together”.', wk: '' },
+  { n: 'The long goodbye', t: 'Out and about', d: 'Saying “I’m off” starts a half-hour process: one more chat in the living room, another at the door and a last one at the car window.', wk: '' },
+  { n: 'Showering a lot', t: 'At home', d: 'At least one a day, often two in the heat. Plenty of Brazilians are shocked to learn this isn’t the rule everywhere.', wk: '' },
+  { n: 'Gossip', t: 'At home', d: 'The fofoca is a national sport, played on the pavement, in the family group and on gossip pages with millions of followers.', wk: '' }
+],
+esportes: [
+  { n: 'Football', t: 'Most followed', d: 'Top of every poll, with five World Cups. It’s also what Brazilians play most: 15.3 million people, or 39.3% of those who play a sport, according to the IBGE.', w: 'Football in Brazil' },
+  { n: 'Volleyball', t: 'Most followed', d: 'The usual runner-up in popularity, thanks to decades of national team medals, indoors and on the sand.', w: 'Volleyball in Brazil' },
+  { n: 'Formula 1', t: 'Most followed', d: 'Sunday mornings with Senna’s theme tune marked a generation. Interest has been growing again, helped by Gabriel Bortoleto’s arrival on the grid in 2025.', w: 'Brazilian Grand Prix' },
+  { n: 'MMA', t: 'Most followed', d: 'Anderson Silva, José Aldo and Amanda Nunes made the UFC a nationwide event, even in the early hours.', w: 'Mixed martial arts' },
+  { n: 'Basketball', t: 'Most followed', d: 'From Oscar Schmidt and Hortência to the NBA, which has a big and growing following in Brazil.', w: 'Basketball in Brazil' },
+  { n: 'Tennis', t: 'Most followed', d: 'Guga’s French Open titles caused a boom in the 2000s, and João Fonseca revived the passion in the 2020s.', w: 'João Fonseca' },
+  { n: 'Surfing', t: 'Most followed', d: 'The “Brazilian Storm” of Medina, Italo and Filipe Toledo got the country up at dawn to watch competitions on the other side of the world.', w: 'Surfing' },
+  { n: 'Skateboarding', t: 'Most followed', d: 'Once frowned upon, it won the nation’s heart with Rayssa Leal’s Olympic medals.', w: 'Rayssa Leal' },
+  { n: 'Gymnastics', t: 'Most followed', d: 'A sport most people only follow at the Olympics, but Rebeca Andrade stops the country when she competes.', w: 'Rebeca Andrade' },
+  { n: 'The pelada', t: 'Most played', d: 'The kickabout: on a dirt pitch, in the street or on a rented five-a-side court, with the same group every week and arguments included. According to the IBGE, 94.5% of those who play football are men.', wk: '' },
+  { n: 'Walking', t: 'Most played', d: 'The most common physical activity outside of sport, according to the IBGE: 9.5 million people, especially from the age of 60 on.', wk: '' },
+  { n: 'Futsal', t: 'Most played', d: 'The school sports hall classic and the training ground of many football stars.', w: 'Futsal' },
+  { n: 'The gym', t: 'Most played', d: 'Weights, classes and plenty of mirror selfies. Gyms are on every corner, and many people treat them as part of their social life.', wk: '' },
+  { n: 'Street running', t: 'Most played', d: 'A recent craze, with running clubs and packed races across the country. The classic is the São Silvestre, on 31 December in São Paulo.', w: 'Saint Silvester Road Race' },
+  { n: 'Footvolley', t: 'Most played', d: 'Volleyball without using your hands, invented on the beaches of Rio. Pure showing off, and very hard.', w: 'Footvolley' },
+  { n: 'Beach tennis and altinha', t: 'Most played', d: 'Beach tennis became a fever even far from the sea. Altinha is simpler: a circle of friends keeping the ball up in the shallow water.', w: 'Beach tennis' },
+  { n: 'Brazilian jiu-jitsu', t: 'Most played', d: 'The Gracie family adapted Japanese judo in Rio and created a martial art that’s now practised all over the world.', w: 'Brazilian jiu-jitsu' },
+  { n: 'Capoeira', t: 'Most played', d: 'Created by enslaved Africans and their descendants, a mix of fight, dance and music. It’s practised in schools and on squares, and is Brazilian heritage.', w: 'Capoeira' },
+  { n: 'Peteca', t: 'Most played', d: 'A shuttlecock hit with the hand, of Indigenous origin and a favourite of school breaks, particularly in Minas Gerais.', w: 'Peteca' }
+],
+festas: [
+  { n: 'Carnival', t: 'All over the country', d: 'Samba schools in Rio and São Paulo, sound trucks in Salvador, frevo in Recife and Olinda, and street blocos everywhere. Plenty of people use it to escape from it all, too.', w: 'Brazilian Carnival' },
+  { n: 'Festa Junina', t: 'All over the country', d: 'Bonfires, checked shirts, drawn-on freckles, the quadrilha dance, corn in every form and fishing games. Schools hold their own, usually with embarrassed parents.', w: 'Festa Junina' },
+  { n: 'New Year at Copacabana', t: 'All over the country', d: 'White clothes, seven waves and fireworks. Guinness recognised Rio’s as the world’s biggest New Year party, with 2.5 million people on the sand in front of the main stage.', w: 'Copacabana, Rio de Janeiro' },
+  { n: 'The birthday party', t: 'All over the country', d: 'Brigadeiro, coxinha, a themed table and the “Parabéns” song with its extra verses. Whoever gets the first slice of cake is the guest of honour.', wk: '' },
+  { n: 'Caruaru against Campina Grande', t: 'Northeast', d: 'The two cities both claim the world’s biggest São João: a month of forró in Pernambuco and Paraíba, a dispute as lively as the party.', w: 'Festa Junina' },
+  { n: 'Parintins', t: 'North', d: 'In the Amazon, the Garantido and Caprichoso bulls compete with giant floats at a festival in June. The city divides into red and blue.', w: 'Parintins Folklore Festival' },
+  { n: 'Círio de Nazaré', t: 'North', d: 'In Belém, more than 2 million people accompany the procession in October, in one of the world’s largest religious events.', w: 'Círio de Nazaré' },
+  { n: 'Bumba meu boi', t: 'Northeast', d: 'The story of the bull that dies and comes back to life, with costumes, drums and dance. In Maranhão, it’s the heart of the June festivities and is UNESCO heritage.', w: 'Bumba Meu Boi' },
+  { n: 'Lavagem do Bonfim', t: 'Northeast', d: 'In January, baianas wash the church steps in Salvador with scented water, in a great meeting of Catholicism and Candomblé.', wk: '' },
+  { n: 'Oktoberfest in Blumenau', t: 'South', d: 'Beer, lederhosen and German dance in Santa Catarina since 1984. A legacy of the immigrants, in tropical heat.', w: 'Oktoberfest of Blumenau' },
+  { n: 'Natal Luz in Gramado', t: 'South', d: 'A Christmas of snow-free European fantasy in the Serra Gaúcha, running for months and drawing visitors from all over the country.', wk: '' },
+  { n: 'Barretos Rodeo', t: 'Southeast', d: 'Held since the 1950s in São Paulo state, the country’s most famous rodeo mixes bull riding and big-name sertanejo every August.', w: 'Barretos' },
+  { n: 'Rock in Rio and The Town', t: 'Southeast', d: 'The festival born in 1985 became a global brand. Its sister event, The Town, has been held in São Paulo since 2023.', w: 'Rock in Rio' },
+  { n: 'Free shows on the sand', t: 'Southeast', d: 'Copacabana has become a world stage: city hall put Madonna’s crowd at 1.6 million in 2024 and Lady Gaga’s at 2.1 million in 2025.', w: 'Copacabana, Rio de Janeiro' },
+  { n: 'São Paulo Pride', t: 'Southeast', d: 'Avenida Paulista has hosted one of the world’s largest Pride parades since 1997.', w: 'São Paulo Gay Pride Parade' },
+  { n: 'March for Jesus', t: 'Southeast', d: 'The evangelical event that fills the streets of São Paulo every year, with gospel on sound trucks. A sign of how the country’s faith has been changing.', w: 'March for Jesus' }
+],
+carros: [
+  { n: 'Volkswagen Beetle (Fusca)', t: 'Classics', y: '1959', d: 'The country’s best-seller for 24 years. It left production and returned in 1993 at the request of President Itamar Franco. Many are still running, and they’re loved.', w: 'Volkswagen Beetle' },
+  { n: 'Kombi', t: 'Classics', y: '1957', d: 'Made in Brazil until 2013. School transport, ice-cream van, mobile shop and surfers’ dream.', w: 'Volkswagen Type 2' },
+  { n: 'Chevrolet Opala', t: 'Classics', y: '1968', d: 'The big six-cylinder sedan was a dream car for decades, and still has devoted clubs of fans.', w: 'Chevrolet Opala' },
+  { n: 'VW Brasília', t: 'Classics', y: '1973', d: 'The family car of the 1970s, immortalised in Mamonas Assassinas’ hit about a yellow Brasília.', w: 'Volkswagen Brasília' },
+  { n: 'Volkswagen Gol', t: 'Popular', y: '1980', d: 'The best-selling car in Brazil for 27 years in a row and the most produced in the country’s history. It left the line in 2022, with plenty of goodbyes.', w: 'Volkswagen Gol' },
+  { n: 'Fiat Uno', t: 'Popular', y: '1984', d: 'The boxy, cheap “Mille” was the first car for millions. It became a meme: the one with a ladder on the roof is the fastest thing on the road.', w: 'Fiat Uno' },
+  { n: 'Chevrolet Onix', t: 'Popular', y: '2012', d: 'It took the Gol’s crown and was the country’s best-selling car from 2015 to 2020.', w: 'Chevrolet Onix' },
+  { n: 'Fiat Strada', t: 'Today', y: '1998', d: 'A small pickup is the nation’s favourite: the most registered vehicle since 2021, with about 143,000 units in 2025. It works on the farm, in commerce and on the school run.', w: 'Fiat Strada' },
+  { n: 'Toyota Hilux', t: 'Today', y: '', d: 'The big pickup is a symbol of agribusiness and status, even if it never leaves the asphalt.', w: 'Toyota Hilux' },
+  { n: 'Flex fuel', t: 'Passions', y: '2003', d: 'Brazilians choose at the pump between ethanol and petrol, doing the sums in their heads. Most new cars are flex, and every driver knows the 70% rule.', w: 'Flexible-fuel vehicles in Brazil' },
+  { n: 'Honda CG', t: 'Passions', d: 'The motorcycle that delivers everything. Bikes are the livelihood of millions, from delivery riders to moto-taxis, and the CG is the most popular of them.', w: 'Honda CG125' },
+  { n: 'The sound system', t: 'Passions', d: 'A boot full of speakers, a “paredão” at the petrol station and funk or forró at full volume. Often illegal, and always audible.', wk: '' },
+  { n: 'Lowered and customised cars', t: 'Passions', d: 'Tinted windows, big wheels and a suspension almost touching the road. Tuning meetings fill car parks on weekends.', wk: '' },
+  { n: 'Truck-bumper sayings', t: 'Passions', d: 'Truckers’ philosophy, painted on the back of the vehicle. Humour, faith and love troubles at 80 km/h.', wk: '' },
+  { n: 'Sunday car wash', t: 'Passions', d: 'A car is a status symbol and a member of the family: it gets washed on the street, with the doors open and music on.', wk: '' }
+],
+internet: [
+  { n: 'Always online', t: 'Habits', d: 'According to the Digital 2026 report, Brazilians spend about 53 hours a week online, against a world average of 33. On social networks, it’s 29 hours against 18.6.', wk: '' },
+  { n: 'WhatsApp, or “zap”', t: 'Habits', d: 'It’s the country’s real operating system, at about 1h38 a day: for buying pizza, talking to your doctor and arguing with the family.', w: 'WhatsApp' },
+  { n: 'The four-minute voice note', t: 'Habits', d: 'Plenty of people would rather talk than type. Others listen at double speed, or reply in text out of protest.', wk: '' },
+  { n: '“Bom dia” images', t: 'Habits', d: 'Roses, a sunrise, a verse and glitter, sent to the group by your aunt at 6 am.', wk: '' },
+  { n: 'Memes within hours', t: 'Memes', d: 'Any news story, match or awards show becomes a joke in minutes. Brazilians often laugh at tragedy, too, as a way of coping. See also Virals and memes.', wk: '' },
+  { n: 'Stickers', t: 'Memes', d: 'Brazilians turned WhatsApp stickers into an art form, often cut from any photo of anyone, including friends and family.', wk: '' },
+  { n: 'kkkkkk', t: 'Memes', d: 'How Brazilians write laughter. The more k’s, the funnier. The older “rsrs” now gives away your age.', wk: '' },
+  { n: 'Cala Boca Galvão', t: 'Memes', y: '2010', d: 'At the World Cup, Brazilians made the phrase trend worldwide on Twitter and convinced foreigners it was about saving a rare bird. It was telling TV commentator Galvão Bueno to shut up.', w: 'Galvão Bueno' },
+  { n: 'The comment invasion', t: 'Abroad', d: 'When a celebrity looks at Brazil, or a foreign club signs a Brazilian, the comments fill up with “come to Brazil”. Many artists have been won over, and some have been frightened.', wk: '' },
+  { n: 'Huehuehue', t: 'Abroad', d: 'In online games, Brazilians became famous for their laughter and a certain unruliness. “BR?” is still the opening line of any match.', wk: '' },
+  { n: 'Orkut', t: 'Abroad', y: '2004', d: 'Google’s network was a Brazilian phenomenon, with communities such as “I hate waking up early”. It closed in 2014 and people still miss it.', w: 'Orkut' },
+  { n: 'Moving to Bluesky', t: 'Abroad', y: '2024', d: 'When the Supreme Court suspended X for over a month, millions of Brazilians tried other networks and took their humour along.', w: 'Blocking of X in Brazil' },
+  { n: 'Live streams', t: 'Habits', d: 'In the pandemic, the country watched concerts at home, with Marília Mendonça among the world’s record-holders. Today, Casimiro’s CazéTV shows the World Cup on YouTube.', w: 'Marília Mendonça' },
+  { n: 'The uncle’s fake news', t: 'Habits', d: 'Chain messages with a miracle cure, a conspiracy or a scam. A serious problem, and also a family joke.', c: 'Disinformation in messaging apps has become a real issue in Brazilian elections and public health campaigns, and a subject of debate in the courts and in Congress.', wk: '' }
+],
+caramelo: [
+  { n: 'Who is he?', t: 'The dog', d: 'He isn’t a breed. The caramelo is a medium-sized mongrel with a golden-brown coat, seen in almost every street in the country. And he usually looks as if he owns the place.', wk: '' },
+  { n: 'The neighbourhood’s dog', t: 'The dog', d: 'He often lives at the petrol station, the corner bakery or the market, with a bowl from one neighbour and a bed from another. Nobody’s and everybody’s.', wk: '' },
+  { n: 'The R$200 note', t: 'Internet fame', y: '2020', d: 'When the new note was announced, the internet campaigned to print a caramelo on it, and the fake notes went viral. The maned wolf kept its place, but the dog won the popular vote.', w: 'Brazilian real' },
+  { n: 'The movie star', t: 'Internet fame', y: '2025', d: 'Netflix’s Caramelo, with Rafael Vitti and the rescued stray Amendoim, made audiences cry around the world and reached the top of the platform’s global chart.', wk: '' },
+  { n: 'Advertising mascot', t: 'Internet fame', d: 'Brands have adopted him to look more Brazilian. Few characters are so easily liked, across all regions and political sides.', wk: '' },
+  { n: 'The horse Caramelo', t: 'A national affection', y: '2024', d: 'During the floods in Rio Grande do Sul, a horse stranded on a rooftop in Canoas was rescued live on TV. His name? Caramelo, of course.', wk: '' },
+  { n: 'Manchinha', t: 'A national affection', y: '2018', d: 'The death of a stray dog beaten at a supermarket in Osasco caused a national outcry and strengthened calls for tougher animal-cruelty laws.', wk: '' },
+  { n: 'Adopt, don’t buy', t: 'A national affection', d: 'The dog’s fame has helped campaigns for mongrels. But the problem is real: animal shelters and volunteers across the country are still overflowing.', wk: '' }
+],
+maisPaixoes: [
+  { n: 'Faith in everything', t: 'Everyday life', d: 'Catholic mass, evangelical worship, Candomblé and Umbanda, and spiritism, sometimes in the same family. “Thank God” closes almost every sentence.', w: 'Religion in Brazil' },
+  { n: 'Pets as children', t: 'Everyday life', d: 'Dogs and cats have birthday parties, clothes and a place at the table. Owners call themselves “mum” and “dad” with no embarrassment.', wk: '' },
+  { n: 'Mum', t: 'Everyday life', d: 'She knows everything, says “take a coat” in 30 °C heat and will threaten you with a flip-flop. A national institution, and a meme.', wk: '' },
+  { n: 'Flip-flops', t: 'Everyday life', d: 'Worn at the beach, at the bakery and, for some, nearly everywhere. Havaianas took them to the world, but they were born here as the everyday shoe of ordinary people.', w: 'Havaianas' },
+  { n: 'Paying in instalments', t: 'Money', d: '“In how many instalments?” Fridges, trainers and even groceries get split up: 12 times with no interest is a national sport.', wk: '' },
+  { n: 'Pix', t: 'Money', d: 'The Central Bank’s instant payment system won over everyone from banks to the coconut seller on the beach. “Send me a Pix” has become a verb.', w: 'Pix (payment system)' },
+  { n: 'Betting', t: 'Money', d: 'From the animal game and Mega-Sena to sports betting apps, gambling is everywhere, and club shirts now advertise bookmakers.', c: 'Online betting was regulated in 2025 after years of growth. Health professionals and consumer bodies warn of debt and addiction, especially among the poorest.', wk: '' },
+  { n: 'Beauty and looking good', t: 'Body', d: 'Brazil is among the world’s leaders in plastic surgery, and salons are everywhere. Hair, nails and teeth get real attention.', c: 'The same pressure weighs on those who don’t fit the standard, particularly women and Black people.', wk: '' },
+  { n: 'Music on at all times', t: 'Everyday life', d: 'Sertanejo, funk, pagode, forró and gospel: from the neighbour’s speaker on a Sunday, whether you like it or not.', wk: '' }
 ],
 
 fontes: {
+  paixoes: [['IBGE: sport and physical activity (PNAD 2015)', 'https://educa.ibge.gov.br/jovens/materias-especiais/19051-pnad-esportes-2015-pratica-de-esportes-e-atividades-fisicas.html'], ['Datafolha via Tribuna de Jundiaí', 'https://tribunadejundiai.com.br/mais/esportes/interesse-do-brasil-pelo-futebol-cai-aponta-datafolha/'], ['Digital 2026: Brazil', 'https://datareportal.com/reports/digital-2026-brazil'], ['Fenabrave via Monitor Mercantil', 'https://monitormercantil.com.br/carros-mais-vendidos-em-2025-strada-lidera-onix-despenca-e-argo-surpreende/'], ['Guinness on Rio’s New Year, via Jovem Pan', 'https://jovempan.com.br/brasil/reveillon-do-rio-janeiro-e-reconhecido-como-o-maior-do-mundo-pelo-guinness-book/'], ['CNN Brasil: Brazilian beer', 'https://www.cnnbrasil.com.br/viagemegastronomia/viagem/dia-internacional-da-cerveja-brasil-tem-mais-de-1-500-cervejarias-registradas/'], ['Bloomberg Línea: the caramelo', 'https://www.bloomberglinea.com.br/estilo-de-vida/da-publicidade-a-netflix-como-o-vira-lata-caramelo-se-tornou-estrela-comercial/']],
   telas: [['Ancine', 'https://www.gov.br/ancine']],
   comida: [['Iphan: intangible heritage', 'https://www.gov.br/iphan']],
   recordes: [['INPE', 'https://www.gov.br/inpe'], ['Itaipu Binacional', 'https://www.itaipu.gov.br'], ['Slave Voyages', 'https://www.slavevoyages.org'], ['UN: World Urbanization Prospects 2025', 'https://www.un.org/development/desa/pd/content/launch-world-urbanization-prospects-2025']],
