@@ -922,7 +922,7 @@ festas: [
   { n: 'Oktoberfest de Blumenau', t: 'Sul', d: 'Chope, roupas típicas e dança alemã em Santa Catarina desde 1984. Herança dos imigrantes, no calor tropical.', w: 'Oktoberfest de Blumenau' },
   { n: 'Natal Luz de Gramado', t: 'Sul', d: 'Um Natal de fantasia europeia sem neve na Serra Gaúcha, que dura meses e atrai visitantes de todo o país.', w: 'Natal Luz' },
   { n: 'Festa do Peão de Barretos', t: 'Sudeste', d: 'Realizado desde os anos 1950 no interior de São Paulo, o rodeio mais famoso do país mistura montaria e grandes nomes do sertanejo todo mês de agosto.', w: 'Festa do Peão de Boiadeiro de Barretos' },
-  { n: 'Rock in Rio e The Town', t: 'Sudeste', d: 'O festival nascido em 1985 virou marca global. O evento irmão, The Town, acontece em São Paulo desde 2023.', w: 'Rock in Rio' },
+  { n: 'Rock in Rio, Lollapalooza e The Town', t: 'Sudeste', d: 'Os grandes festivais de música do país. O Rock in Rio, nascido em 1985, virou marca global. O Lollapalooza lota Interlagos, em São Paulo, há mais de uma década, e o The Town, dos criadores do Rock in Rio, acontece na mesma cidade desde 2023.', w: 'Rock in Rio' },
   { n: 'Shows de graça na areia', t: 'Sudeste', d: 'Copacabana virou palco mundial: a prefeitura estimou 1,6 milhão de pessoas para Madonna em 2024 e 2,1 milhões para Lady Gaga em 2025.', w: 'Copacabana (bairro do Rio de Janeiro)' },
   { n: 'Parada LGBT+ de São Paulo', t: 'Sudeste', d: 'A Avenida Paulista recebe uma das maiores paradas do orgulho do mundo desde 1997.', w: 'Parada do Orgulho LGBT de São Paulo' },
   { n: 'Marcha para Jesus', t: 'Sudeste', d: 'O evento evangélico que lota as ruas de São Paulo todo ano, com gospel nos trios. Um sinal de como a fé do país vem mudando.', w: 'Marcha para Jesus' }

@@ -922,7 +922,7 @@ festas: [
   { n: 'Oktoberfest in Blumenau', t: 'South', d: 'Beer, lederhosen and German dance in Santa Catarina since 1984. A legacy of the immigrants, in tropical heat.', w: 'Oktoberfest of Blumenau' },
   { n: 'Natal Luz in Gramado', t: 'South', d: 'A Christmas of snow-free European fantasy in the Serra Gaúcha, running for months and drawing visitors from all over the country.', wk: '' },
   { n: 'Barretos Rodeo', t: 'Southeast', d: 'Held since the 1950s in São Paulo state, the country’s most famous rodeo mixes bull riding and big-name sertanejo every August.', w: 'Barretos' },
-  { n: 'Rock in Rio and The Town', t: 'Southeast', d: 'The festival born in 1985 became a global brand. Its sister event, The Town, has been held in São Paulo since 2023.', w: 'Rock in Rio' },
+  { n: 'Rock in Rio, Lollapalooza and The Town', t: 'Southeast', d: 'The country’s big music festivals. Rock in Rio, born in 1985, became a global brand. Lollapalooza has filled Interlagos in São Paulo for over a decade, and The Town, from the makers of Rock in Rio, has been held in the same city since 2023.', w: 'Rock in Rio' },
   { n: 'Free shows on the sand', t: 'Southeast', d: 'Copacabana has become a world stage: city hall put Madonna’s crowd at 1.6 million in 2024 and Lady Gaga’s at 2.1 million in 2025.', w: 'Copacabana, Rio de Janeiro' },
   { n: 'São Paulo Pride', t: 'Southeast', d: 'Avenida Paulista has hosted one of the world’s largest Pride parades since 1997.', w: 'São Paulo Gay Pride Parade' },
   { n: 'March for Jesus', t: 'Southeast', d: 'The evangelical event that fills the streets of São Paulo every year, with gospel on sound trucks. A sign of how the country’s faith has been changing.', w: 'March for Jesus' }
