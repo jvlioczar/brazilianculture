@@ -1,0 +1,1097 @@
+# Cultura Brasileira: conteúdo completo
+
+Todo o guia de https://brazilianculture.biblioverse.org/pt/ em Markdown simples, parada por parada, com o link de cada página. Conteúdo atualizado em novembro de 2026.
+
+## Famosos
+
+https://brazilianculture.biblioverse.org/pt/famosos.html
+
+
+### Famosos no mundo
+
+- **Pelé**: (Esporte) O Rei do Futebol. Único jogador campeão de três Copas do Mundo (1958, 1962 e 1970), fez o número 10 virar lenda. Morreu em 2022.
+- **Marta**: (Esporte) Seis vezes eleita a melhor jogadora do mundo pela FIFA e maior artilheira da história das Copas, entre homens e mulheres, com 17 gols.
+- **Ayrton Senna**: (Esporte) Tricampeão de Fórmula 1 (1988, 1990 e 1991). Morreu em Ímola, em 1994, e o país parou para o enterro. Até hoje, é o herói de quem nem o viu correr.
+- **Ronaldo Fenômeno**: (Esporte) Campeão do mundo em 1994 e 2002, quando fez os dois gols da final. Duas vezes melhor do mundo pela FIFA, voltou de lesões graves que encerrariam qualquer carreira.
+- **Ronaldinho Gaúcho**: (Esporte) O sorriso e os dribles do Barcelona. Campeão do mundo em 2002, ganhou a Bola de Ouro em 2005 e foi aplaudido de pé pela torcida do Real Madrid no Bernabéu.
+- **Neymar**: (Esporte) Maior artilheiro da história da Seleção e o brasileiro mais seguido do mundo no Instagram. Santos, Barcelona, PSG e de volta ao Santos.
+- **Vinicius Jr.**: (Esporte) Atacante do Real Madrid, eleito melhor do mundo pela FIFA em 2024. Virou também uma voz global contra o racismo no futebol.
+- **Maria Esther Bueno**: (Esporte) Dona de 19 títulos de Grand Slam, incluindo três Wimbledons de simples. Dominou o tênis mundial nos anos 1950 e 60 e dá nome à quadra central de tênis dos Jogos do Rio.
+- **Guga Kuerten**: (Esporte) Tricampeão de Roland Garros, número 1 do mundo em 2000. Desenhou um coração no saibro de Paris e ganhou a França inteira.
+- **Rebeca Andrade**: (Esporte) A maior medalhista olímpica da história do Brasil, com seis medalhas, e campeã olímpica no salto (2020) e no solo (2024). Saiu de Guarulhos para bater Simone Biles.
+- **Gabriel Medina**: (Esporte) O primeiro brasileiro campeão mundial de surfe e tricampeão (2014, 2018 e 2021). Puxou a geração chamada de “Brazilian Storm”.
+- **Anderson Silva**: (Esporte) O “Spider”: o reinado mais longo da história dos médios do UFC, com golpes que parecem efeito especial.
+- **Amanda Nunes**: (Esporte) A “Leoa”, da Bahia, é considerada a maior lutadora da história do MMA feminino, campeã de duas categorias do UFC ao mesmo tempo.
+- **Rayssa Leal**: (Esporte) A “Fadinha”: viralizou aos 7 anos andando de skate fantasiada de fada e, aos 13, ganhou a prata olímpica em Tóquio. Bronze em Paris.
+- **Fernanda Montenegro**: (Cinema e TV) A grande dama da atuação brasileira. Primeira latino-americana indicada ao Oscar de melhor atriz, por Central do Brasil (1998), segue em cena depois dos 90 anos.
+- **Fernanda Torres**: (Cinema e TV) Globo de Ouro de melhor atriz de drama e indicada ao Oscar por Ainda Estou Aqui, 26 anos depois da mãe, Fernanda Montenegro. No Brasil, também é ídolo da comédia.
+- **Wagner Moura**: (Cinema e TV) Capitão Nascimento de Tropa de Elite e Pablo Escobar em Narcos. Em 2026 ganhou o Globo de Ouro por O Agente Secreto e virou o primeiro brasileiro indicado ao Oscar de melhor ator.
+- **Sônia Braga**: (Cinema e TV) De Gabriela e Dona Flor a O Beijo da Mulher-Aranha e Aquarius. Maior estrela brasileira em Hollywood desde os anos 1980.
+- **Rodrigo Santoro**: (Cinema e TV) Xerxes em 300, Paul em Lost e Heitor em Westworld. Um dos brasileiros com mais trabalhos em produções internacionais.
+- **Alice Braga**: (Cinema e TV) Sobrinha de Sônia Braga, saiu de Cidade de Deus para Eu Sou a Lenda e a série Queen of the South.
+- **Carmen Miranda**: (Cinema e TV) A “Pequena Notável”, com frutas no turbante, foi a mulher mais bem paga dos EUA em 1945 e criou a imagem do Brasil para o mundo.
+- **Gisele Bündchen**: (Moda) A gaúcha de Horizontina que encerrou a era das magras frágeis e foi por anos a modelo mais bem paga do mundo.
+- **Adriana Lima**: (Moda) Baiana de Salvador, foi Angel da Victoria’s Secret por quase duas décadas, o maior tempo da história da marca.
+- **Alessandra Ambrosio**: (Moda) Gaúcha de Erechim, outra Angel histórica e uma das modelos brasileiras mais conhecidas no exterior.
+- **Machado de Assis**: (Literatura e ideias) Neto de escravizados, fundou a Academia Brasileira de Letras e escreveu Dom Casmurro e Memórias Póstumas de Brás Cubas. Um dos maiores escritores do século 19 em qualquer língua.
+- **Clarice Lispector**: (Literatura e ideias) Nascida na Ucrânia e criada no Recife. A Hora da Estrela e A Paixão Segundo G.H. fizeram dela cult mundial.
+- **Jorge Amado**: (Literatura e ideias) Levou a Bahia ao mundo com Gabriela, Cravo e Canela e Capitães da Areia, traduzidos para dezenas de línguas.
+- **Guimarães Rosa**: (Literatura e ideias) Médico e diplomata que reinventou o português em Grande Sertão: Veredas (1956), a epopeia do sertão mineiro.
+- **Carolina Maria de Jesus**: (Literatura e ideias) Catadora de papel que escreveu sobre a fome em cadernos achados no lixo. Quarto de Despejo (1960) foi traduzido para mais de uma dezena de línguas.
+- **Paulo Coelho**: (Literatura e ideias) O Alquimista (1988) é um dos livros mais vendidos da história. Foi parceiro de Raul Seixas antes de virar o autor brasileiro mais lido no mundo.
+- **Oscar Niemeyer**: (Arte e design) Desenhou Brasília, a Pampulha e a sede da ONU (em equipe). As curvas de concreto dele deram ao modernismo um sotaque brasileiro. Trabalhou até morrer, aos 104 anos.
+- **Tarsila do Amaral**: (Arte e design) Pintou o Abaporu (1928), o quadro mais famoso do Brasil e inspiração do Manifesto Antropófago: engolir o que vem de fora e devolver brasileiro.
+- **Roberto Burle Marx**: (Arte e design) Paisagista dos jardins sinuosos do calçadão de Copacabana e do Aterro do Flamengo. Levou plantas nativas para o jardim moderno.
+- **Sebastião Salgado**: (Arte e design) Fotógrafo mineiro de Gênesis e Trabalhadores, autor de alguns dos retratos mais fortes da humanidade. Morreu em 2025.
+- **Luva de Pedreiro**: (Criadores) Iran Ferreira, baiano que chutava bola em campos de terra gritando “receba!”, viralizou no mundo em 2022 e depois gravou até com o filho de Cristiano Ronaldo.
+- **Casimiro**: (Criadores) Streamer carioca, o “Cazé”, que reage a tudo com bom humor. A CazéTV transmitiu Copa e Olimpíadas no YouTube e bateu recordes de audiência.
+- **Luiz Inácio Lula da Silva**: (Política) De retirante nordestino e metalúrgico a presidente reeleito em 2026, é o político brasileiro mais conhecido no mundo. Obama o chamou de “o cara”.
+- **Anitta**: (Música) A maior estrela pop do Brasil. Saiu de Honório Gurgel, no Rio, e em 2022 foi a primeira brasileira no topo global do Spotify, com Envolver.
+- **Marcelo**: (Esporte) Lateral do Real Madrid por 15 anos, com cinco títulos de Champions League e o sorriso de cabelo enrolado.
+- **Bruna Marquezine**: (Cinema e TV) Estrela de novelas desde criança, foi para Hollywood em Besouro Azul (2023), da DC.
+- **Hugo Calderano**: (Esporte) O maior mesa-tenista das Américas. Em 2025, foi o primeiro atleta das Américas a ganhar a Copa do Mundo da modalidade, batendo chineses em Macau, e foi vice-campeão mundial em Doha, a melhor campanha de um sul-americano.
+- **Torben Grael**: (Esporte) Velejador com cinco medalhas olímpicas, duas de ouro, e comandante do barco vencedor da Volvo Ocean Race de 2008–09, a volta ao mundo a vela.
+- **Isaquias Queiroz**: (Esporte) Baiano da canoagem com cinco medalhas olímpicas e ouro em Tóquio. Quando criança, sobreviveu a uma queda que custou um rim.
+
+### Famosos no Brasil
+
+- **Silvio Santos**: (TV) De camelô a dono do SBT. O “Patrão” animou os domingos por mais de 60 anos, jogando aviõezinhos de dinheiro na plateia. Morreu em 2024.
+- **Chacrinha**: (TV) O Velho Guerreiro: buzina, fantasia e bacalhau jogado no auditório. Criou a frase “quem não se comunica se trumbica”.
+- **Hebe Camargo**: (TV) A “rainha da TV”, com sofá, joias e selinho nos convidados. Pioneira das primeiras transmissões, em 1950.
+- **Xuxa**: (TV) A “Rainha dos Baixinhos”. O Xou da Xuxa marcou gerações de crianças e também fez sucesso na América Latina e nos EUA.
+- **Faustão**: (TV) “Ô loco, meu!” Comandou o Domingão do Faustão na Globo por mais de 30 anos.
+- **Gugu Liberato**: (TV) Domingo Legal, a Banheira do Gugu e a eterna guerra de audiência dos domingos contra o Faustão. Morreu em 2019.
+- **Ana Maria Braga**: (TV) Mais Você, as receitas e o Louro José, papagaio de pelúcia que virou personagem nacional.
+- **Jô Soares**: (TV) Humorista de Viva o Gordo e autor de romances, foi por anos a entrevista antes de dormir do país, no Programa do Jô. Morreu em 2022.
+- **Pedro Bial**: (TV) Repórter internacional que virou o rosto do Big Brother Brasil e dos seus discursos de eliminação. Hoje comanda o Conversa com Bial.
+- **Luciano Huck**: (TV) Caldeirão do Huck por duas décadas e, desde 2021, o Domingão. Figura frequente nas especulações políticas.
+- **Fátima Bernardes**: (TV) Foi a cara do Jornal Nacional por 14 anos e depois comandou o Encontro nas manhãs da Globo.
+- **Glória Pires**: (Atuação) Estreou criança e marcou Vale Tudo e Mulheres de Areia, em que fez as gêmeas Ruth e Raquel. Virou meme com a frase “não sou capaz de opinar”.
+- **Regina Duarte**: (Atuação) A eterna “namoradinha do Brasil”, protagonista de Malu Mulher e Roque Santeiro.
+- **Ruth de Souza**: (Atuação) Pioneira do Teatro Experimental do Negro. Foi a primeira brasileira indicada a um prêmio de atuação em festival internacional, com Sinhá Moça (Veneza, 1954).
+- **Marília Pêra**: (Atuação) De Pixote a Brega & Chique: uma das atrizes mais versáteis do país no cinema, na TV e no teatro. Morreu em 2015.
+- **Lima Duarte**: (Atuação) Sinhozinho Malta em Roque Santeiro. Mais de 70 anos de carreira, desde os primeiros dias da TV brasileira.
+- **Taís Araújo**: (Atuação) Primeira protagonista negra de uma novela da Globo, em Da Cor do Pecado (2004). Xica da Silva (1996) já era um marco na Manchete.
+- **Regina Casé**: (Atuação) Do grupo Asdrúbal Trouxe o Trombone a Que Horas Ela Volta? e ao Esquenta!. A cara da cultura popular na TV.
+- **Garrincha**: (Esporte) A “Alegria do Povo”. Pernas tortas, dribles impossíveis e o título de 1962 quase sozinho. Para muitos, foi tão genial quanto Pelé.
+- **Zico**: (Esporte) O “Galinho de Quintino”, maior ídolo do Flamengo e craque da inesquecível Seleção de 1982, que não ganhou a Copa.
+- **Éder Jofre**: (Esporte) O “Galo de Ouro”, campeão mundial de boxe em duas categorias e considerado um dos maiores pesos-galo de todos os tempos.
+- **Hortência e Paula**: (Esporte) A dupla que levou o basquete feminino ao título mundial de 1994 e à prata olímpica de 1996. Hortência entrou para o Hall da Fama.
+- **Oscar Schmidt**: (Esporte) O “Mão Santa”, o maior cestinha da história do basquete por muitos anos, com 49.737 pontos, e herói do Pan de 1987 contra os EUA. Entrou para o Hall da Fama em 2013 e morreu em 2026.
+- **Giba**: (Esporte) Astro da geração de ouro do vôlei, campeã olímpica em Atenas (2004) e tricampeã mundial sob o comando de Bernardinho.
+- **Robert Scheidt**: (Esporte) Velejador com cinco medalhas olímpicas, duas de ouro, e dono de títulos mundiais em série.
+- **Carlos Drummond de Andrade**: (Cultura) O poeta do “no meio do caminho tinha uma pedra”. Tem uma estátua sentada num banco de Copacabana, onde todo mundo tira foto.
+- **Monteiro Lobato**: (Cultura) Criador do Sítio do Picapau Amarelo, com Emília e Narizinho. Marcou a infância de gerações, e hoje sua obra também é debatida pelo racismo em seus textos.
+- **Mauricio de Sousa**: (Cultura) O “Walt Disney brasileiro”, criador da Turma da Mônica, com Cebolinha, Cascão e Magali. Todo brasileiro aprendeu a ler com esses gibis.
+- **Ariano Suassuna**: (Cultura) Paraibano, autor de O Auto da Compadecida, peça que virou uma das obras mais queridas do país.
+- **Ziraldo**: (Cultura) Cartunista de O Menino Maluquinho e d’O Pasquim, jornal de humor que irritou a ditadura. Morreu em 2024.
+- **Felipe Neto**: (Criadores) Um dos maiores youtubers do mundo, com dezenas de milhões de inscritos, e figura frequente no debate público brasileiro.
+- **Whindersson Nunes**: (Criadores) Piauiense que começou fazendo vídeos caseiros e chegou a ter o maior canal de YouTube do Brasil. Também enche teatros com stand-up.
+- **Tatá Werneck**: (Criadores) A rainha do improviso, revelada na MTV. Comanda o Lady Night, no Multishow, e é das pessoas mais seguidas do país.
+- **Virginia Fonseca**: (Criadores) Influenciadora de Goiânia que mostra a rotina para milhões e criou a marca de cosméticos Wepink.
+- **Larissa Manoela**: (Atuação) Estrela infantil de Carrossel, no SBT. Em 2023, sua briga com os pais pelo próprio dinheiro virou debate nacional.
+- **Maísa**: (Atuação) Virou fenômeno aos 3 anos, nas conversas hilárias com Silvio Santos no SBT, e cresceu diante do país.
+- **Marina Ruy Barbosa**: (Atuação) Ruiva das novelas da Globo, como Império e Totalmente Demais, e presença constante na moda.
+- **Gusttavo Lima**: (Música) O “Embaixador” do sertanejo, de Balada (Tchê Tcherere Tchê Tchê). Faz shows e lives que reúnem multidões.
+- **Wesley Safadão**: (Música) Cearense que levou o forró eletrônico para o topo do país, com Camarote e muitos outros sucessos.
+- **Simone Mendes**: (Música) Da dupla Simone & Simaria, seguiu carreira solo em 2022 e virou uma das maiores vozes do sertanejo.
+- **Mario Sergio Cortella**: (Cultura) Filósofo e professor paranaense, autor de best-sellers como Por Que Fazemos o Que Fazemos? e um dos palestrantes mais conhecidos do país, com muitos vídeos nas redes.
+- **Paulo Freire**: (Literatura e ideias) Educador de Pedagogia do Oprimido (1968), uma das obras mais citadas das ciências humanas no mundo. Patrono da educação brasileira.
+
+### Os mais seguidos no Instagram
+
+- **Neymar Jr.**: 234 milhões de seguidores no Instagram (Futebol)
+- **Ronaldinho Gaúcho**: 78,6 milhões de seguidores no Instagram (Futebol)
+- **Marcelo**: 68,4 milhões de seguidores no Instagram (Futebol)
+- **Anitta**: 62,8 milhões de seguidores no Instagram (Música)
+- **Vinicius Jr.**: 62,8 milhões de seguidores no Instagram (Futebol)
+- **Whindersson Nunes**: 56,4 milhões de seguidores no Instagram (Humor)
+- **Tatá Werneck**: 56 milhões de seguidores no Instagram (Humor)
+- **Virginia Fonseca**: 54,7 milhões de seguidores no Instagram (Criadores)
+- **Larissa Manoela**: 53,3 milhões de seguidores no Instagram (Atuação)
+- **Maísa**: 49,7 milhões de seguidores no Instagram (Atuação)
+- **Gusttavo Lima**: 45,6 milhões de seguidores no Instagram (Música)
+- **Bruna Marquezine**: 44,5 milhões de seguidores no Instagram (Atuação)
+- **Marina Ruy Barbosa**: 41,3 milhões de seguidores no Instagram (Atuação)
+- **Wesley Safadão**: 40,8 milhões de seguidores no Instagram (Música)
+- **Simone Mendes**: 40,5 milhões de seguidores no Instagram (Música)
+- **Marília Mendonça**: 39,1 milhões de seguidores no Instagram (Música)
+- **Paolla Oliveira**: 39 milhões de seguidores no Instagram (Atuação)
+- **Luan Santana**: 37,3 milhões de seguidores no Instagram (Música)
+- **Ivete Sangalo**: 37,3 milhões de seguidores no Instagram (Música)
+- **Carlinhos Maia**: 36 milhões de seguidores no Instagram (Humor)
+- **Daniel Alves**: 35,5 milhões de seguidores no Instagram (Futebol)
+- **Zé Felipe**: 34,1 milhões de seguidores no Instagram (Música)
+- **Viih Tube**: 32,7 milhões de seguidores no Instagram (Criadores)
+- **Eliana**: 32,7 milhões de seguidores no Instagram (TV)
+- **Tirullipa**: 31,5 milhões de seguidores no Instagram (Humor)
+- **Nicole Bahls**: 31 milhões de seguidores no Instagram (TV)
+- **Ludmilla**: 31 milhões de seguidores no Instagram (Música)
+- **Sabrina Sato**: 30,5 milhões de seguidores no Instagram (TV)
+- **Juliana Paes**: 30,5 milhões de seguidores no Instagram (Atuação)
+- **Rodrigo Faro**: 30,2 milhões de seguidores no Instagram (TV)
+
+## Música
+
+https://brazilianculture.biblioverse.org/pt/musica.html
+
+
+### Artistas e bandas
+
+- **Tom Jobim**: (Bossa nova e MPB · 1958) Coautor de Garota de Ipanema, uma das músicas mais gravadas do mundo. Gravou com Frank Sinatra e dá nome ao aeroporto do Rio.
+- **João Gilberto**: (Bossa nova e MPB · 1958) Inventou a batida da bossa nova no violão. Chega de Saudade (1958) mudou a música brasileira em dois minutos.
+- **Vinicius de Moraes**: (Bossa nova e MPB · 1958) O “poetinha”, diplomata e letrista de Garota de Ipanema e Chega de Saudade.
+- **Elis Regina**: (Bossa nova e MPB · 1965) Para muitos, a maior cantora do Brasil. Elis & Tom (1974) e O Bêbado e a Equilibrista viraram hino da anistia. Morreu em 1982.
+- **Chico Buarque**: (Bossa nova e MPB · 1966) Compositor de Construção e Cálice, driblou a censura da ditadura com pseudônimos e metáforas. Também é romancista, premiado com o Camões.
+- **Caetano Veloso**: (Tropicália · 1967) Líder da Tropicália, preso e exilado pela ditadura. Sampa e Alegria, Alegria são parte do imaginário do país.
+- **Gilberto Gil**: (Tropicália · 1967) Baiano de Aquele Abraço e Andar com Fé, foi ministro da Cultura (2003–2008) e é imortal da Academia Brasileira de Letras.
+- **Gal Costa**: (Tropicália · 1967) A voz de Baby e Divino, Maravilhoso e uma das cantoras mais ousadas de seu tempo. Morreu em 2022.
+- **Os Mutantes**: (Tropicália · 1966) Rita Lee e os irmãos Baptista: rock psicodélico que hoje influencia nomes como Kurt Cobain e Beck.
+- **Maria Bethânia**: (Bossa nova e MPB · 1965) A voz dramática da Bahia e irmã de Caetano. Uma das cantoras mais longevas e reverenciadas do país.
+- **Milton Nascimento**: (Bossa nova e MPB · 1967) A voz que “Deus cantaria”, segundo Elis. Clube da Esquina (1972) é um dos maiores discos da história do Brasil.
+- **Djavan**: (Bossa nova e MPB · 1976) Alagoano de Oceano e Flor de Lis, com um jeito de compor que ninguém consegue imitar.
+- **Roberto Carlos**: (Pop e romântica · 1959) O “Rei”. Da Jovem Guarda a dezenas de milhões de discos vendidos, e um especial de Natal na Globo há décadas.
+- **Tim Maia**: (Pop e romântica · 1970) O pai do soul brasileiro, de Azul da Cor do Mar e Descobridor dos Sete Mares. Tão famoso pela voz quanto pelos shows que cancelava.
+- **Rita Lee**: (Rock · 1966) A “rainha do rock brasileiro”: saiu dos Mutantes e virou a roqueira mais vendida do país. Morreu em 2023.
+- **Raul Seixas**: (Rock · 1973) O “Maluco Beleza”. Em qualquer show do Brasil, alguém ainda grita “Toca Raul!”.
+- **Legião Urbana**: (Rock · 1982) Renato Russo e os hinos de uma geração, de Faroeste Caboclo a Tempo Perdido e Pais e Filhos.
+- **Cazuza e Barão Vermelho**: (Rock · 1981) Exagerado, Ideologia, O Tempo Não Para. Cazuza transformou a própria doença em denúncia. Morreu em 1990.
+- **Os Paralamas do Sucesso**: (Rock · 1982) Rock com ska e sopros de Herbert Vianna, Bi Ribeiro e João Barone. Fizeram sucesso também na Argentina.
+- **Titãs**: (Rock · 1982) Oito vozes que fizeram Comida e Bichos Escrotos. “A gente não quer só comida” virou frase de protesto.
+- **Sepultura**: (Rock · 1984) De Belo Horizonte para o mundo. Roots (1996) misturou metal com percussão brasileira e gravou com o povo Xavante, e mudou o gênero.
+- **Cartola**: (Samba · 1928) Fundador da Mangueira, autor de As Rosas Não Falam e O Mundo é um Moinho. Gravou o primeiro disco aos 66 anos.
+- **Dorival Caymmi**: (Samba · 1938) O baiano que cantou o mar e o pescador. Compôs O Que É Que a Baiana Tem?, sucesso com Carmen Miranda.
+- **Ary Barroso**: (Samba · 1939) Autor de Aquarela do Brasil, que ganhou o mundo com Walt Disney e virou uma espécie de segundo hino.
+- **Clara Nunes**: (Samba · 1971) Primeira cantora brasileira a vender mais de 100 mil discos, levou as religiões afro-brasileiras para o sucesso popular.
+- **Beth Carvalho**: (Samba · 1968) A “Madrinha do Samba”, que revelou o Fundo de Quintal e levou o pagode dos quintais do Rio para o rádio.
+- **Zeca Pagodinho**: (Samba · 1983) Deixa a Vida me Levar: o malandro carioca virou filosofia de vida nacional.
+- **Luiz Gonzaga**: (Nordeste e sertanejo · 1941) O “Rei do Baião”, com sanfona e chapéu de couro. Asa Branca é praticamente o hino do sertão.
+- **Chitãozinho & Xororó**: (Nordeste e sertanejo · 1970) Fio de Cabelo (1982) levou o sertanejo do interior aos grandes palcos e abriu caminho para todo o gênero.
+- **Marília Mendonça**: (Nordeste e sertanejo · 2014) A “Rainha da Sofrência” botou as mulheres no centro do sertanejo. A morte em um acidente aéreo, em 2021, parou o país.
+- **Ana Castela**: (Nordeste e sertanejo · 2021) A “Boiadeira”, nome da nova geração do agronejo, o sertanejo com a estética do agro.
+- **Ivete Sangalo**: (Carnaval e axé · 1993) Ex-vocalista da Banda Eva e maior estrela do axé. Em qualquer trio elétrico, ela é a rainha do Carnaval de Salvador.
+- **Olodum**: (Carnaval e axé · 1979) Bloco afro do Pelourinho, cuja percussão foi parar em The Obvious Child, de Paul Simon, e no clipe They Don’t Care About Us, de Michael Jackson.
+- **Daniela Mercury**: (Carnaval e axé · 1991) O Canto da Cidade (1992) levou o axé da Bahia para o país inteiro e para o mundo.
+- **Sérgio Mendes**: (Pop e romântica · 1961) Mas Que Nada (1966) botou o Brasil nas paradas dos EUA. Três Grammys e décadas de sucesso. Morreu em 2024.
+- **Anitta**: (Funk e pop · 2010) De Honório Gurgel, no Rio, para o topo global: com Envolver, em 2022, virou a primeira brasileira a chegar ao nº 1 do Spotify mundial.
+- **Kevin o Chris**: (Funk e pop · 2017) Popularizou o funk 150 BPM. O hit Ela É do Tipo rodou o país em 2018 e abriu caminho para o gênero nas paradas.
+- **Ludmilla**: (Funk e pop · 2012) Do funk ao pagode com o Numanice, foi a primeira artista negra latino-americana a passar de 1 bilhão de streams no Spotify.
+- **Racionais MC’s**: (Rap · 1988) O maior grupo de rap do Brasil. Sobrevivendo no Inferno (1997) já foi leitura obrigatória no vestibular da Unicamp.
+- **Emicida**: (Rap · 2005) Rapper paulistano, autor de AmarElo, que virou documentário na Netflix. Um dos grandes intelectuais públicos da nova geração.
+- **Alok**: (Eletrônica · 2012) O DJ brasileiro mais famoso, várias vezes no top 10 mundial da DJ Mag. Hear Me Now (2016) rodou o planeta.
+- **Liniker**: (Funk e pop · 2015) Primeira artista trans a ganhar um Grammy Latino pelo Brasil (2022). Caju (2024) foi um dos álbuns do ano.
+- **Heitor Villa-Lobos**: (Erudita e choro · 1915) O maior compositor erudito das Américas para muitos. As Bachianas Brasileiras uniram Bach e o som do Brasil.
+- **Pixinguinha**: (Erudita e choro · 1915) Flautista e maestro, autor de Carinhoso, o pai do choro como o conhecemos.
+- **Nelson Freire**: (Erudita e choro · 1957) Mineiro, um dos maiores pianistas do mundo em seu tempo. Morreu em 2021.
+- **Noel Rosa**: (Samba · 1929) O “poeta da Vila”: morreu aos 26 anos e deixou centenas de sambas, como Com que Roupa?
+- **Elza Soares**: (Samba · 1959) Saiu da favela de Moça Bonita, foi eleita voz do milênio pela BBC e reinventou-se até o fim, com A Mulher do Fim do Mundo. Morreu em 2022.
+- **Jorge Ben Jor**: (Samba · 1963) Inventou o samba-rock. Mas Que Nada, País Tropical e Taj Mahal, que até Rod Stewart aproveitou.
+- **Paulinho da Viola**: (Samba · 1965) A elegância da Portela: Foi um Rio que Passou em Minha Vida é um clássico nacional.
+- **Alcione**: (Samba · 1972) A “Marrom”, maranhense e uma das grandes vozes do samba, de Não Deixe o Samba Morrer.
+- **Fundo de Quintal**: (Samba · 1976) Grupo que criou o som do pagode moderno nos anos 1970, com banjo e repique de mão.
+- **Só Pra Contrariar**: (Samba · 1989) Grupo de Alexandre Pires, com milhões de discos vendidos nos anos 1990, auge do pagode romântico.
+- **Astrud Gilberto**: (Bossa nova e MPB · 1963) A voz de The Girl from Ipanema (1964), que venceu o Grammy de gravação do ano e levou a bossa ao mundo. Morreu em 2023.
+- **Clube da Esquina**: (Bossa nova e MPB · 1972) Movimento de Milton Nascimento, Lô Borges e amigos em Belo Horizonte, que misturou Beatles, jazz e música de Minas.
+- **Marisa Monte**: (Bossa nova e MPB · 1987) Uma das maiores cantoras da sua geração, de Ainda Bem e Amor I Love You, e parte dos Tribalistas.
+- **Seu Jorge**: (Bossa nova e MPB · 1998) Mané Galinha em Cidade de Deus, cantou Bowie em português em A Vida Marinha com Steve Zissou.
+- **Nara Leão**: (Bossa nova e MPB · 1963) A “musa da bossa nova”, cujo apartamento em Copacabana reunia o movimento.
+- **Wilson Simonal**: (Pop e romântica · 1961) O grande showman dos anos 60, de País Tropical e Sá Marina, antes do ostracismo.
+- **Erasmo Carlos**: (Pop e romântica · 1964) O “Tremendão” da Jovem Guarda e parceiro de toda a vida de Roberto Carlos. Morreu em 2022.
+- **Lulu Santos**: (Pop e romântica · 1982) Dono de hits de pop-rock como Como uma Onda e Tempos Modernos.
+- **Sandy & Junior**: (Pop e romântica · 1990) Irmãos, filhos de Xororó, que dominaram o pop teen nos anos 1990 e 2000.
+- **Novos Baianos**: (Rock · 1969) Moraes Moreira, Baby e Pepeu Gomes. Acabou Chorare (1972) é frequentemente eleito o maior disco brasileiro.
+- **Secos & Molhados**: (Rock · 1971) Ney Matogrosso de rosto pintado em plena ditadura, com recordes de venda no disco de estreia, em 1973.
+- **Engenheiros do Hawaii**: (Rock · 1985) O rock de Humberto Gessinger, de letras engenhosas, como Infinita Highway e Era um Garoto.
+- **RPM**: (Rock · 1983) Rádio Pirata ao Vivo (1986) é um dos discos mais vendidos da história do Brasil.
+- **Angra**: (Rock · 1991) O power metal de Andre Matos, de Carry On, com sucesso especialmente na Europa e no Japão.
+- **Chico Science & Nação Zumbi**: (Rock · 1991) Criaram o manguebeat no Recife, juntando maracatu, guitarra e hip-hop. Da Lama ao Caos (1994) é um marco.
+- **Skank**: (Rock · 1991) Banda mineira que foi do ska ao pop sofisticado, de Garota Nacional e Vou Deixar.
+- **Mamonas Assassinas**: (Rock · 1995) Com um único disco (1995), viraram febre nacional com humor e morreram num acidente aéreo em 1996.
+- **O Rappa**: (Rock · 1993) Rock, reggae e samba com crônicas urbanas, em Minha Alma e Pescador de Ilusões.
+- **Charlie Brown Jr.**: (Rock · 1992) Chorão e a mistura de hardcore, rap e reggae de Santos, que definiu os anos 2000.
+- **Los Hermanos**: (Rock · 1997) Saíram de Anna Julia para os arranjos de Ventura (2003), com fãs devotos até hoje.
+- **Pitty**: (Rock · 2003) A roqueira baiana de Admirável Chip Novo (2003), maior voz feminina do rock nos anos 2000.
+- **Alceu Valença**: (Nordeste e sertanejo · 1972) Pernambucano do frevo, do xote e do rock, de Anunciação e La Belle de Jour.
+- **Zé Ramalho**: (Nordeste e sertanejo · 1977) A voz rouca e mística de Avôhai e Admirável Gado Novo, do sertão da Paraíba.
+- **Dominguinhos**: (Nordeste e sertanejo · 1964) Herdeiro da sanfona de Luiz Gonzaga e autor de Eu Só Quero um Xodó.
+- **Tonico & Tinoco**: (Nordeste e sertanejo · 1935) A “dupla coração do Brasil”, que levou a moda caipira ao rádio por mais de 50 anos.
+- **Zezé Di Camargo & Luciano**: (Nordeste e sertanejo · 1991) É o Amor (1991) virou hino, e a história deles virou o filme 2 Filhos de Francisco.
+- **Michel Teló**: (Nordeste e sertanejo · 2008) Ai Se Eu Te Pego (2011) foi nº 1 em dezenas de países e virou um dos maiores hits globais em português.
+- **Henrique & Juliano**: (Nordeste e sertanejo · 2011) Dupla de Palmas, no Tocantins, que está entre as mais ouvidas do país na era do streaming.
+- **João Gomes**: (Nordeste e sertanejo · 2021) Jovem pernambucano do piseiro que fez o gênero estourar pelo país, a partir de 2021.
+- **Banda Calypso**: (Nordeste e sertanejo · 1999) Joelma e Chimbinha levaram o brega paraense a milhões de discos vendidos de forma independente.
+- **É o Tchan**: (Carnaval e axé · 1995) O pagode baiano que dominou os anos 1990, com coreografias que todo o Brasil copiou.
+- **Claudinho & Buchecha**: (Funk e pop · 1995) Os pioneiros do funk melódico de São Gonçalo, de Só Love e Quero Te Encontrar.
+- **Pabllo Vittar**: (Funk e pop · 2015) A drag queen mais seguida do mundo, de K.O. e Sua Cara com Anitta e Major Lazer.
+- **Iza**: (Funk e pop · 2016) Do pop ao R&B e ao samba, de Pesadão, além de ter sido técnica do The Voice Brasil.
+- **Luísa Sonza**: (Funk e pop · 2017) Gaúcha que virou uma das maiores estrelas pop do país, com Escândalo Íntimo (2023).
+- **Gabriel o Pensador**: (Rap · 1992) Levou o rap às rádios nos anos 1990, de Cachimbo da Paz e Lôrabúrra.
+- **Marcelo D2 e Planet Hemp**: (Rap · 1993) Rap-rock pela legalização da maconha, e, depois, samba com hip-hop em À Procura da Batida Perfeita.
+- **Matuê**: (Rap · 2017) O nome do trap brasileiro. Máquina do Tempo (2020), de 777-666, bateu o recorde de estreia de álbum no Spotify Brasil.
+- **Natiruts**: (Reggae · 1996) A banda de reggae mais popular do Brasil, de Brasília: Liberdade pra Dentro da Cabeça.
+- **Cidade Negra**: (Reggae · 1986) A Estrada e Firmamento fizeram da banda de Toni Garrido um clássico das rádios.
+- **Vintage Culture**: (Eletrônica · 2012) Lukas Ruiz, DJ brasileiro de house de grande sucesso nos festivais do mundo.
+- **Galinha Pintadinha**: (Infantil · 2006) A galinha azul do YouTube, em português e em outras línguas, que todo pai conhece de cor.
+
+## Filmes e séries
+
+https://brazilianculture.biblioverse.org/pt/filmes-e-series.html
+
+
+### Feitos no Brasil
+
+- **Ainda Estou Aqui**: (Filmes · 2024) Walter Salles conta a história de Eunice Paiva, cujo marido foi levado pela ditadura. Deu ao Brasil o primeiro Oscar de filme internacional, em 2025.
+- **O Agente Secreto**: (Filmes · 2025) Thriller de Kleber Mendonça Filho no Recife de 1977, com Wagner Moura. Ganhou direção e ator em Cannes, dois Globos de Ouro e quatro indicações ao Oscar.
+- **Cidade de Deus**: (Filmes · 2002) Fernando Meirelles e Kátia Lund mostram o crescimento do crime numa favela carioca. Quatro indicações ao Oscar e fama mundial.
+- **Central do Brasil**: (Filmes · 1998) Walter Salles e Fernanda Montenegro numa viagem pelo sertão. Urso de Ouro em Berlim e duas indicações ao Oscar.
+- **O Auto da Compadecida**: (Filmes · 2000) A dupla João Grilo e Chicó engana o sertão inteiro e até o Diabo. O filme mais querido dos brasileiros, com nota de 8,6 no IMDb.
+- **Tropa de Elite**: (Filmes · 2007) José Padilha, Wagner Moura e o BOPE no Rio. Urso de Ouro em Berlim; a sequência (2010) bateu recordes de público.
+- **O Pagador de Promessas**: (Filmes · 1962) Um homem carrega uma cruz até Salvador. Até hoje, é o único filme brasileiro a ganhar a Palma de Ouro em Cannes.
+- **Deus e o Diabo na Terra do Sol**: (Filmes · 1964) Glauber Rocha e o Cinema Novo: “uma câmera na mão e uma ideia na cabeça”.
+- **Vidas Secas**: (Filmes · 1963) Nelson Pereira dos Santos adapta Graciliano Ramos: uma família foge da seca, com a cachorra Baleia.
+- **Pixote**: (Filmes · 1981) Hector Babenco acompanha meninos de rua em São Paulo. O protagonista, Fernando Ramos da Silva, teve depois uma vida trágica.
+- **Bacurau**: (Filmes · 2019) Um povoado do sertão some do mapa e reage a invasores. Prêmio do Júri em Cannes, de Kleber Mendonça Filho e Juliano Dornelles.
+- **Que Horas Ela Volta?**: (Filmes · 2015) Regina Casé é uma empregada doméstica. O filme de Anna Muylaert expõe a divisão de classes em uma casa paulistana.
+- **Minha Mãe é uma Peça**: (Filmes · 2013) Paulo Gustavo vive a própria mãe, Dona Hermínia. A terceira parte (2019) é a maior bilheteria do cinema nacional.
+- **Ilha das Flores**: (Filmes · 1989) Curta de Jorge Furtado com 13 minutos sobre o caminho de um tomate até o lixo. Um clássico que todo estudante brasileiro vê na escola.
+- **Hoje Eu Quero Voltar Sozinho**: (Filmes · 2014) Um adolescente cego descobre o amor por um colega. Delicado filme de Daniel Ribeiro, premiado em Berlim.
+- **Cabra Marcado para Morrer**: (Documentários · 1984) Eduardo Coutinho começa um filme em 1964, a ditadura interrompe e ele volta 17 anos depois. Um dos maiores documentários do país.
+- **Ônibus 174**: (Documentários · 2002) José Padilha reconstrói o sequestro de um ônibus no Rio, transmitido ao vivo em 2000.
+- **Senna**: (Documentários · 2010) Asif Kapadia conta a vida de Ayrton Senna só com imagens de arquivo. Uma coprodução britânica que o país adotou. A série da Netflix veio em 2024.
+- **Democracia em Vertigem**: (Documentários · 2019) Petra Costa narra a queda de Dilma e a prisão de Lula a partir da própria família. Indicado ao Oscar de documentário e motivo de brigas políticas.
+- **Turma da Mônica**: (Animação · 1959) Da tirinha de jornal a filmes, séries e parques. É o maior fenômeno dos quadrinhos brasileiros.
+- **O Menino e o Mundo**: (Animação · 2013) Quase sem falas, com um traço de giz de cera. Alê Abreu chegou à indicação ao Oscar de melhor animação.
+- **Rio**: (Animação · 2011) Filme americano de Carlos Saldanha, carioca, em que uma ararinha-azul descobre a própria cidade. Também dele é A Era do Gelo.
+- **3%**: (Séries · 2016) Primeira série original brasileira da Netflix: uma distopia em que só 3% dos jovens passam para o “lado de lá”.
+- **Cidade Invisível**: (Séries · 2021) Curupira, Saci e Cuca vivem escondidos no Rio de hoje. Um suspense que apresentou o folclore brasileiro a quem vê Netflix.
+- **Pantanal**: (Novelas · 1990) Levou a Manchete a bater a Globo com a natureza e a Juma, que virava onça. A nova versão (2022) foi um sucesso.
+- **Avenida Brasil**: (Novelas · 2012) A vingança de Nina contra Carminha parou o país no último capítulo e foi vendida para mais de 130 países.
+- **Escrava Isaura**: (Novelas · 1976) A primeira grande exportação da teledramaturgia brasileira: fez sucesso da China à Polônia e Cuba.
+- **Vale Tudo**: (Novelas · 1988) “Quem matou Odete Roitman?” mobilizou o país, e o Brasil se perguntou se valia a pena ser honesto. Ganhou nova versão em 2025.
+- **Emergência Radioativa**: (Séries · 2026) Minissérie sobre o acidente com o césio-137 em Goiânia, em 1987. Liderou o ranking global da Netflix em língua não inglesa em 2026.
+
+### O que os brasileiros assistem
+
+- **Jornal Nacional**: (Grandes transmissões · 1969) O telejornal mais visto do país, com música e abertura que todo brasileiro reconhece. “Boa noite.”
+- **A novela das nove**: (Grandes transmissões · 1965) A faixa da noite da Globo marca o horário de jantar do país e dita cortes de cabelo, roupas e bordões.
+- **Desfile das escolas de samba**: (Grandes transmissões · 1984) Da Sapucaí para a TV, em duas noites de fantasias, enredo e apuração das notas, ao vivo, com a torcida na quadra.
+- **Jogos da Seleção**: (Grandes transmissões · 1970) Em dia de Copa, escritórios fecham, a rua é pintada de verde e amarelo e o país inteiro para.
+- **Especial de Natal do Roberto Carlos**: (Grandes transmissões · 1974) Todo fim de ano, desde os anos 70, na Globo. Sem ele, dizem, não é Natal.
+- **Big Brother Brasil**: (Reality · 2002) O maior reality do país: paredões em tempo real, recordes mundiais de votação e assunto de todo café da manhã.
+- **A Fazenda**: (Reality · 2009) Reality da Record com famosos trancados em um sítio, cuidando de bichos e brigando na ração.
+- **MasterChef Brasil**: (Reality · 2014) Ana Paula Padrão, Erick Jacquin e Paola Carosella e os memes que todos repetem: “vergonha da profission!”
+- **Família Trapo**: (Sitcoms · 1967) Com Ronald Golias e escrita por Jô Soares e Carlos Alberto de Nóbrega, é considerada a primeira sitcom da TV brasileira.
+- **Sai de Baixo**: (Sitcoms · 1996) Gravada com plateia, em teatro, com Miguel Falabella, Marisa Orth e Tom Cavalcante como uma família falida.
+- **Os Normais**: (Sitcoms · 2001) Fernanda Torres e Luiz Fernando Guimarães são Vani e Rui, um casal com todas as neuroses.
+- **A Grande Família**: (Sitcoms · 2001) Lineu, Nenê e Agostinho Carrara: 14 temporadas com o subúrbio carioca como pano de fundo.
+- **Tapas & Beijos**: (Sitcoms · 2011) Fernanda Torres e Andréa Beltrão são amigas que vendem vestidos de noiva em Copacabana.
+- **Vai que Cola**: (Sitcoms · 2013) Paulo Gustavo é Valdo, malandro que foge para uma pensão no Méier. Um dos maiores sucessos da TV paga brasileira.
+- **Chaves**: (Nostalgia · 1984) Sim, é mexicano. Mas, depois de quatro décadas no SBT, muitos brasileiros tratam como patrimônio nacional, com dublagem que virou arte.
+- **Sítio do Picapau Amarelo**: (Nostalgia · 1977) Emília, Visconde, Saci e Cuca na TV: a porta de entrada do folclore brasileiro para as crianças.
+- **Os Trapalhões**: (Nostalgia · 1977) Didi, Dedé, Mussum e Zacarias nos domingos da Globo. Mussum ainda rende memes com o “cacildis”.
+- **Escolinha do Professor Raimundo**: (Nostalgia · 1990) Chico Anysio e a sala cheia de alunos que erravam tudo. “E o salário, ó!”
+- **Porta dos Fundos**: (Internet · 2012) Fábio Porchat, Gregorio Duvivier e amigos e as esquetes no YouTube, que ganharam um Emmy Internacional.
+- **Fantástico**: (Nostalgia · 1973) O “show da vida”, no fim do domingo. Para muitos brasileiros, a música de abertura é o aviso de que a segunda-feira chegou.
+- **Castelo Rá-Tim-Bum**: (Nostalgia · 1994) Programa infantil da TV Cultura com Nino, Morgana e o Tíbio e Perônio. Tão querido que virou exposição recordista no MIS.
+- **TV Globinho**: (Nostalgia · 2000) As manhãs de desenhos da Globo: Dragon Ball, Pokémon, Sakura Card Captors e o ritual de quem ia à escola à tarde.
+- **Xou da Xuxa**: (Nostalgia · 1986) A nave, as paquitas e os baixinhos marcaram toda uma geração nas manhãs da Globo.
+- **TV Colosso**: (Nostalgia · 1993) Cachorros-fantoches comandando uma emissora, em um programa infantil cheio de piadas para adultos.
+- **Mundo da Lua**: (Nostalgia · 1991) O gravador de Lucas Silva e Silva e as fantasias de um menino, na TV Cultura.
+- **Você Decide**: (Nostalgia · 1992) O público escolhia o final pelo telefone, décadas antes de Black Mirror: Bandersnatch.
+- **TV Pirata**: (Nostalgia · 1988) Humor sofisticado com Luiz Fernando Guimarães, Regina Casé e outros, que mudou a comédia na TV.
+- **Hermes & Renato**: (Internet · 1999) A trupe de Petrópolis que revolucionou o humor na MTV, com o Boça e a Joselito, antes de viralizar na internet.
+- **Programa do Jô**: (Auditório e entrevistas · 2000) O talk show de fim de noite da Globo, com Jô Soares e o Bloco do Eu Sozinho, por 16 anos.
+- **Roda Viva**: (Auditório e entrevistas · 1986) Na TV Cultura, um entrevistado no centro de uma roda de jornalistas: referência do debate no Brasil.
+- **Altas Horas**: (Auditório e entrevistas · 2000) Serginho Groisman e sua plateia jovem, com música ao vivo nas madrugadas de sábado.
+- **Domingão do Faustão**: (Auditório e entrevistas · 1989) Por 32 anos, as tardes de domingo do Brasil, com videocassetadas e a Dança dos Famosos.
+- **Programa do Gugu**: (Auditório e entrevistas · 2009) Depois de décadas no Domingo Legal, do SBT, Gugu levou seu estilo popular à Record.
+- **Caldeirão do Huck**: (Auditório e entrevistas · 2000) Lata Velha, Soletrando e Agora ou Nunca: os sábados da Globo com Luciano Huck.
+- **Programa Silvio Santos**: (Auditório e entrevistas · 1963) O programa mais antigo da TV brasileira, no ar desde 1963, com o célebre “quem quer dinheiro?”
+- **Hebe**: (Auditório e entrevistas · 1966) O sofá mais famoso da TV, passou por várias emissoras, com “gracinha” para todos.
+- **Cassino do Chacrinha**: (Auditório e entrevistas · 1982) Buzina, chacretes e calouros em um dos programas mais cultuados da Globo.
+- **Jovem Guarda**: (Auditório e entrevistas · 1965) Roberto Carlos, Erasmo e Wanderléa na Record lançaram o “iê-iê-iê” brasileiro.
+- **Festivais da Canção**: (Grandes transmissões · 1966) Nos anos 60, Elis, Chico, Caetano e Gil competiam ao vivo, com plateias que vaiavam e aplaudiam com fúria.
+- **Globo Rural**: (Jornalismo · 1980) A vida no campo e a música de abertura nas manhãs de domingo, desde 1980.
+- **Linha Direta**: (Jornalismo · 1999) Crimes reconstituídos que levaram à prisão de foragidos, com uma abertura de arrepiar.
+- **Repórter Esso**: (Jornalismo · 1952) “Testemunha ocular da história”: primeiro telejornal de grande sucesso no país, na TV Tupi.
+
+Fontes: [Ancine](https://www.gov.br/ancine)
+
+## Empresas e marcas
+
+https://brazilianculture.biblioverse.org/pt/marcas.html
+
+- **Havaianas**: (Moda · 1962) Inspiradas nas sandálias japonesas zori. Nasceram como calçado popular e viraram artigo de luxo em Paris e Nova York. “Todo mundo usa.”
+- **Natura**: (Beleza · 1969) Gigante de cosméticos com ingredientes da Amazônia. Já foi dona da Avon, em uma das maiores redes de venda direta do mundo.
+- **O Boticário**: (Beleza · 1977) Nasceu em uma farmácia de Curitiba e tornou-se uma das maiores redes de franquias de cosméticos do mundo.
+- **Embraer**: (Tecnologia · 1969) A terceira maior fabricante de aviões comerciais do mundo. Seus E-Jets voam em todos os continentes.
+- **Petrobras**: (Energia · 1953) A estatal do petróleo, líder em exploração em águas ultraprofundas no pré-sal. Nasceu da campanha “O petróleo é nosso”.
+- **Vale**: (Energia · 1942) Uma das maiores mineradoras do mundo. Também está associada aos desastres de Mariana (2015, pela Samarco) e Brumadinho (2019).
+- **Nubank**: (Bancos · 2013) O cartão roxo que abalou os bancões: um dos maiores bancos digitais do mundo, com mais de 100 milhões de clientes na América Latina.
+- **Itaú**: (Bancos · 1945) O maior banco privado da América Latina. Patrocina de Rock in Rio a museus.
+- **Banco do Brasil**: (Bancos · 1808) Fundado por dom João VI, é o banco mais antigo do país e um dos mais antigos do mundo em atividade.
+- **Mercado Livre**: (Varejo · 1999) Fundado na Argentina, tem no Brasil seu maior mercado. É a “Amazon da América Latina”.
+- **Magazine Luiza**: (Varejo · 1957) De lojinha em Franca (SP) a gigante do varejo. Luiza Trajano é a empresária mais conhecida do país.
+- **iFood**: (Tecnologia · 2011) O app de delivery que está em todo celular brasileiro, com ampla frota de entregadores.
+- **Guaraná Antarctica**: (Bebidas · 1921) O refrigerante que os brasileiros levam na mala. Vem do guaraná, fruto da Amazônia cujo uso indígena é ancestral.
+- **Brahma e AmBev**: (Bebidas · 1888) Da cervejaria carioca do século 19 à AmBev, base do que virou a AB InBev, a maior cervejaria do mundo, sob comando de brasileiros.
+- **JBS**: (Alimentos · 1953) Do açougue em Anápolis à maior processadora de carnes do mundo. Mira de críticas ambientais e centro de um grande escândalo político em 2017.
+- **Sadia e Perdigão**: (Alimentos · 1944) Marcas de frios e congelados que se uniram em 2009 para formar a BRF, grande exportadora mundial de frango.
+- **Globo**: (Mídia · 1965) Um dos maiores grupos de mídia do mundo. Por décadas, ditou as novelas, o noticiário e o gosto nacional.
+- **Melissa**: (Moda · 1979) A sandália de plástico com cheiro de chiclete. Fez collab com Vivienne Westwood e tem galerias em Londres e Nova York.
+- **Osklen**: (Moda · 1989) A marca carioca de Oskar Metsavaht, que veste o jeito “lifestyle praia” brasileiro no mundo.
+- **Tramontina**: (Casa · 1911) De uma ferraria em Carlos Barbosa (RS) para mais de 120 países. Provavelmente há uma faca dela na sua gaveta.
+- **Gerdau**: (Indústria · 1901) Uma das maiores produtoras de aço das Américas, fundada por um imigrante alemão em Porto Alegre.
+- **Correios**: (Serviços · 1663) Todo brasileiro já esperou uma encomenda pelos Correios, uma das instituições mais antigas do país.
+- **SBT**: (Mídia · 1981) A emissora de Silvio Santos, que nos anos 80 e 90 brigou pela audiência com novelas mexicanas, Chaves e programas de auditório.
+- **Record**: (Mídia · 1953) A emissora mais antiga do país ainda no ar. Comprada por Edir Macedo em 1989, tornou-se a segunda maior rede de TV.
+
+### O Brasil e o mundo: as marcas gêmeas
+
+- **Chase / HSBC / Itaú**: Bancos: Chase / HSBC (lá fora) = Itaú (Brasil)
+- **Revolut / Monzo / Nubank**: Bancos: Revolut / Monzo (lá fora) = Nubank (Brasil)
+- **Venmo / Zelle / Pix**: Bancos: Venmo / Zelle (lá fora) = Pix (Brasil)
+- **Experian / Serasa**: Bancos: Experian (lá fora) = Serasa (Brasil)
+- **Amazon / eBay / Mercado Livre**: Compras: Amazon / eBay (lá fora) = Mercado Livre (Brasil)
+- **Walmart / Best Buy / Magalu**: Compras: Walmart / Best Buy (lá fora) = Magalu (Brasil)
+- **Costco / Assaí / Atacadão**: Compras: Costco (lá fora) = Assaí / Atacadão (Brasil)
+- **Whole Foods / Waitrose / Pão de Açúcar**: Compras: Whole Foods / Waitrose (lá fora) = Pão de Açúcar (Brasil)
+- **Uber Eats / DoorDash / iFood**: Comida: Uber Eats / DoorDash (lá fora) = iFood (Brasil)
+- **McDonald’s / Habib’s / Bob’s**: Comida: McDonald’s (lá fora) = Habib’s / Bob’s (Brasil)
+- **Starbucks / Fran’s Café**: Comida: Starbucks (lá fora) = Fran’s Café (Brasil)
+- **Coca-Cola / Guaraná Antarctica**: Comida: Coca-Cola (lá fora) = Guaraná Antarctica (Brasil)
+- **Bud Light / Carling / Skol / Brahma**: Comida: Bud Light / Carling (lá fora) = Skol / Brahma (Brasil)
+- **Kit Kat / Bis**: Comida: Kit Kat (lá fora) = Bis (Brasil)
+- **Oreo / Passatempo**: Comida: Oreo (lá fora) = Passatempo (Brasil)
+- **L’Occitane / The Body Shop / Natura**: Beleza e moda: L’Occitane / The Body Shop (lá fora) = Natura (Brasil)
+- **Sephora / O Boticário**: Beleza e moda: Sephora (lá fora) = O Boticário (Brasil)
+- **Crocs / Melissa**: Beleza e moda: Crocs (lá fora) = Melissa (Brasil)
+- **H&M / Zara / Renner / C&A**: Beleza e moda: H&M / Zara (lá fora) = Renner / C&A (Brasil)
+- **American / Delta / LATAM / Gol**: Transporte: American / Delta (lá fora) = LATAM / Gol (Brasil)
+- **Southwest / Azul**: Transporte: Southwest (lá fora) = Azul (Brasil)
+- **FedEx / USPS / Correios**: Transporte: FedEx / USPS (lá fora) = Correios (Brasil)
+- **BBC / NBC / Globo**: Mídia: BBC / NBC (lá fora) = Globo (Brasil)
+- **Hulu / Globoplay**: Mídia: Hulu (lá fora) = Globoplay (Brasil)
+- **The New York Times / Folha de S.Paulo**: Mídia: The New York Times (lá fora) = Folha de S.Paulo (Brasil)
+- **Marvel e DC / Turma da Mônica**: Mídia: Marvel e DC (lá fora) = Turma da Mônica (Brasil)
+- **Boeing / Bombardier / Embraer**: Tecnologia: Boeing / Bombardier (lá fora) = Embraer (Brasil)
+- **Shell / Exxon / Petrobras**: Energia: Shell / Exxon (lá fora) = Petrobras (Brasil)
+- **Rio Tinto / BHP / Vale**: Energia: Rio Tinto / BHP (lá fora) = Vale (Brasil)
+
+## Comida
+
+https://brazilianculture.biblioverse.org/pt/comida.html
+
+
+### No prato de todo dia
+
+- **Arroz com feijão**: O par mais presente da mesa, geralmente com salada, uma carne e farofa.
+- **Café da manhã**: Pão francês com manteiga, café com leite e fruta. O pão fresco vem da padaria da esquina.
+- **Prato feito**: O “PF” ou o quilo: almoço barato em que você paga pelo peso ou leva um prato completo.
+- **Salgado de padaria**: Coxinha, esfiha ou empada com refrigerante resolve o lanche em todo o país.
+- **Frutas**: Banana, manga, mamão e laranja são baratos o ano inteiro.
+- **Almoço de domingo**: A família reunida na mesa com macarronada, frango assado ou churrasco.
+
+### Pratos, salgados, doces e bebidas
+
+- **Feijoada**: (Pratos) Feijão-preto cozido com carnes de porco, servido com arroz, couve, farofa e laranja. É o almoço de sábado por excelência.
+- **Moqueca**: (Pratos) Peixe cozido em panela de barro. Na versão baiana, leva azeite de dendê e leite de coco; na capixaba, urucum. E há quem brigue por isso.
+- **Churrasco**: (Pratos) Nasceu nos pampas do Sul e virou o programa de domingo. O corte rei é a picanha, de preferência só com sal grosso.
+- **Acarajé**: (Pratos) Bolinho de feijão-fradinho frito no dendê, recheado com vatapá e camarão. Comida de santo vendida pelas baianas, reconhecidas como patrimônio do Brasil.
+- **Baião de dois**: (Pratos) Arroz e feijão cozidos juntos, com queijo coalho e carne de sol: o sertão num prato só.
+- **Tacacá e açaí de verdade**: (Pratos) Tucupi quente com jambu, a erva que faz a boca tremer. No Pará, o açaí é salgado, comido com peixe e farinha, bem longe da tigela de academia.
+- **Arroz e feijão**: (Pratos) A dupla base do prato nacional. Sem ele, para muita gente, ainda não foi almoço.
+- **Pão de queijo**: (Salgados) Mineiro, sem glúten por natureza, feito com polvilho de mandioca e queijo. Vai bem com café a qualquer hora.
+- **Coxinha**: (Salgados) Massa em formato de coxa, recheada de frango e frita. A rainha das lanchonetes e dos aniversários.
+- **Pastel de feira**: (Salgados) Massa fina, frita na hora, servida com caldo de cana. Herança dos imigrantes japoneses e chineses em São Paulo.
+- **Brigadeiro**: (Doces) Chocolate, leite condensado e granulado. Nasceu nos anos 1940, ligado à campanha do brigadeiro Eduardo Gomes, e não há festa sem ele.
+- **Beijinho e cajuzinho**: (Doces) Os parceiros do brigadeiro na mesa de festa: um de coco com cravo, o outro de amendoim.
+- **Romeu e Julieta**: (Doces) Goiabada com queijo minas. A combinação perfeita: doce e salgado no mesmo garfo.
+- **Quindim**: (Doces) Gema, açúcar e coco, numa fusão de doces portugueses de convento com ingredientes da África e do Brasil.
+- **Paçoca**: (Doces) Amendoim moído com açúcar. Antes de virar doce, o nome tupi designava uma mistura de carne e farinha.
+- **Pudim de leite condensado**: (Doces) Com calda de caramelo, é a sobremesa do almoço de domingo de todos os lares.
+- **Mandioca e farinha**: (Ingredientes) O alimento-base dos povos indígenas. Aparece cozida, frita, como tapioca, polvilho, tucupi e farofa, que os brasileiros põem em quase tudo.
+- **Tapioca**: (Ingredientes) Goma de mandioca feita em frigideira, recheada de tudo. Tecnologia indígena que hoje é moda em todo o país.
+- **Dendê**: (Ingredientes) O azeite de palma alaranjado, vindo da África, que dá à cozinha baiana o sabor e a cor.
+- **Frutas nativas**: (Ingredientes) Cupuaçu, jabuticaba, caju, pitanga, cajá, graviola, açaí. Boa parte delas nem tem tradução para o inglês.
+- **Cafézinho**: (Bebidas) Forte, pequeno, doce. O Brasil é o maior produtor mundial de café há mais de 150 anos, e oferecer um é o gesto básico de hospitalidade.
+- **Caipirinha**: (Bebidas) Cachaça, limão, açúcar e gelo. Patrimônio nacional, o drinque brasileiro mais famoso do mundo.
+- **Cachaça**: (Bebidas) Destilado de cana-de-açúcar com denominação própria e milhares de marcas e de apelidos: branquinha, marvada, pinga.
+- **Chimarrão**: (Bebidas) Erva-mate em cuia, com bomba de metal e água quente, herança guarani. Em Porto Alegre, anda com a pessoa até na rua.
+- **Tereré**: (Bebidas) O irmão gelado do chimarrão, comum no Mato Grosso do Sul.
+- **Caldo de cana**: (Bebidas) Cana moída na hora, com limão ou abacaxi, parceiro obrigatório do pastel.
+- **Guaraná**: (Bebidas) Fruta da Amazônia usada pelos Sateré-Mawé e cheia de cafeína. Virou refrigerante e pó energético.
+- **Vinagrete**: (Ingredientes) Tomate, cebola, pimentão, vinagre e azeite picados bem miúdo. Sem ele, o churrasco e a farofa ficam incompletos.
+- **Pequi**: (Ingredientes) O fruto do Cerrado, de cheiro fortíssimo e sabor marcante, no arroz com pequi goiano. Cuidado: tem espinhos por dentro, e não se morde.
+
+Fontes: [Iphan: patrimônio imaterial](https://www.gov.br/iphan)
+
+## Invenções e ciência
+
+https://brazilianculture.biblioverse.org/pt/invencoes.html
+
+- **Rede de dormir**: (Povos indígenas · séculos) Os europeus viram as redes logo na chegada, e Pero Vaz de Caminha as menciona. Hoje é item nacional, do Norte ao Nordeste.
+- **Farinha de mandioca**: (Povos indígenas · milênios) Os indígenas domesticaram a mandioca e desenvolveram métodos para eliminar o veneno das variedades bravas, técnica levada depois para a África.
+- **Terra preta**: (Povos indígenas · milênios) Solo escuro fértil criado por povos amazônicos que hoje intriga cientistas. A floresta também é, em parte, uma criação humana.
+- **Passarola**: (Invenções · 1709) O padre Bartolomeu de Gusmão, nascido em Santos, fez um pequeno balão de ar quente voar diante da corte portuguesa.
+- **Máquina de escrever**: (Invenções · 1861) O padre paraibano Francisco João de Azevedo mostrou uma máquina de datilografar antes dos modelos comerciais americanos.
+- **Rádio de voz**: (Invenções · 1900) O padre gaúcho Roberto Landell de Moura fez transmissões de voz sem fio e registrou patente no Brasil e nos EUA.
+- **Soro antiofídico**: (Ciência · 1901) Vital Brazil descobriu que cada tipo de cobra exige um soro específico e fundou o Instituto Butantan, um dos maiores centros de vacinas do mundo.
+- **Saneamento e campanhas contra epidemias**: (Ciência · 1903) Oswaldo Cruz acabou com a febre amarela no Rio, mas a vacinação obrigatória contra varíola gerou a Revolta da Vacina, em 1904.
+- **14-Bis**: (Invenções · 1906) Alberto Santos-Dumont voou em Paris na primeira decolagem pública de um avião sem catapulta. Para os brasileiros, ele, não os irmãos Wright, é o pai da aviação. Também popularizou o relógio de pulso.
+- **Doença de Chagas**: (Ciência · 1909) Carlos Chagas descreveu sozinho o parasita, o vetor e a doença, um feito único na história da medicina.
+- **Méson pi**: (Ciência · 1947) César Lattes participou da detecção dessa partícula subatômica. O Nobel foi só para o chefe, Cecil Powell. A plataforma nacional de currículos leva o nome dele.
+- **Bradicinina**: (Ciência · 1948) Maurício Rocha e Silva a descobriu no veneno de jararaca. Pesquisas seguintes levaram ao captopril, um dos remédios mais usados contra hipertensão.
+- **Formação Econômica do Brasil**: (Ciência · 1959) Celso Furtado explicou o subdesenvolvimento brasileiro em um clássico da economia mundial e criou a Sudene.
+- **Fixação biológica do nitrogênio**: (Ciência · 1960) Johanna Döbereiner mostrou que bactérias podem substituir adubo na soja. Isso economiza bilhões por ano e sustenta boa parte da força do agro brasileiro.
+- **Orelhão**: (Invenções · 1971) Criação da arquiteta Chu Ming Silveira. Barato, resistente e fácil de identificar, virou paisagem e foi exportado para outros países.
+- **Stereobelt (o avô do walkman)**: (Invenções · 1972) O teuto-brasileiro Andreas Pavel criou em São Paulo um toca-fitas portátil de bolso. Anos depois, a Sony fez acordo pela patente.
+- **Etanol e Proálcool**: (Invenções · 1975) Depois da crise do petróleo, o Brasil apostou no álcool de cana como combustível. A aposta levou ao carro flex (2003), hoje a maioria da frota brasileira.
+- **Agricultura no Cerrado**: (Ciência · 1973) A Embrapa adaptou solo ácido e culturas ao Cerrado, transformando o Brasil em potência agrícola, com altos custos ambientais.
+- **Geografia da Amazônia**: (Ciência · 1990) Bertha Becker mostrou que a floresta é também urbana e política, e influenciou planos de desenvolvimento sustentável da região.
+- **Urna eletrônica**: (Invenções · 1996) Eleições gerais 100% eletrônicas desde 2000, com resultado apurado em poucas horas, mesmo com um eleitorado de 158 milhões.
+- **Medalha Fields**: (Ciência · 2014) Artur Avila, carioca formado no IMPA, ganhou o “Nobel da matemática”, o primeiro para a América Latina.
+- **Pix**: (Invenções · 2020) Sistema gratuito de pagamento instantâneo do Banco Central. Virou um caso de estudo no mundo: hoje até o pipoqueiro aceita.
+- **Genoma do coronavírus**: (Ciência · 2020) Jaqueline Goes de Jesus e Ester Sabino sequenciaram o vírus 48 horas depois do primeiro caso no país.
+
+## Virais e memes
+
+https://brazilianculture.biblioverse.org/pt/virais-e-memes.html
+
+
+### Memes e lendas
+
+- **Nazaré Confusa**: (Memes) Renata Sorrah fazendo contas em Senhora do Destino (2004) virou um dos memes mais usados do mundo, o “confused math lady”.
+- **Ronaldinho soccer**: (Memes) O anúncio em que Ronaldinho chuta a bola no travessão e ela volta, quatro vezes, em 2005. Foi um dos primeiros vídeos do YouTube a atingir um milhão de views.
+- **Luva de Pedreiro**: (Virais · 2022) “Receba!” e “Confia no pai”: um servente de pedreiro da Bahia virou febre global com vídeos num campo de terra.
+- **Inês Brasil**: (Virais · 2013) O vídeo de inscrição no BBB (“Alô, alô, graças a Deus”) a transformou em diva instantânea.
+- **Bonner ao vivo**: (Memes) Os comentários de William Bonner, os “boa noite” e as despedidas do Jornal Nacional. Ele deixou a bancada em 2025, depois de quase 30 anos.
+- **Gretchen**: (Memes) A “Rainha do Bumbum” dos anos 80 virou stickers globais e estrelou um clipe de Katy Perry.
+- **Xaropinho**: (Memes) Ratinho, o boneco e o “rapaaaaz”: humor popular que atravessou de auditórios para a internet.
+- **Choque de Cultura**: (Virais · 2016) Quatro “pilotos de van” discutem cinema, com Rogerinho do Ingá e Julinho da Van. Sátira brasileira cheia de fãs.
+- **Lei de Gérson**: (Lendas · 1976) Num comercial de cigarros, o craque Gérson disse “gosto de levar vantagem em tudo”. A frase virou sinônimo do pior do jeitinho.
+- **7 a 1**: (Memes · 2014) A derrota para a Alemanha na semifinal da Copa em casa virou expressão para qualquer desastre: “um verdadeiro 7 a 1”.
+- **Os ETs de Varginha**: (Lendas · 1996) Três moças disseram ter visto uma criatura na cidade mineira. O caso virou o mais famoso da ufologia nacional, com caixa-d’água em forma de disco voador.
+- **Mula sem cabeça, Saci e Curupira**: (Lendas) Mais antigos que os memes: o menino de uma perna só que faz travessuras, o protetor da mata de pés virados e a mula que solta fogo.
+- **Capivara**: (Virais) O maior roedor do mundo é o bicho de maior sucesso da internet. Em 2023, a capivara Filó e seu amigo Agenor Tupinambá, do Amazonas, viraram assunto nacional.
+- **Dona Hermínia**: (Memes) Paulo Gustavo como mãe em todo o Brasil. Frases dela ainda rodam em grupos de família no WhatsApp.
+- **Grupo da família no WhatsApp**: (Lendas) O Bom Dia com rosa e versículo, a corrente, a fake news do tio. Quase todo brasileiro faz parte de um.
+- **Felca**: (Virais · 2025) O vídeo “Adultização”, sobre exploração de crianças nas redes, ultrapassou dezenas de milhões de views e levou o Congresso a aprovar uma lei de proteção.
+
+### Comediantes
+
+- **Chico Anysio**: (TV e palco) Criou mais de 200 personagens, como o Professor Raimundo, e foi a maior referência do humor nacional. Morreu em 2012.
+- **Mazzaropi**: (Cinema) O Jeca Tatu do cinema caipira, que por décadas lotou salas no interior com filmes produzidos por ele mesmo.
+- **Oscarito e Grande Otelo**: (Cinema) A dupla das chanchadas da Atlântida. Grande Otelo também é símbolo do ator negro no Brasil, com Macunaíma (1969).
+- **Dercy Gonçalves**: (TV e palco) Desbocada, audaciosa e livre. Seguiu no palco até depois dos 100 anos, falando palavrão para qualquer autoridade.
+- **Ronald Golias**: (TV e palco) O Bronco de Família Trapo e o “ô, Cride!”. Um dos primeiros grandes humoristas da TV.
+- **Renato Aragão**: (TV e palco) O Didi de Os Trapalhões. Com Mussum, Dedé e Zacarias, liderou décadas de audiência e bilheteria.
+- **Tom Cavalcante**: (TV e palco) Mestre da imitação que marcou Sai de Baixo e criou o Show do Tom.
+- **Tiririca**: (TV e palco) Palhaço que estourou com Florentina e foi eleito deputado com o slogan “pior do que está, não fica”.
+- **Bussunda e Casseta & Planeta**: (TV e palco) Sátira política nos anos 90. Bussunda fazia um Ronaldo inesquecível e morreu durante a Copa de 2006.
+- **Marcelo Adnet**: (TV e internet) Revelado na MTV, faz imitação e sátira política com a precisão de um músico.
+- **Paulo Gustavo**: (Cinema) Dona Hermínia, Vai que Cola e a maior bilheteria do cinema nacional. Morreu de Covid-19 em 2021, e a lei de fomento à cultura leva o nome dele.
+- **Tatá Werneck**: (TV e internet) Rainha do improviso. Comanda o Lady Night, no Multishow, em que tira sarro dos próprios convidados.
+- **Fábio Porchat**: (TV e internet) Cofundador do Porta dos Fundos. Hoje é um dos entrevistadores mais conhecidos do país.
+- **Gregorio Duvivier**: (TV e internet) Porta dos Fundos, Greg News e poesia. Um dos nomes mais conhecidos da sátira política atual.
+- **Antonio Tabet**: (TV e internet) Criou o blog Kibe Loco, marco do humor na internet nos anos 2000, e cofundou o Porta dos Fundos.
+- **Dani Calabresa**: (TV e internet) Das imitações na MTV ao CQC e ao Zorra. Uma das humoristas mais queridas da TV.
+- **Rafinha Bastos**: (Stand-up) Um dos pioneiros do stand-up no Brasil e ex-CQC, com humor ácido que gera polêmicas regulares.
+- **Danilo Gentili**: (Stand-up) Passou pelo CQC e apresenta The Noite, no SBT, com humor provocativo.
+- **Afonso Padilha**: (Stand-up) Fala sobre a infância humilde, a família e a vida real, e tem milhões de views em especiais de stand-up.
+- **Bruna Louise**: (Stand-up) Começou no YouTube e lançou um especial solo de stand-up na Netflix em 2022.
+- **Whindersson Nunes**: (Stand-up) Do Piauí para o YouTube e para teatros lotados no Brasil e em outros países.
+
+## Paixões nacionais
+
+https://brazilianculture.biblioverse.org/pt/paixoes-nacionais.html
+
+
+### Costumes
+
+- **O barzinho**: (No bar) Mesa de plástico na calçada, porção de petiscos e amigos sem hora para ir embora. A saideira raramente é a última.
+- **Cerveja gelada**: (No bar) O Brasil é o terceiro maior produtor de cerveja do mundo, com cerca de 15 bilhões de litros por ano. A garrafa de 600 ml vai para o meio da mesa e todo mundo divide, em copo pequeno para não esquentar.
+- **Caipirinha**: (No bar) O coquetel nacional de cachaça e limão aparece na praia, no churrasco e na festa. Hoje também vem com morango, maracujá e vodca, para desgosto dos puristas.
+- **Arroz e feijão**: (Na mesa) O almoço de um dia normal, para rico e para pobre. Muito brasileiro no exterior diz que é disso que sente mais falta.
+- **O churrasco**: (Na mesa) Mais um evento social do que uma refeição: alguém fica horas na churrasqueira, a carne sai aos poucos e todo mundo tem opinião sobre o sal. Qualquer desculpa serve.
+- **O almoço de domingo**: (Na mesa) A família inteira na casa da avó, com comida demais, barulho e alguém perguntando quando você vai casar.
+- **A hospitalidade do interior**: (Na mesa) Nas cidades pequenas e na roça, as pessoas adoram receber, e a mesa enche antes mesmo de você sentar. Terminou o prato? Vão mandar repetir: “você não comeu nada!”. Dizer não raramente funciona.
+- **Cafézinho**: (Na mesa) Oferecido em casa, no escritório e até na oficina mecânica. Recusar exige explicação.
+- **Assistir futebol**: (Na tela) O time muitas vezes vem de família, e a escolha é para a vida. Na pesquisa Datafolha de 2026, 63% têm algum interesse por futebol e 36% não têm nenhum. Ou seja, nem todo mundo.
+- **A novela**: (Na tela) Por décadas, o país organizou a noite em torno da novela das nove. Em 2025, o remake de Vale Tudo fez o Brasil inteiro perguntar de novo quem matou Odete Roitman.
+- **BBB**: (Na tela) No ar desde 2002, ocupa o começo de todo ano com brigas, memes e discursos de eliminação. Um paredão do BBB 20 teve mais de 1,5 bilhão de votos e entrou para o Guinness.
+- **A praia**: (Na rua) Cooler, guarda-sol, chinelo, ambulante gritando e bola no ar. Até quem mora longe do mar planeja o ano em função dela.
+- **Discussão política na internet**: (Na rua) Comentários, grupos da família e threads em que ninguém muda de ideia. Muita família tem a regra: política fica fora do grupo.
+- **Chegar atrasado**: (Na rua) A festa “às 8” começa às 10, e quem chega na hora pode pegar o anfitrião no banho. No trabalho e no médico, a história é outra.
+- **“Passa lá em casa”**: (Na rua) É simpatia, não um convite de verdade. Não espere data marcada. O mesmo vale para “vamos marcar”.
+- **A despedida longa**: (Na rua) Dizer “já vou” começa um processo de meia hora: mais uma conversa na sala, outra no portão e a última na janela do carro.
+- **Tomar muito banho**: (Em casa) Pelo menos um por dia, muitas vezes dois no calor. Muito brasileiro se choca ao descobrir que essa regra não vale em todo lugar.
+- **A fofoca**: (Em casa) Esporte nacional, praticado na calçada, no grupo da família e em páginas com milhões de seguidores.
+
+### Esportes
+
+- **Futebol**: (Mais acompanhados) Lidera todas as pesquisas, com cinco Copas do Mundo. Também é o esporte mais praticado: 15,3 milhões de pessoas, ou 39,3% de quem pratica algum esporte, segundo o IBGE.
+- **Vôlei**: (Mais acompanhados) O segundo lugar habitual em popularidade, graças a décadas de medalhas da seleção, na quadra e na areia.
+- **Fórmula 1**: (Mais acompanhados) As manhãs de domingo com o tema da vitória do Senna marcaram uma geração. O interesse voltou a crescer, com a chegada de Gabriel Bortoleto ao grid em 2025.
+- **MMA**: (Mais acompanhados) Anderson Silva, José Aldo e Amanda Nunes transformaram o UFC em evento nacional, mesmo de madrugada.
+- **Basquete**: (Mais acompanhados) De Oscar Schmidt e Hortência à NBA, que tem público grande e crescente no Brasil.
+- **Tênis**: (Mais acompanhados) Os títulos do Guga em Roland Garros causaram um boom nos anos 2000, e João Fonseca reacendeu a paixão nos anos 2020.
+- **Surfe**: (Mais acompanhados) A “Brazilian Storm” de Medina, Italo e Filipe Toledo fez o país acordar de madrugada para ver campeonatos do outro lado do mundo.
+- **Skate**: (Mais acompanhados) Antes malvisto, conquistou o país com as medalhas olímpicas de Rayssa Leal.
+- **Ginástica**: (Mais acompanhados) Muita gente só acompanha nas Olimpíadas, mas Rebeca Andrade para o país quando compete.
+- **A pelada**: (Mais praticados) No campo de terra, na rua ou na quadra alugada, com a mesma turma toda semana e discussão incluída. Segundo o IBGE, 94,5% de quem joga futebol são homens.
+- **Caminhada**: (Mais praticados) A atividade física mais comum fora do esporte, segundo o IBGE: 9,5 milhões de pessoas, principalmente a partir dos 60 anos.
+- **Futsal**: (Mais praticados) O clássico da quadra da escola e a base de muitos craques do futebol.
+- **Academia**: (Mais praticados) Musculação, aulas e muita selfie no espelho. Tem academia em toda esquina, e para muita gente ela faz parte da vida social.
+- **Corrida de rua**: (Mais praticados) Febre recente, com grupos de corrida e provas lotadas pelo país. O clássico é a São Silvestre, em 31 de dezembro, em São Paulo.
+- **Futevôlei**: (Mais praticados) Vôlei sem usar as mãos, inventado nas praias do Rio. Pura exibição, e muito difícil.
+- **Beach tennis e altinha**: (Mais praticados) O beach tennis virou febre até longe do mar. A altinha é mais simples: uma roda de amigos mantendo a bola no ar, com os pés na água.
+- **Jiu-jítsu brasileiro**: (Mais praticados) A família Gracie adaptou o judô japonês no Rio e criou uma arte marcial hoje praticada no mundo todo.
+- **Capoeira**: (Mais praticados) Criada por africanos escravizados e seus descendentes, mistura luta, dança e música. É praticada em escolas e praças e é patrimônio brasileiro.
+- **Peteca**: (Mais praticados) De origem indígena e jogada com a mão, é uma das favoritas do recreio, principalmente em Minas Gerais.
+
+### Festas e eventos
+
+- **Carnaval**: (País todo) Escolas de samba no Rio e em São Paulo, trios em Salvador, frevo em Recife e Olinda e blocos em todo canto. Muita gente também aproveita para fugir de tudo isso.
+- **Festa Junina**: (País todo) Fogueira, camisa xadrez, sarda pintada, quadrilha, milho de todo jeito e pescaria. Toda escola faz a sua, geralmente com pais constrangidos.
+- **Réveillon de Copacabana**: (País todo) Roupa branca, sete ondas e fogos. O Guinness reconheceu o do Rio como a maior festa de Ano-Novo do mundo, com 2,5 milhões de pessoas na areia em frente ao palco principal.
+- **A festa de aniversário**: (País todo) Brigadeiro, coxinha, mesa temática e o “Parabéns” com versos extras. Quem ganha o primeiro pedaço de bolo é a pessoa homenageada.
+- **Caruaru contra Campina Grande**: (Nordeste) As duas cidades disputam o título de maior São João do mundo: um mês de forró em Pernambuco e na Paraíba, disputa tão animada quanto a festa.
+- **Parintins**: (Norte) Na Amazônia, os bois Garantido e Caprichoso competem com alegorias gigantes em um festival em junho. A cidade se divide entre vermelho e azul.
+- **Círio de Nazaré**: (Norte) Em Belém, mais de 2 milhões de pessoas acompanham a procissão em outubro, um dos maiores eventos religiosos do mundo.
+- **Bumba meu boi**: (Nordeste) A história do boi que morre e ressuscita, com fantasias, tambores e dança. No Maranhão, é o coração do São João e patrimônio da Unesco.
+- **Lavagem do Bonfim**: (Nordeste) Em janeiro, baianas lavam as escadarias da igreja em Salvador com água de cheiro, em um grande encontro entre catolicismo e candomblé.
+- **Oktoberfest de Blumenau**: (Sul) Chope, roupas típicas e dança alemã em Santa Catarina desde 1984. Herança dos imigrantes, no calor tropical.
+- **Natal Luz de Gramado**: (Sul) Um Natal de fantasia europeia sem neve na Serra Gaúcha, que dura meses e atrai visitantes de todo o país.
+- **Festa do Peão de Barretos**: (Sudeste) Realizado desde os anos 1950 no interior de São Paulo, o rodeio mais famoso do país mistura montaria e grandes nomes do sertanejo todo mês de agosto.
+- **Rock in Rio, Lollapalooza e The Town**: (Sudeste) Os grandes festivais de música do país. O Rock in Rio, nascido em 1985, virou marca global. O Lollapalooza lota Interlagos, em São Paulo, há mais de uma década, e o The Town, dos criadores do Rock in Rio, acontece na mesma cidade desde 2023.
+- **Shows de graça na areia**: (Sudeste) Copacabana virou palco mundial: a prefeitura estimou 1,6 milhão de pessoas para Madonna em 2024 e 2,1 milhões para Lady Gaga em 2025.
+- **Parada LGBT+ de São Paulo**: (Sudeste) A Avenida Paulista recebe uma das maiores paradas do orgulho do mundo desde 1997.
+- **Marcha para Jesus**: (Sudeste) O evento evangélico que lota as ruas de São Paulo todo ano, com gospel nos trios. Um sinal de como a fé do país vem mudando.
+
+### Carros
+
+- **Fusca**: (Clássicos · 1959) O mais vendido do país por 24 anos. Saiu de linha e voltou em 1993, a pedido do presidente Itamar Franco. Muitos ainda rodam, e são amados.
+- **Kombi**: (Clássicos · 1957) Fabricada no Brasil até 2013. Transporte escolar, carro de sorvete, loja ambulante e sonho de surfista.
+- **Chevrolet Opala**: (Clássicos · 1968) O sedã grande de seis cilindros foi carro dos sonhos por décadas e ainda tem clubes de fãs devotos.
+- **Brasília**: (Clássicos · 1973) O carro de família dos anos 1970, imortalizado pela música dos Mamonas Assassinas sobre a Brasília amarela.
+- **Volkswagen Gol**: (Populares · 1980) O carro mais vendido do Brasil por 27 anos seguidos e o mais produzido da história do país. Saiu de linha em 2022, com muita despedida.
+- **Fiat Uno**: (Populares · 1984) O “Mille” quadrado e barato foi o primeiro carro de milhões. Virou meme: o com escada no teto é a coisa mais rápida da estrada.
+- **Chevrolet Onix**: (Populares · 2012) Tomou a coroa do Gol e foi o carro mais vendido do país de 2015 a 2020.
+- **Fiat Strada**: (Hoje · 1998) Uma picape pequena é a favorita do país: o veículo mais emplacado desde 2021, com cerca de 143 mil unidades em 2025. Trabalha na roça, no comércio e leva criança à escola.
+- **Toyota Hilux**: (Hoje) A picape grande é símbolo do agronegócio e de status, mesmo que nunca saia do asfalto.
+- **O carro flex**: (Paixões · 2003) O brasileiro escolhe entre etanol e gasolina na bomba, fazendo conta de cabeça. A maioria dos carros novos é flex, e todo motorista conhece a regra dos 70%.
+- **Honda CG**: (Paixões) A moto que entrega de tudo. Motos são o ganha-pão de milhões, de entregadores a mototaxistas, e a CG é a mais popular delas.
+- **O som automotivo**: (Paixões) Porta-malas cheio de caixas, “paredão” no posto e funk ou forró no volume máximo. Muitas vezes ilegal, e sempre audível.
+- **Carro rebaixado**: (Paixões) Vidro escuro, roda grande e suspensão quase tocando o chão. Encontros lotam estacionamentos nos fins de semana.
+- **Frase de para-choque**: (Paixões) A filosofia dos caminhoneiros, pintada na traseira. Humor, fé e dor de cotovelo a 80 km/h.
+- **Lavar o carro no domingo**: (Paixões) O carro é status e membro da família: é lavado na rua, com as portas abertas e música ligada.
+
+### Internet e memes
+
+- **Sempre online**: (Hábitos) Segundo o relatório Digital 2026, o brasileiro passa cerca de 53 horas por semana online, contra 33 da média mundial. Nas redes sociais, são 29 horas contra 18,6.
+- **O zap**: (Hábitos) É o verdadeiro sistema operacional do país, com cerca de 1h38 por dia: para pedir pizza, falar com o médico e brigar com a família.
+- **O áudio de quatro minutos**: (Hábitos) Muita gente prefere falar a digitar. Outros ouvem em velocidade dobrada, ou respondem por texto em protesto.
+- **A imagem de “bom dia”**: (Hábitos) Rosas, nascer do sol, versículo e glitter, enviados ao grupo pela sua tia às 6 da manhã.
+- **Meme em minutos**: (Memes) Qualquer notícia, jogo ou premiação vira piada em minutos. O brasileiro também costuma rir da tragédia, como forma de lidar com ela. Veja também Virais e memes.
+- **Figurinhas**: (Memes) O brasileiro transformou as figurinhas do WhatsApp em forma de arte, muitas vezes recortadas de qualquer foto de qualquer pessoa, incluindo amigos e parentes.
+- **kkkkkk**: (Memes) É assim que o brasileiro escreve a risada. Quanto mais k, mais engraçado. O antigo “rsrs” hoje entrega a idade.
+- **Cala Boca Galvão**: (Memes · 2010) Na Copa, os brasileiros levaram a frase aos assuntos mais comentados do Twitter no mundo e convenceram estrangeiros de que era para salvar uma ave rara. Era para mandar o narrador Galvão Bueno calar a boca.
+- **A invasão dos comentários**: (Lá fora) Quando uma celebridade olha para o Brasil ou um clube estrangeiro contrata um brasileiro, os comentários se enchem de “come to Brazil”. Muitos artistas se encantam, alguns se assustam.
+- **Huehuehue**: (Lá fora) Nos jogos online, os brasileiros ficaram famosos pela risada e por certa bagunça. “BR?” ainda é a primeira frase de qualquer partida.
+- **Orkut**: (Lá fora · 2004) A rede do Google foi um fenômeno brasileiro, com comunidades como “Eu odeio acordar cedo”. Fechou em 2014 e ainda deixa saudade.
+- **A mudança para o Bluesky**: (Lá fora · 2024) Quando o STF suspendeu o X por mais de um mês, milhões de brasileiros testaram outras redes e levaram o humor junto.
+- **As lives**: (Hábitos) Na pandemia, o país assistiu a shows em casa, com Marília Mendonça entre as recordistas mundiais. Hoje, a CazéTV do Casimiro transmite a Copa no YouTube.
+- **A fake news do tio**: (Hábitos) Correntes com cura milagrosa, teoria da conspiração ou golpe. Problema sério, e também piada de família. Outro olhar: A desinformação em aplicativos de mensagem virou um problema real nas eleições e nas campanhas de saúde, e é tema de debate na Justiça e no Congresso.
+
+### Cachorro caramelo
+
+- **Quem é ele?**: (O cachorro) Não é uma raça. O caramelo é um vira-lata de porte médio e pelo dourado, visto em quase toda rua do país. E costuma andar como se fosse o dono do lugar.
+- **O cachorro do bairro**: (O cachorro) Muitas vezes mora no posto, na padaria da esquina ou no mercado, com o pote de um vizinho e a cama de outro. De ninguém e de todo mundo.
+- **A nota de R$ 200**: (Fama na internet · 2020) Quando a nova nota foi anunciada, a internet fez campanha para estampar um caramelo, e as notas falsas viralizaram. O lobo-guará ficou no lugar, mas o cachorro ganhou no voto popular.
+- **O astro de cinema**: (Fama na internet · 2025) Caramelo, da Netflix, com Rafael Vitti e o vira-lata resgatado Amendoim, fez o público chorar pelo mundo e chegou ao topo do ranking global da plataforma.
+- **Garoto-propaganda**: (Fama na internet) As marcas o adotaram para parecer mais brasileiras. Poucos personagens são tão queridos em todas as regiões e lados políticos.
+- **O cavalo Caramelo**: (Um afeto nacional · 2024) Nas enchentes do Rio Grande do Sul, um cavalo ilhado em um telhado em Canoas foi resgatado ao vivo na TV. O nome dele? Caramelo, claro.
+- **Manchinha**: (Um afeto nacional · 2018) A morte de uma cachorra de rua espancada em um supermercado em Osasco causou comoção nacional e reforçou os pedidos de leis mais duras contra maus-tratos.
+- **Adote, não compre**: (Um afeto nacional) A fama ajudou as campanhas pelos vira-latas. Mas o problema é real: abrigos e voluntários pelo país continuam lotados.
+
+### E mais
+
+- **Fé em tudo**: (Dia a dia) Missa, culto, candomblé, umbanda e espiritismo, às vezes na mesma família. “Graças a Deus” fecha quase toda frase.
+- **Pet como filho**: (Dia a dia) Cães e gatos têm festa de aniversário, roupa e lugar à mesa. Donos se chamam de “mãe” e “pai” sem nenhum constrangimento.
+- **Mãe**: (Dia a dia) Sabe de tudo, diz “leva um casaco” a 30 °C e ameaça com o chinelo. Instituição nacional, e meme.
+- **Chinelo**: (Dia a dia) Usado na praia, na padaria e, para alguns, em quase todo lugar. A Havaianas levou o chinelo ao mundo, mas ele nasceu aqui como calçado do dia a dia do povo.
+- **Parcelar tudo**: (Dinheiro) “Em quantas vezes?” Geladeira, tênis e até o mercado são divididos: 12 vezes sem juros é esporte nacional.
+- **Pix**: (Dinheiro) O pagamento instantâneo do Banco Central conquistou dos bancos ao vendedor de coco na praia. “Me faz um Pix” virou parte da língua.
+- **Apostas**: (Dinheiro) Do jogo do bicho e da Mega-Sena aos aplicativos de bets, a aposta está em toda parte, e as camisas dos clubes agora anunciam casas de apostas. Outro olhar: As apostas online foram regulamentadas em 2025, depois de anos de crescimento. Profissionais de saúde e entidades de defesa do consumidor alertam para dívidas e vício, sobretudo entre os mais pobres.
+- **Beleza e cuidado**: (Corpo) O Brasil está entre os líderes mundiais em cirurgia plástica, e há salões em todo lugar. Cabelo, unha e dente recebem atenção de verdade. Outro olhar: A mesma pressão pesa sobre quem não cabe no padrão, principalmente mulheres e pessoas negras.
+- **Música o tempo todo**: (Dia a dia) Sertanejo, funk, pagode, forró e gospel: da caixa de som do vizinho no domingo, você querendo ou não.
+
+Fontes: [IBGE: esporte e atividade física (PNAD 2015)](https://educa.ibge.gov.br/jovens/materias-especiais/19051-pnad-esportes-2015-pratica-de-esportes-e-atividades-fisicas.html); [Datafolha via Tribuna de Jundiaí](https://tribunadejundiai.com.br/mais/esportes/interesse-do-brasil-pelo-futebol-cai-aponta-datafolha/); [Digital 2026: Brasil](https://datareportal.com/reports/digital-2026-brazil); [Fenabrave via Monitor Mercantil](https://monitormercantil.com.br/carros-mais-vendidos-em-2025-strada-lidera-onix-despenca-e-argo-surpreende/); [Guinness sobre o Réveillon do Rio, via Jovem Pan](https://jovempan.com.br/brasil/reveillon-do-rio-janeiro-e-reconhecido-como-o-maior-do-mundo-pelo-guinness-book/); [CNN Brasil: cerveja](https://www.cnnbrasil.com.br/viagemegastronomia/viagem/dia-internacional-da-cerveja-brasil-tem-mais-de-1-500-cervejarias-registradas/); [Bloomberg Línea: o caramelo](https://www.bloomberglinea.com.br/estilo-de-vida/da-publicidade-a-netflix-como-o-vira-lata-caramelo-se-tornou-estrela-comercial/)
+
+## Dicionário Brasileiro
+
+https://brazilianculture.biblioverse.org/pt/dicionario.html
+
+- **Abestado**: Bobo, tolo. Comum no Nordeste
+- **Aconchego**: Sensação de carinho, abrigo e conforto, num abraço ou num lugar acolhedor
+- **Arretado**: Excelente, muito bom. No Nordeste, também pode ser bravo
+- **Até logo**: Despedida, mesmo quando não há data para o reencontro
+- **Bah**: A interjeição gaúcha que serve para tudo: surpresa, concordância, indignação
+- **Balada**: Festa, noite em boate
+- **Barraco**: Casa simples, ou uma briga escandalosa em público
+- **Beleza**: “Tudo bem?”, ou “combinado”
+- **Bicho**: Forma de chamar um amigo, popular nos anos 60 e 70
+- **Boteco**: Barzinho simples, de mesa na calçada
+- **Busão**: Ônibus
+- **Cafuné**: Carinho nos cabelos de alguém. Muitos dizem que é intraduzível
+- **Cara**: Um sujeito, ou um vocativo para qualquer um
+- **Chique no último**: Elegantíssimo
+- **Churras**: Churrasco, o encontro social básico
+- **Coé**: “Qual é?”. Cumprimento carioca
+- **Com Deus**: Despedida carinhosa: “vai com Deus”, abreviado
+- **Crem deus pai**: De “Creio em Deus Pai”: expressão de espanto ou medo
+- **Cê**: Você, abreviado
+- **Dar um jeito**: Resolver de algum modo, mesmo sem saber como ainda
+- **De boa**: Tranquilo, sem problema
+- **Dá um pulo lá em casa**: Convite vago. Provavelmente ninguém vai, e tudo bem
+- **E aí**: O “oi” informal, com ou sem “beleza”
+- **Eita**: Espanto, surpresa ou preocupação. Serve para quase tudo, às vezes em dose dupla: “eita, eita!”
+- **Encher linguiça**: Falar muito para ocupar tempo ou espaço
+- **Fazer vaquinha**: Juntar dinheiro entre várias pessoas
+- **Feijão com arroz**: O básico bem feito, o trivial
+- **Fio**: Fio dental, biquíni mínimo, ou “meu filho”
+- **Firmeza**: Tudo certo, confiável
+- **Fofoca**: Conversa sobre a vida alheia, um esporte nacional
+- **Galera**: A turma, o pessoal
+- **Gambiarra**: Conserto improvisado e criativo que dá certo, mais ou menos
+- **Gato / Gata**: Pessoa bonita. Ou uma ligação clandestina de luz
+- **Gente**: Pessoas, “nós” e também uma interjeição: “Gente!”
+- **Grana**: Dinheiro
+- **Jeitinho**: Dar um jeito de contornar uma regra, de forma amigável ou não
+- **Legal**: Bacana, bom
+- **Mano**: Irmão, parceiro. Marca do jeito paulistano
+- **Massa**: Ótimo, muito legal
+- **Meu**: Vocativo paulistano: “meu, olha isso”
+- **Moleza**: Coisa fácil
+- **Nossa**: De “Nossa Senhora”: expressão de espanto
+- **Oxente**: Interjeição de surpresa no Nordeste
+- **Oxi**: A versão abreviada de “oxente”: surpresa ou estranhamento
+- **Pão-duro**: Pessoa que não gosta de gastar
+- **Parça**: Parceiro, amigo de confiança
+- **Partiu**: “Vamos!”
+- **Pelada**: Futebol informal entre amigos
+- **Pô**: Interjeição típica de quem fala no Rio, um “puxa” abreviado
+- **Puxar o saco**: Bajular
+- **Quebrar o galho**: Ajudar a resolver, temporariamente
+- **Rolê**: Passeio, saída
+- **Saudade**: Falta de algo ou de alguém. Palavra de orgulho nacional
+- **Show de bola**: Excelente
+- **Sextou**: Comemoração da sexta-feira
+- **Sinistro**: Algo incrível ou algo perigoso. Depende do tom
+- **Tá ligado?**: “Entendeu?” no fim da frase
+- **Tamo junto**: “Estamos juntos”: solidariedade, ou um jeito de se despedir
+- **Tchê**: Vocativo gaúcho
+- **Tipo**: Muleta verbal: “tipo assim…”
+- **Trem**: Em Minas, é qualquer coisa: “passa esse trem aí”
+- **Tranquilo**: Sem problemas
+- **Uai**: A interjeição mineira, de surpresa ou dúvida
+- **Valeu**: “Obrigado” informal, ou “tchau”
+- **Véi**: De “velho”: jeito informal de chamar um amigo, mesmo que jovem
+- **Vixe**: Espanto. De “Virgem Maria”
+- **Zoar**: Fazer brincadeira ou tirar sarro
+
+## Recordes e índices
+
+https://brazilianculture.biblioverse.org/pt/recordes.html
+
+- **Mais Copas do Mundo**: (Esporte · 5 títulos) O único país pentacampeão (1958, 1962, 1970, 1994 e 2002) e o único a jogar todas as edições.
+- **A maior floresta tropical**: (Natureza · 5,5 mi km²) Cerca de 60% da Amazônia fica no Brasil. É a maior floresta tropical do mundo, e abriga cerca de uma em cada dez espécies conhecidas.
+- **O maior rio em volume**: (Natureza · 1º) O Amazonas despeja mais água no oceano do que os sete rios seguintes somados.
+- **A maior planície alagável**: (Natureza · 150 mil km²) O Pantanal é a maior área úmida tropical contínua do planeta, a maior parte no Brasil.
+- **A maior biodiversidade**: (Natureza · 1º) O Brasil é o país com maior diversidade biológica do mundo, com cerca de 20% das espécies do planeta, em seis biomas.
+- **Maior produtor de café**: (Economia · 1º) Desde o século 19, cerca de um terço do café do mundo sai do Brasil, que lidera também em suco de laranja e soja.
+- **Itaipu**: (Engenharia · 14 GW) Binacional com o Paraguai, é a hidrelétrica que mais gerou energia acumulada na história e foi a maior do mundo até a chinesa Três Gargantas.
+- **O maior bloco de Carnaval**: (Cultura · 2 mi+) O Galo da Madrugada, no Recife, entrou no Guinness em 1995 e costuma reunir mais de 2 milhões de pessoas no sábado de Zé Pereira.
+- **O maior público no futebol**: (Esporte · 199 mil) A estimativa de público na derrota para o Uruguai, no Maracanã, em 1950, o “Maracanazo”. Nunca mais se viu tanta gente num jogo de Copa.
+- **Os Lençóis Maranhenses**: (Natureza · 1.550 km²) Dunas brancas com lagoas de água da chuva, um fenômeno raro no mundo. Patrimônio Natural da Humanidade desde 2024.
+- **A maior comunidade japonesa**: (Gente · 2 milhões) O Brasil abriga a maior população de origem japonesa fora do Japão, desde o navio Kasato Maru, de 1908.
+- **O maior destino do tráfico de escravizados**: (Gente · 5 milhões) Quase 5 milhões de africanos foram trazidos à força, cerca de 40% de todo o tráfico atlântico. Foi o último país das Américas a abolir a escravidão.
+- **O maior cajueiro do mundo**: (Natureza · 8.500 m²) Em Pirangi do Norte (RN), uma mutação fez os galhos enraizarem e formarem uma copa enorme, com apenas uma árvore.
+- **Um dos países mais desiguais**: (Economia · Top 10) Sem disfarce: o Brasil está sempre entre os países de maior desigualdade do mundo, com renda muito concentrada no topo.
+- **A maior comunidade libanesa**: (Gente · 3 a 10 mi) É citada como a maior fora do Líbano, talvez maior que a população do próprio país. Mas não há contagem oficial: as estimativas vão de 3 a 10 milhões de descendentes.
+- **A maior economia da América do Sul**: (Economia · 1ª) O Brasil é o país de maior PIB do continente, mas não o mais rico por pessoa: nesse critério, fica atrás de Guiana, Uruguai e Chile.
+- **São Paulo frente às maiores cidades**: (Gente · 21 mi) A Grande São Paulo tem cerca de 21 milhões de pessoas e está entre as maiores do mundo, mas longe do topo: pela ONU, em 2025, a mais populosa é Jacarta, com cerca de 42 milhões, o dobro.
+
+Fontes: [Inpe](https://www.gov.br/inpe); [Itaipu Binacional](https://www.itaipu.gov.br); [Slave Voyages](https://www.slavevoyages.org); [ONU: World Urbanization Prospects 2025](https://www.un.org/development/desa/pd/content/launch-world-urbanization-prospects-2025)
+
+## Curiosidades
+
+https://brazilianculture.biblioverse.org/pt/curiosidades.html
+
+- **O nome vem de uma árvore**: Brasil vem do pau-brasil, árvore de madeira avermelhada e primeira riqueza explorada. Antes, os tupis chamavam a terra de Pindorama, “terra das palmeiras”.
+- **A bandeira é um céu**: O círculo azul mostra o céu do Rio na manhã de 15 de novembro de 1889, visto como de fora do globo. Cada estrela representa um estado. O verde e o amarelo vêm da família imperial, não da mata e do ouro.
+- **Único no continente**: O Brasil é o único país de língua portuguesa da América, com fronteira com quase todos os vizinhos, menos Chile e Equador.
+- **Um hino difícil**: O hino nacional tem duas partes com palavras como “lábaro” e “impávido colosso”. Quase ninguém sabe a letra completa, mas, à capela nos estádios, arrepia.
+- **A capital planejada**: Brasília foi construída em 41 meses e, vista do alto, lembra um avião. Antes dela, as capitais foram Salvador e Rio.
+- **Foi capital de Portugal**: O Rio foi a sede do Império Português de 1808 a 1821, depois de a corte fugir de Napoleão. É o único caso em que uma colônia virou centro de um império europeu.
+- **Mais de mil línguas antes**: Calcula-se que havia mais de mil línguas indígenas em 1500. Sobraram 295, segundo o Censo 2022, e o nheengatu segue oficial em São Gabriel da Cachoeira (AM).
+- **Tupi em todo lugar**: Abacaxi, jacaré, Ipanema, Itaú, Curitiba, pipoca, carioca, Morumbi: milhares de palavras do português brasileiro têm origem indígena. Moqueca, samba, cafuné e bunda vêm de línguas africanas.
+- **Natal de chinelo**: O hemisfério é sul, então o Natal é em pleno verão: Papai Noel de casaco sob 35 graus e ceia à meia-noite do dia 24.
+- **Beijinho, quantos?**: Um em São Paulo, dois no Rio, três em Minas, e até nenhum. Não há regra nacional, e alguém sempre fica no ar.
+- **Banho é sagrado**: Os brasileiros estão entre os povos que mais tomam banho no mundo, herança indígena muitas vezes citada. Muitos tomam mais de um por dia.
+- **A hora é um conceito**: Festa marcada para as oito começa às dez, e chegar às oito é constrangedor. Reuniões de trabalho, porém, costumam ser mais pontuais.
+- **Nome e apelido**: Pelé, Ronaldinho, Xuxa, Lula: os brasileiros tratam até presidentes pelo apelido. Lula, inclusive, incorporou o apelido ao nome legal.
+- **Saudade tem dia**: O Dia da Saudade é 30 de janeiro. E, sim, muitos brasileiros dizem que a palavra não existe em outro idioma, embora ela exista em português de Portugal também.
+- **Voto obrigatório**: Votar é obrigatório dos 18 aos 70 anos, e facultativo a partir dos 16. A apuração sai na mesma noite, e o país acompanha ao vivo.
+- **Tem neve**: Neve é raríssima, mas acontece em cidades serranas do Sul, como São Joaquim (SC). A cidade vira notícia nacional e atrai turistas.
+- **Jogo do bicho**: Criado em 1892 no Zoológico de Vila Isabel para atrair visitantes, é uma loteria ilegal há décadas e segue por todo lado, com grande influência nas escolas de samba.
+- **Pix até na areia**: Pipoqueiro com carrinho, vendedor de mate na praia, biscoito Globo: a economia informal é parte da paisagem, e o pagamento hoje é por Pix.
+- **Carnaval por todo lado**: O Carnaval não é uma festa só: Rio tem desfile e blocos, Salvador tem trios, Recife e Olinda têm frevo e bonecos gigantes. Cada um jura que o seu é o melhor.
+- **Religião misturada**: É o maior país católico do mundo, tem grande população evangélica, e muitos frequentam terreiros de candomblé e umbanda. Jogar flores para Iemanjá no Réveillon é coisa de muitos, de muitas crenças.
+- **A letra K no Brasil**: A risada escrita no Brasil é “kkkkk” e, em conversa, até “rsrs”. Um “kk” curto parece frio, e por isso muita gente enche a tela.
+
+Fontes: [IBGE: Censo 2022](https://censo2022.ibge.gov.br)
+
+## Fauna e flora
+
+https://brazilianculture.biblioverse.org/pt/natureza.html
+
+- **Onça-pintada**: (Mamíferos · Panthera onca) O maior felino das Américas e o símbolo da Amazônia e do Pantanal, onde turistas viajam para vê-la nadar.
+- **Capivara**: (Mamíferos · Hydrochoerus hydrochaeris) O maior roedor do mundo, que passa tranquilo por lagos urbanos, praias e campos de golfe. Parece estar sempre em paz.
+- **Lobo-guará**: (Mamíferos · Chrysocyon brachyurus) O maior canídeo da América do Sul, de pernas longas e pelo laranja. Come principalmente lobeira, a “fruta-do-lobo”, e estampa a nota de R$ 200.
+- **Mico-leão-dourado**: (Mamíferos · Leontopithecus rosalia) Endêmico da Mata Atlântica do Rio. Quase foi extinto nos anos 70; um dos casos mais bem-sucedidos de conservação no mundo, e está na nota de R$ 20.
+- **Tamanduá-bandeira**: (Mamíferos · Myrmecophaga tridactyla) Sem dentes, com língua de até 60 cm, come milhares de formigas e cupins por dia.
+- **Boto-cor-de-rosa**: (Mamíferos · Inia geoffrensis) O golfinho de rio da Amazônia. Reza a lenda que vira um belo rapaz de chapéu e seduz as moças nas festas.
+- **Preguiça**: (Mamíferos · Bradypus variegatus) Desce da árvore cerca de uma vez por semana, para fazer as necessidades. É vista nas árvores de praças de Salvador e do Rio.
+- **Tatu-canastra**: (Mamíferos · Priodontes maximus) O maior tatu do mundo. Seu primo, o tatu-bola, foi mascote da Copa de 2014.
+- **Peixe-boi**: (Mamíferos · Trichechus inunguis) Mamífero aquático da Amazônia e do litoral nordestino, ameaçado e protegido por projetos de conservação.
+- **Baleia-jubarte**: (Mamíferos · Megaptera novaeangliae) Reproduz-se em Abrolhos, no sul da Bahia, entre julho e novembro. A população se recuperou após quase desaparecer.
+- **Arara-azul**: (Aves · Anodorhynchus hyacinthinus) A maior arara do mundo, chega a um metro. Tem anel amarelo nos olhos e bico que quebra coquinhos. Seu reduto é o Pantanal.
+- **Tucano-toco**: (Aves · Ramphastos toco) O bico enorme é leve e ajuda a resfriar o corpo. Tornou-se uma das imagens mais famosas do país, de cartões-postais a logos.
+- **Ararinha-azul**: (Aves · Cyanopsitta spixii) A estrela do filme Rio. Extinta na natureza por anos, voltou à Caatinga da Bahia em 2022 por programa de reintrodução.
+- **Uirapuru**: (Aves · Cyphorhinus arada) Pássaro amazônico de canto tão belo que, diz a lenda, a floresta se cala para ouvir.
+- **Sabiá-laranjeira**: (Aves · Turdus rufiventris) A ave nacional. É a do verso “Minha terra tem palmeiras, onde canta o sabiá”, que está em todas as escolas.
+- **Harpia**: (Aves · Harpia harpyja) Uma das maiores águias do mundo, caça macacos e preguiças.
+- **Jacaré-do-pantanal**: (Répteis · Caiman yacare) Numa única lagoa do Pantanal, centenas podem ser vistos de perto.
+- **Sucuri**: (Répteis · Eunectes murinus) Sem veneno, é a cobra mais pesada do mundo, e espera a presa na água para sufocá-la.
+- **Jararaca**: (Répteis · Bothrops jararaca) Cobra da Mata Atlântica que causa mais acidentes no Sudeste. O veneno ajudou a criar remédios contra pressão alta.
+- **Jararaca-ilhoa**: (Répteis · Bothrops insularis) Vive só na Ilha da Queimada Grande (SP), onde há cobras tão perigosas que o acesso é proibido.
+- **Tartaruga-de-pente**: (Répteis · Eretmochelys imbricata) Protegida pelo Projeto Tamar desde 1980, que transformou comunidades que comiam ovos em aliadas das tartarugas.
+- **Pirarucu**: (Peixes · Arapaima gigas) Um dos maiores peixes de água doce do mundo, chega a 3 metros. Respira ar, e é manejado de forma sustentável na Amazônia.
+- **Piranha**: (Peixes · Pygocentrus nattereri) Muito menos perigosa do que nos filmes. Pescá-las é parte do roteiro turístico do Pantanal, e o caldo de piranha é famoso.
+- **Ipê-amarelo**: (Plantas · Handroanthus spp.) A árvore nacional de fato, sobretudo por florescer sem folhas no inverno, colorindo cidades e estradas.
+- **Pau-brasil**: (Plantas · Paubrasilia echinata) A árvore que deu nome ao país, quase extinta pelo comércio de tinta. Hoje protegida, a madeira é a dos arcos de violino mais famosos.
+- **Araucária**: (Plantas · Araucaria angustifolia) O “pinheiro-do-paraná”, árvore símbolo do Sul, com copa em forma de taça. A semente, o pinhão, é comida de festa junina.
+- **Vitória-régia**: (Plantas · Victoria amazonica) A maior folha de planta aquática, flutua nos rios da Amazônia e suporta o peso de uma criança.
+- **Castanheira-do-pará**: (Plantas · Bertholletia excelsa) Pode viver séculos e chegar a 50 m. Dela vem a “castanha-do-brasil”, e sua colheita mantém muitas comunidades da floresta.
+- **Seringueira**: (Plantas · Hevea brasiliensis) Fez a riqueza de Manaus e o Teatro Amazonas durante o ciclo da borracha, antes de sementes levadas à Ásia acabarem com o monopólio.
+- **Orquídea**: (Plantas · Cattleya labiata) A flor nacional. O Brasil tem milhares de espécies de orquídeas, sobretudo na Mata Atlântica.
+- **Buriti**: (Plantas · Mauritia flexuosa) Palmeira das veredas do Cerrado, onde também vive o sertão de Guimarães Rosa. É fonte de óleo, doce e fibras.
+- **Mandacaru**: (Plantas · Cereus jamacaru) Cacto da Caatinga, que, segundo a canção Xote das Meninas, ao florir na seca é sinal de que a chuva vem.
+
+Fontes: [ICMBio](https://www.gov.br/icmbio); [Instituto Socioambiental](https://www.socioambiental.org)
+
+## Principais cidades
+
+https://brazilianculture.biblioverse.org/pt/cidades.html
+
+- **São Paulo**: SP, Sudeste: 11.451.999 habitantes. Apelido: Terra da Garoa
+- **Rio de Janeiro**: RJ, Sudeste: 6.211.223 habitantes. Apelido: Cidade Maravilhosa
+- **Brasília**: DF, Centro-Oeste: 2.817.381 habitantes. Apelido: Capital Federal
+- **Fortaleza**: CE, Nordeste: 2.428.708 habitantes. Apelido: Terra da Luz
+- **Salvador**: BA, Nordeste: 2.417.678 habitantes. Apelido: Roma Negra
+- **Belo Horizonte**: MG, Sudeste: 2.315.560 habitantes. Apelido: Capital dos Botecos
+- **Manaus**: AM, Norte: 2.063.547 habitantes. Apelido: Paris dos Trópicos
+- **Curitiba**: PR, Sul: 1.773.718 habitantes. Apelido: Cidade Modelo
+- **Recife**: PE, Nordeste: 1.488.920 habitantes. Apelido: Veneza Brasileira
+- **Goiânia**: GO, Centro-Oeste: 1.437.237 habitantes. Apelido: Capital do Sertanejo
+- **Porto Alegre**: RS, Sul: 1.332.845 habitantes. Apelido: Capital dos Pampas
+- **Belém**: PA, Norte: 1.303.403 habitantes. Apelido: Cidade das Mangueiras
+- **Guarulhos**: SP, Sudeste: 1.291.771 habitantes. Apelido: None
+- **Campinas**: SP, Sudeste: 1.138.309 habitantes. Apelido: Vale do Silício Brasileiro
+- **São Luís**: MA, Nordeste: 1.037.775 habitantes. Apelido: Ilha do Amor
+- **Maceió**: AL, Nordeste: 957.916 habitantes. Apelido: Paraíso das Águas
+- **Campo Grande**: MS, Centro-Oeste: 898.100 habitantes. Apelido: Cidade Morena
+- **São Gonçalo**: RJ, Sudeste: 896.744 habitantes. Apelido: None
+- **Teresina**: PI, Nordeste: 866.300 habitantes. Apelido: Cidade Verde
+- **João Pessoa**: PB, Nordeste: 833.932 habitantes. Apelido: Onde o Sol Nasce Primeiro
+- **São Bernardo do Campo**: SP, Sudeste: 810.729 habitantes. Apelido: Capital do Automóvel
+- **Duque de Caxias**: RJ, Sudeste: 808.161 habitantes. Apelido: None
+- **Nova Iguaçu**: RJ, Sudeste: 785.882 habitantes. Apelido: None
+- **Natal**: RN, Nordeste: 751.300 habitantes. Apelido: Cidade do Sol
+- **Santo André**: SP, Sudeste: 748.919 habitantes. Apelido: None
+
+### O jeito de cada cidade
+
+- **São Paulo**: (Sudeste · A locomotiva) Uma das maiores cidades do mundo, tem a maior comunidade japonesa, italiana e libanesa do país. Aqui, se trabalha muito, come-se bem e nunca há trânsito de menos.
+- **Rio de Janeiro**: (Sudeste · A cartão-postal) Ex-capital, com Cristo, Copacabana, samba e bossa nova. A desigualdade salta aos olhos, com favelas ao lado de bairros caros.
+- **Brasília**: (Centro-Oeste · A planejada) Inaugurada em 1960, Patrimônio da Humanidade. Tem o traçado de avião, poderes públicos e pouca esquina: tudo se resolve de carro.
+- **Salvador**: (Nordeste · A primeira capital) Conhecida como a cidade mais negra fora da África, é a do Pelourinho, do candomblé, do axé e do acarajé. Foi capital do Brasil até 1763.
+- **Fortaleza**: (Nordeste · A piada pronta) A capital do humor e das praias, com o Beach Park e os forrós em Iracema. Dela saíram vários dos maiores comediantes do país.
+- **Recife**: (Nordeste · Os rios e as pontes) Frevo, maracatu, manguebeat e o Galo da Madrugada. A cidade tem história holandesa e, em Olinda, os bonecos gigantes.
+- **Belo Horizonte**: (Sudeste · O boteco) Diz-se que tem mais bares por pessoa que qualquer capital. Tem pão de queijo, Pampulha de Niemeyer e o jeito mineiro de falar baixo e fazer muito.
+- **Manaus**: (Norte · A porta da Amazônia) No meio da floresta, tem o Teatro Amazonas e o encontro das águas. É polo industrial, com a Zona Franca.
+- **Belém**: (Norte · A da COP30) Na foz do Amazonas, recebeu a conferência do clima em 2025. É a terra do tacacá e do Círio de Nazaré, uma das maiores procissões católicas do mundo.
+- **Curitiba**: (Sul · A organizada) Famosa pelos ônibus expressos, parques e pelo frio. Tem marcas de imigração polonesa, italiana e ucraniana.
+- **Porto Alegre**: (Sul · A do chimarrão) Terra do churrasco, dos pampas e do Grêmio e Inter. Foi duramente atingida pelas enchentes históricas de 2024.
+- **Goiânia**: (Centro-Oeste · A do sertanejo) Capital planejada dos anos 30 e centro do agro e do sertanejo. Berço de várias duplas de sucesso.
+
+Fontes: [IBGE: Censo 2022](https://censo2022.ibge.gov.br)
+
+## Lugares
+
+https://brazilianculture.biblioverse.org/pt/lugares.html
+
+- **Copacabana**: (Praias · RJ) A “princesinha do mar”, com calçadão de ondas, e a maior festa de Réveillon do país. Madonna e Lady Gaga reuniram mais de 1 e 2 milhões de pessoas em shows gratuitos.
+- **Ipanema**: (Praias · RJ) A da garota da música. Tem o pôr do sol aplaudido no Arpoador, os postos e o verão inteiro cantado na bossa nova.
+- **Baía do Sancho**: (Praias · PE) Em Fernando de Noronha, com escada na fenda das pedras. Eleita várias vezes a melhor praia do mundo por viajantes.
+- **Jericoacoara**: (Praias · CE) Vila de ruas de areia, dunas e pôr do sol na Duna. Tem a Pedra Furada e é santuário do kitesurf.
+- **Porto de Galinhas**: (Praias · PE) Piscinas naturais de água morna entre recifes, que se visita de jangada. Um dos destinos mais famosos do Nordeste.
+- **Praia do Rosa**: (Praias · SC) Enseada entre morros onde as baleias-francas chegam no inverno e os surfistas o ano inteiro.
+- **Parque Nacional do Iguaçu**: (Parques · PR) Cataratas com cerca de 275 quedas, na fronteira com a Argentina. Patrimônio da Humanidade, com a Garganta do Diabo.
+- **Lençóis Maranhenses**: (Parques · MA) Dunas brancas com lagoas azuis e verdes, cheias entre maio e setembro. Parece miragem.
+- **Chapada Diamantina**: (Parques · BA) Cachoeira da Fumaça, Vale do Pati e o Poço Azul, em trilhas e cidadezinhas dos tempos do garimpo.
+- **Pantanal**: (Parques · MT e MS) A maior planície alagável do mundo, onde é mais fácil ver onça-pintada no planeta. Ameaçado por incêndios recentes.
+- **Encontro das Águas**: (Paisagens · AM) Em Manaus, o rio Negro e o Solimões correm lado a lado por quilômetros sem se misturar.
+- **Serra da Capivara**: (Paisagens · PI) Parque com milhares de pinturas rupestres, um dos maiores sítios do mundo, defendido pela arqueóloga Niède Guidon.
+- **Amazônia**: (Paisagens · AM e PA) A maior floresta tropical do planeta. Alter do Chão, as reservas e os rios são pontos de entrada para visitantes.
+- **Cristo Redentor**: (Monumentos · RJ) De braços abertos sobre a Guanabara desde 1931, a 710 m de altitude no Corcovado. Uma das Novas Sete Maravilhas do Mundo.
+- **Pão de Açúcar**: (Monumentos · RJ) O bondinho, de 1912, foi um dos primeiros teleféricos do mundo e já apareceu num filme de James Bond.
+- **Pelourinho**: (Monumentos · BA) Casarões coloridos e igrejas barrocas, no local onde escravizados eram castigados. Michael Jackson gravou aqui com o Olodum.
+- **Ouro Preto**: (Monumentos · MG) A cidade do ciclo do ouro e do barroco de Aleijadinho, com ladeiras e igrejas. Primeiro lugar brasileiro tombado pela Unesco.
+- **Basílica de Aparecida**: (Monumentos · SP) Santuário da padroeira e um dos maiores templos católicos do mundo. Recebe milhões de romeiros a cada ano.
+- **Congresso Nacional**: (Edifícios · DF) Duas torres, uma cúpula côncava e uma convexa: o símbolo da arquitetura de Niemeyer e do poder.
+- **Teatro Amazonas**: (Edifícios · AM) Ópera de 1896, construída com o dinheiro da borracha em Manaus, com material vindo da Europa.
+- **MASP**: (Edifícios · SP) O prédio suspenso de Lina Bo Bardi na Avenida Paulista, com o maior vão livre do tipo em sua época e o mais importante acervo da América do Sul.
+- **Museu do Amanhã**: (Edifícios · RJ) De Santiago Calatrava, na zona portuária do Rio, repaginada para os Jogos de 2016.
+- **Instituto Inhotim**: (Edifícios · MG) Um parque botânico com arte contemporânea ao ar livre, entre os maiores do mundo no gênero, perto de Belo Horizonte.
+- **Maracanã**: (Edifícios · RJ) Palco de duas finais de Copa, da Olimpíada de 2016 e dos clássicos cariocas. É um verdadeiro templo do futebol.
+- **Sambódromo**: (Edifícios · RJ) A Marquês de Sapucaí, com projeto de Niemeyer, é onde as escolas desfilam.
+- **Ponte Rio-Niterói**: (Pontes · RJ) Com mais de 13 km, aberta em 1974, cruza a Baía de Guanabara. Tem um dos maiores vãos do mundo em viga reta.
+- **Ponte JK**: (Pontes · DF) Três arcos que parecem pular sobre o Lago Paranoá, em Brasília. Ganhou o prêmio de melhor ponte do mundo em 2003.
+- **Ponte Estaiada**: (Pontes · SP) A ponte em forma de X sobre o rio Pinheiros, cartão-postal da São Paulo dos negócios.
+- **Escadaria Selarón**: (Curiosos · RJ) Azulejos de mais de 60 países, colados por um artista chileno que dedicou décadas à escada na Lapa.
+- **Estátuas da Liberdade da Havan**: (Curiosos · Vários) Em frente a muitas lojas da rede Havan, há uma réplica gigante da Estátua da Liberdade. Viraram parte da paisagem de beira de estrada.
+- **Cristo Protetor**: (Curiosos · RS) Em Encantado, um Cristo novo, de 43,5 m, que supera em altura o do Rio.
+- **Caixa-d’água de Varginha**: (Curiosos · MG) A cidade dos ETs tem uma caixa-d’água em forma de nave espacial, com alienígena e tudo.
+
+Fontes: [Unesco: patrimônio no Brasil](https://whc.unesco.org/en/statesparties/br); [ICMBio](https://www.gov.br/icmbio)
+
+## Fatos históricos
+
+https://brazilianculture.biblioverse.org/pt/historia.html
+
+- **Os primeiros povos**: (Povos originários · Há 13 mil anos) Grupos humanos já ocupam o território, como mostram sítios de Lagoa Santa (MG), onde foi achado o crânio de Luzia, e pinturas da Serra da Capivara (PI).
+- **Um continente povoado**: (Povos originários · Até 1500) Milhões de pessoas e mais de mil línguas. Na Amazônia, há vestígios de grandes cidades. Tupis, Jês e outros grupos ocupam quase tudo.
+- **A frota de Cabral**: (Colônia · 1500) Pedro Álvares Cabral chega à Bahia. A carta de Pero Vaz de Caminha é considerada a “certidão de nascimento” do Brasil.
+- **As capitanias**: (Colônia · 1534) Portugal divide a terra em faixas doadas a nobres. Em 1549, Salvador vira a primeira capital, e chegam os jesuítas.
+- **O tráfico de africanos**: (Escravidão · 1550) Começa o maior tráfico de escravizados das Américas, que dura mais de 300 anos e traz quase 5 milhões de pessoas.
+- **Os holandeses no Nordeste**: (Colônia · 1630) A Companhia das Índias Ocidentais toma Recife e Olinda, atrás do açúcar. Maurício de Nassau governa de 1637 a 1644, e os holandeses são expulsos em 1654.
+- **A queda de Palmares**: (Escravidão · 1695) Morre Zumbi, líder do maior quilombo da história, na Serra da Barriga (AL), resistente por quase cem anos.
+- **A corrida do ouro**: (Colônia · 1695–1760) O ouro em Minas leva a povoamento do interior e à riqueza barroca, com Ouro Preto e Aleijadinho.
+- **A Inconfidência Mineira**: (Colônia · 1789) Conspiração contra os impostos sobre o ouro. Tiradentes é enforcado em 1792.
+- **A corte foge para o Rio**: (Império · 1808) Dom João VI escapa de Napoleão e leva a corte portuguesa, abre os portos e cria o Banco do Brasil e o Jardim Botânico.
+- **A Independência**: (Império · 1822) Dom Pedro I, filho do rei português, separa o Brasil de Portugal às margens do Ipiranga e vira imperador.
+- **O reinado de dom Pedro II**: (Império · 1840) Quase 50 anos de relativa estabilidade, com o café e a imigração, enquanto o país segue escravista.
+- **A Guerra do Paraguai**: (Império · 1864) O maior conflito da América do Sul. Brasil, Argentina e Uruguai destroem o Paraguai, com muitos negros lutando pelo Brasil.
+- **A Abolição**: (Escravidão · 1888) A Lei Áurea liberta os escravizados, sem nenhuma indenização ou terra. O Brasil foi o último país das Américas a fazê-lo.
+- **A República**: (República · 1889) Um golpe militar derruba a monarquia. Começa a “República do Café com Leite”, dominada por São Paulo e Minas.
+- **Os japoneses e outros imigrantes**: (República · 1908) O Kasato Maru traz os primeiros japoneses. Vieram também italianos, alemães, árabes e judeus, que mudaram o Sul e o Sudeste.
+- **A Semana de Arte Moderna**: (Cultura · 1922) Em São Paulo, jovens artistas rompem com a Europa. Dali sai o Movimento Antropofágico.
+- **A Era Vargas**: (República · 1930) Getúlio Vargas toma o poder, cria a CLT, a Petrobras e um Estado Novo ditatorial, até 1945. Volta em 1951 e se suicida em 1954.
+- **O Maracanazo**: (Cultura · 1950) A derrota para o Uruguai na final da Copa em casa é tragédia nacional, que Nelson Rodrigues chamou de “nossa Hiroshima”.
+- **O primeiro título e a bossa**: (Cultura · 1958) O Brasil vence a Copa, com Pelé aos 17 anos, e João Gilberto lança Chega de Saudade.
+- **Brasília**: (República · 1960) JK inaugura a nova capital no Planalto Central, em 41 meses, com projeto de Lúcio Costa e Niemeyer.
+- **O golpe militar**: (Ditadura · 1964) Os militares derrubam João Goulart. A ditadura dura 21 anos, com censura, tortura e centenas de mortos e desaparecidos.
+- **As Diretas Já**: (Ditadura · 1984) Milhões vão às ruas por eleições diretas para presidente. A emenda é derrotada, mas a ditadura termina no ano seguinte.
+- **A Constituição Cidadã**: (Democracia · 1988) Criação do SUS, garantias aos indígenas e quilombolas, e democracia restabelecida.
+- **O Plano Real**: (Democracia · 1994) Acaba a hiperinflação, que chegou a mais de 2.000% ao ano. Em 1994, o tetra e a morte de Senna.
+- **Lula e o boom**: (Democracia · 2003) O ex-operário chega à presidência. O boom das commodities e o Bolsa Família tiram milhões da pobreza e o Brasil sai do Mapa da Fome.
+- **Copa, Lava Jato e Olimpíada**: (Democracia · 2014–2016) O 7 a 1, a operação contra a corrupção, a recessão, o impeachment de Dilma e os Jogos do Rio.
+- **A pandemia**: (Democracia · 2020) O Brasil soma mais de 700 mil mortes por Covid-19, um dos piores números do mundo.
+- **O 8 de janeiro**: (Democracia · 2023) Apoiadores de Bolsonaro invadem e depredam o Congresso, o Planalto e o STF. Em 2025, Bolsonaro é condenado por tentativa de golpe.
+- **Oscar e COP30**: (Cultura · 2025) Ainda Estou Aqui traz o primeiro Oscar internacional, e Belém recebe a conferência do clima da ONU.
+- **A reeleição de Lula**: (Democracia · 2026) Em outubro, Lula vence Flávio Bolsonaro por 51,79% a 48,21%, em uma eleição apertada, e chega ao quarto mandato.
+
+Fontes: [Arquivo Nacional](https://www.gov.br/arquivonacional); [Slave Voyages](https://www.slavevoyages.org)
+
+## Datas importantes
+
+https://brazilianculture.biblioverse.org/pt/datas.html
+
+- **Ano-Novo e Réveillon**: (Feriados · 1º de janeiro) Todos de branco na praia, sete ondas puladas, lentilha e fogos em Copacabana. Muitas pessoas levam flores para Iemanjá.
+- **Dia de Iemanjá**: (Tradições · 2 de fevereiro) Em Salvador, milhares levam presentes ao mar no Rio Vermelho, em honra da rainha das águas do candomblé.
+- **Carnaval**: (Festas · Fevereiro ou março) O maior feriado (não oficial) do ano. O país para para os desfiles, os blocos de rua e os trios. Sério de verdade, só depois de Quarta-Feira de Cinzas. Outro olhar: Nascido nas comunidades negras do Rio, o samba foi reprimido pela polícia nas primeiras décadas do século 20, antes de virar símbolo nacional.
+- **Dia dos Povos Indígenas**: (Tradições · 19 de abril) Antes “Dia do Índio”, foi renomeado em 2022 por um termo mais respeitoso. Escolas ensinam, e muitas ainda pintam o rosto das crianças. Outro olhar: Lideranças indígenas costumam rejeitar a fantasia nas escolas e usar a data para o Acampamento Terra Livre, em Brasília, por demarcação de terras.
+- **Sexta-Feira Santa e Páscoa**: (Feriados · Março ou abril) Bacalhau na sexta e ovos de chocolate gigantes pendurados nos supermercados.
+- **Tiradentes**: (Feriados · 21 de abril) Lembra o enforcamento, em 1792, de Joaquim José da Silva Xavier, líder da Inconfidência Mineira. Quase um mártir nacional, retratado com barba e longos cabelos.
+- **Descobrimento do Brasil**: (Tradições · 22 de abril) Data da chegada da frota de Cabral, em 1500. Não é feriado e passa quase sem festa. Outro olhar: Para os povos indígenas, não houve “descobrimento”, mas invasão. Na festa dos 500 anos, em 2000, a marcha indígena foi reprimida pela polícia em Porto Seguro.
+- **Dia do Trabalho**: (Feriados · 1º de maio) Dia de atos sindicais e shows grátis, e também de anúncios do salário mínimo.
+- **Abolição da Escravatura**: (Tradições · 13 de maio) Em 1888, a princesa Isabel assinou a Lei Áurea. Não é feriado nacional. Outro olhar: O movimento negro lembra que a lei não trouxe nenhuma terra, escola ou indenização, e prefere celebrar o 20 de novembro.
+- **Festas Juninas**: (Festas · Junho) Quadrilha, fogueira, milho, pamonha e quentão, para Santo Antônio, São João e São Pedro. Em Campina Grande e Caruaru, é tão grande quanto o Carnaval.
+- **Independência do Brasil**: (Feriados · 7 de setembro) Em 1822, às margens do Ipiranga, dom Pedro I disse “Independência ou morte!”. Hoje há desfile militar e, em anos recentes, manifestações políticas.
+- **Nossa Senhora Aparecida e Dia das Crianças**: (Feriados · 12 de outubro) Dia da padroeira, com milhões de romeiros em Aparecida (SP). A mesma data é dia de brinquedos para as crianças.
+- **Círio de Nazaré**: (Festas · 2º domingo de outubro) Em Belém, mais de 2 milhões de pessoas acompanham a imagem de Nossa Senhora, puxando uma corda enorme. Tem até almoço como o de Natal.
+- **Finados**: (Feriados · 2 de novembro) Dia de levar flores aos cemitérios e lembrar quem se foi.
+- **Proclamação da República**: (Feriados · 15 de novembro) Em 1889, o marechal Deodoro derrubou a monarquia em um golpe militar. A população, dizem os relatos, assistiu “bestializada”.
+- **Dia da Consciência Negra**: (Feriados · 20 de novembro) Feriado nacional desde 2024, no aniversário da morte de Zumbi dos Palmares, em 1695. Celebra a luta e a cultura afro-brasileira. Outro olhar: Para o movimento negro, foi uma conquista: nasceu em 1971, no Rio Grande do Sul, com o grupo Palmares, como alternativa ao 13 de maio.
+- **Natal**: (Feriados · 25 de dezembro) A ceia é na noite do dia 24, com peru, rabanada e frutas secas, em pleno verão. Amigo-secreto de família é obrigatório.
+
+Fontes: [Planalto: feriados nacionais](https://www.planalto.gov.br)
+
+## Política e economia
+
+https://brazilianculture.biblioverse.org/pt/politica-e-economia.html
+
+
+### Como funciona
+
+- **Uma república presidencialista**: (Estrutura) O presidente é chefe de Estado e de governo, eleito pelo voto direto para um mandato de quatro anos, com direito a uma reeleição consecutiva.
+- **Três níveis de governo**: (Estrutura) União, 26 estados mais o Distrito Federal e cerca de 5.570 municípios, todos com autonomia garantida pela Constituição de 1988.
+- **Duas casas no Congresso**: (Estrutura) A Câmara tem 513 deputados, proporcionais à população de cada estado. O Senado tem 81 senadores, três por estado, com mandato de oito anos.
+- **Voto obrigatório e eletrônico**: (Eleições) Votar é obrigatório dos 18 aos 70 anos. Dois turnos para o Executivo, com urna eletrônica e o resultado na mesma noite.
+- **Um Supremo muito presente**: (Justiça) O Supremo Tribunal Federal, com 11 ministros, decide temas constitucionais e julga autoridades, e por isso está sempre no centro das disputas políticas.
+- **O presidencialismo de coalizão**: (Política) Com dezenas de partidos, nenhum presidente governa só. Ele precisa de alianças com o “Centrão”, bloco que negocia votos, ministérios e emendas.
+- **A Constituição Cidadã**: (Direitos) A Carta de 1988, após a ditadura, criou o SUS, o maior sistema público e universal de saúde do mundo, e reconheceu os direitos indígenas e quilombolas.
+
+### A economia em números
+
+- **Tamanho da economia**: (Riqueza · US$ 2,65 tri) O 10º maior PIB do mundo em 2026, segundo o FMI, que prevê alta de 2,2% no ano.
+- **PIB por pessoa**: (Riqueza · US$ 12 mil) Renda média, longe da dos países ricos, e muito desigual entre as regiões.
+- **Salário mínimo**: (Trabalho · R$ 1.621) Valor mensal desde janeiro de 2026.
+- **Taxa de juros**: (Dinheiro · 13,75%) A Selic, definida em setembro de 2026, entre as mais altas do mundo.
+- **Pessoas**: (Gente · 213 mi) Estimativa do IBGE para 2025. Com a queda dos nascimentos, a população deve começar a encolher em cerca de 15 anos.
+- **Desemprego**: (Trabalho · Cerca de 5,5%) Em 2026, a taxa ficou perto de 5,4%, nível dos mais baixos desde o início da série do IBGE, em 2012.
+
+### De onde vem o dinheiro
+
+- **Agronegócio**: (Exportações) Soja, carne bovina e de frango, café, açúcar, suco de laranja. O Brasil é um dos maiores exportadores de alimentos do mundo e o agro é o coração das exportações.
+- **Petróleo**: (Exportações) O pré-sal fez do Brasil um dos maiores produtores de petróleo do mundo, um dos principais itens exportados.
+- **Minério de ferro**: (Exportações) Carajás (PA) e Minas Gerais abastecem usinas no mundo inteiro, com a China como principal destino.
+- **Serviços e turismo**: (Internos) Mais de dois terços do PIB vêm de serviços. O turismo cresce, mas ainda longe do potencial de um país deste tamanho.
+- **Energia limpa**: (Internos) Hidrelétricas, eólica no Nordeste, solar e etanol. A matriz elétrica é uma das mais renováveis do mundo.
+- **Trabalho informal**: (Pesa no bolso) Quase 40% dos trabalhadores não têm carteira assinada. O famoso “bico” mantém muitas famílias, sem aposentadoria.
+- **Imposto complicado**: (Pesa no bolso) Muitos tributos, altos no consumo e baixos na renda dos mais ricos. A reforma de 2023 começou uma transição até 2033.
+- **Bolsa Família**: (Internos) Criado em 2003, transfere renda a famílias pobres com crianças na escola, e é referência mundial em combate à fome.
+
+### Bilionários e magnatas
+
+- **Eduardo Saverin**: (Tecnologia) Cofundador do Facebook, nascido em São Paulo. Lidera a lista da Forbes Brasil em 2026, com cerca de R$ 163 bilhões. Mora em Singapura.
+- **Vicky Safra**: (Bancos) Herdeira do banqueiro Joseph Safra e da família do Banco Safra, a mulher mais rica da lista da Forbes Brasil.
+- **Jorge Paulo Lemann**: (Consumo) Ex-tenista, criador da 3G Capital e sócio da AB InBev, Burger King e Heinz. Símbolo da “meritocracia” empresarial.
+- **André Esteves**: (Bancos) Dono do BTG Pactual, nasceu em família simples no Rio e foi até preso por um breve período na Lava Jato, depois absolvido.
+- **Família Batista**: (Alimentos) Joesley e Wesley Batista, da JBS. As delações deles em 2017 quase derrubaram o presidente Temer.
+- **Blairo Maggi**: (Agronegócio) De família que virou gigante da soja no Mato Grosso, foi também governador e ministro da Agricultura.
+- **Luiza Trajano**: (Varejo) Fez do Magazine Luiza um dos maiores varejistas do país e lidera o Mulheres do Brasil. Vira assunto em cada eleição.
+- **Edir Macedo**: (Mídia e religião) Fundador da Igreja Universal do Reino de Deus e dono da Record, segunda maior rede de TV do país.
+
+### Os partidos
+
+- **PT**: (Maiores partidos · 1980) Partido dos Trabalhadores, de esquerda, surgiu do sindicalismo do ABC, com Lula. Governou de 2003 a 2016 e voltou em 2023.
+- **PL**: (Maiores partidos · 2006) Partido Liberal, de direita, é o partido da família Bolsonaro. Elegeu a maior bancada da Câmara em 2026, com 121 deputados.
+- **União Brasil**: (Centrão · 2022) Fusão do DEM com o PSL. De centro-direita, tem ministérios e muitos prefeitos pelo país.
+- **PP**: (Centrão · 1995) Progressistas, herdeiro da Arena, da ditadura, é um dos partidos mais influentes do Centrão.
+- **Republicanos**: (Centrão · 2005) Ligado à Igreja Universal e com forte presença evangélica. Inclui Tarcísio de Freitas, reeleito governador de São Paulo em 2026.
+- **MDB**: (Centrão · 1980) Herdeiro da oposição consentida na ditadura, está no poder com quase todos os presidentes desde a redemocratização.
+- **PSDB**: (Centro · 1988) Partido de Fernando Henrique Cardoso e do Plano Real. Polarizou com o PT por 20 anos e encolheu muito.
+- **PSB**: (Centro-esquerda · 1985) Partido do vice-presidente Geraldo Alckmin.
+- **PSOL e Rede**: (Esquerda · 2004) Esquerda crítica ao PT. A Rede é o partido de Marina Silva, e o PSOL revelou Marielle Franco e Guilherme Boulos.
+- **Novo**: (Direita · 2011) Direita liberal, defende menos Estado e diz não usar recursos públicos em campanha.
+
+### Políticos
+
+- **Luiz Inácio Lula da Silva**: (Hoje) Ex-metalúrgico e fundador do PT, presidente desde 2023 e reeleito em 25 de outubro de 2026, com 51,79% dos votos, para seu quarto mandato. Virou o jogo no 2º turno, algo inédito.
+- **Geraldo Alckmin**: (Hoje) Vice-presidente, ex-governador de São Paulo e ex-rival de Lula, simboliza a frente ampla.
+- **Flávio Bolsonaro**: (Hoje) Senador pelo Rio e filho do ex-presidente. Liderou o 1º turno de 2026 e perdeu o 2º turno por pouco.
+- **Tarcísio de Freitas**: (Hoje) Governador de São Paulo, reeleito em 2026 no 1º turno, ex-ministro de Bolsonaro e peça central da direita.
+- **Jair Bolsonaro**: (Recentes) Presidente de 2019 a 2022. Condenado em 2025 pelo STF a 27 anos de prisão por tentativa de golpe, e inelegível.
+- **Dilma Rousseff**: (Recentes) Primeira mulher presidente, sofreu impeachment em 2016 pelas “pedaladas fiscais”, em um processo que seus apoiadores chamam de golpe.
+- **Michel Temer**: (Recentes) Vice de Dilma, assumiu após o impeachment. Governou até 2018, com a reforma trabalhista e o teto de gastos.
+- **Fernando Henrique Cardoso**: (Históricos) Sociólogo e criador do Plano Real, que acabou com a hiperinflação. Presidente de 1995 a 2002.
+- **Juscelino Kubitschek**: (Históricos) O presidente “bossa nova”, de 1956 a 1961: “50 anos em 5” e a construção de Brasília.
+- **Getúlio Vargas**: (Históricos) Ditador e presidente eleito. Criou a CLT e a Petrobras e deixou uma carta ao se suicidar, em 1954: “saio da vida para entrar na história”.
+- **Tancredo Neves**: (Históricos) Eleito o primeiro presidente civil depois da ditadura, em 1985, adoeceu na véspera da posse e morreu sem assumir.
+- **Dom Pedro II**: (Históricos) O imperador erudito que reinou por quase 50 anos, até a queda da monarquia em 1889. Ainda é admirado até por republicanos.
+- **Marina Silva**: (Hoje) Seringueira do Acre, alfabetizada aos 16 anos, foi ministra do Meio Ambiente até 2026 e é referência mundial na proteção da Amazônia.
+
+### Comparando com o mundo
+
+- **PT**: Equivalente mais próximo lá fora: Partido Trabalhista (Reino Unido) / Labor (Austrália) (Centro-esquerda trabalhista). Nasceu dos sindicatos e defende a saúde pública e a redistribuição. A diferença: governa em coalizão com partidos de direita, e tem base nos movimentos sociais.
+- **PL**: Equivalente mais próximo lá fora: Partido Republicano (EUA) (Direita conservadora). A ala bolsonarista lembra o trumpismo: fortes pautas de costumes, evangélicos, armas e crítica ao Judiciário e à imprensa. Mas o PL em si também é um partido de negociação.
+- **Centrão**: Equivalente mais próximo lá fora: Sem equivalente direto (Partidos de negociação). Sem ideologia fixa, apoiam quase todo governo em troca de cargos e verba. Lembram os antigos partidos clientelistas italianos, mas em uma escala própria.
+- **PSDB**: Equivalente mais próximo lá fora: Liberal Democrats (Reino Unido) (Centro). Um centro moderado que perdeu terreno com a polarização. Ainda tem nomes conhecidos, mas quase nenhum voto para presidente.
+- **Lula**: Equivalente mais próximo lá fora: Clement Attlee / Bob Hawke (O sindicalista no poder). Sindicalistas que viraram líderes. Lula também se destaca por voltar ao cargo depois de ser preso, com a condenação anulada depois.
+- **Jair Bolsonaro**: Equivalente mais próximo lá fora: Donald Trump (A direita populista). Compartilham o estilo, as redes sociais e o questionamento das urnas. Diferença central: Bolsonaro foi preso e condenado, e está inelegível.
+- **Getúlio Vargas**: Equivalente mais próximo lá fora: Juan Perón (Argentina) (O pai dos pobres). Criaram direitos trabalhistas com um Estado forte e um grande culto à pessoa. Ambos marcaram seus países por décadas.
+- **Marina Silva**: Equivalente mais próximo lá fora: Greta Thunberg / Wangari Maathai (A voz do clima). De seringais a ministra: é a referência mundial na proteção da floresta, com a experiência de vida que dá autoridade à causa.
+
+### Ativistas
+
+- **Zumbi dos Palmares**: (Direitos dos negros) Último líder do Quilombo dos Palmares, a maior comunidade de escravizados fugidos das Américas. Morto em 1695, deu sentido ao 20 de novembro.
+- **Luiz Gama**: (Direitos dos negros) Filho de uma africana, foi vendido como escravizado pelo próprio pai. Tornou-se advogado e libertou centenas nos tribunais.
+- **Abdias Nascimento**: (Direitos dos negros) Criou o Teatro Experimental do Negro em 1944, foi senador e um dos maiores nomes do movimento negro no país.
+- **Lélia Gonzalez**: (Direitos dos negros) Intelectual que criou o termo “amefricanidade”, e pensou juntos raça e gênero no Brasil antes da moda.
+- **Marielle Franco**: (Direitos humanos) Vereadora negra e da Maré, assassinada em 2018. Os mandantes foram presos seis anos depois. Tornou-se símbolo mundial.
+- **Chico Mendes**: (Meio ambiente) Seringueiro do Acre que uniu preservação da floresta e direito ao trabalho. Assassinado em 1988, ganhou repercussão internacional.
+- **Raoni Metuktire**: (Direitos indígenas) Líder Kayapó com o lábio de botoque, percorreu o mundo com o músico Sting para proteger a Amazônia desde os anos 80.
+- **Sônia Guajajara**: (Direitos indígenas) Foi a primeira ministra dos Povos Indígenas (2023–2026) e é uma das vozes mais conhecidas do movimento.
+- **Ailton Krenak**: (Direitos indígenas) Pintou o rosto de preto no Congresso em 1987. Autor de Ideias para Adiar o Fim do Mundo, foi o primeiro indígena na Academia Brasileira de Letras.
+- **Bertha Lutz**: (Direitos das mulheres) Bióloga que liderou a conquista do voto feminino em 1932 e garantiu menção à igualdade de gênero na Carta da ONU.
+- **Maria da Penha**: (Direitos das mulheres) Sobrevivente de duas tentativas de assassinato pelo marido. Sua luta levou à lei de 2006, referência contra a violência doméstica.
+- **Dom Hélder Câmara**: (Direitos humanos) Arcebispo do Recife, denunciou a tortura da ditadura para o mundo. “Se dou comida aos pobres, me chamam de santo…”
+- **Betinho**: (Direitos humanos) Sociólogo hemofílico que criou a Ação da Cidadania contra a Fome em 1993, mobilizando milhões de brasileiros.
+
+Fontes: [TSE: resultados das eleições](https://www.tse.jus.br); [IBGE](https://www.ibge.gov.br); [Banco Central](https://www.bcb.gov.br); [Forbes Brasil](https://forbes.com.br)
+
+## Para conhecer mais
+
+https://brazilianculture.biblioverse.org/pt/sites.html
+
+- **Visit Brasil**: (Turismo e imagem · Embratur) O site oficial de promoção do Brasil para estrangeiros, com destinos, roteiros e experiências. <https://visitbrasil.com>
+- **Ministério do Turismo**: (Turismo e imagem · Governo Federal) Políticas de turismo, mapa das regiões e dados oficiais sobre visitantes. <https://www.gov.br/turismo>
+- **IBGE**: (Dados e mapas · Instituto Brasileiro de Geografia e Estatística) Censo, população, economia e mapas. A fonte dos números do país, com o portal Cidades e o Educa. <https://www.ibge.gov.br>
+- **Banco Central**: (Dados e mapas · Banco Central do Brasil) Juros, câmbio, Pix e o relatório Focus, com projeções da economia. <https://www.bcb.gov.br>
+- **Instituto Socioambiental**: (Povos originários · ISA) Referência sobre povos indígenas, territórios e meio ambiente, com o portal Povos Indígenas no Brasil. <https://www.socioambiental.org>
+- **Funai**: (Povos originários · Fundação Nacional dos Povos Indígenas) Órgão público que cuida da proteção dos direitos e das terras indígenas. <https://www.gov.br/funai>
+- **Museu Afro Brasil**: (História e cultura · Prefeitura e Estado de São Paulo) Mais de 8 mil obras sobre a história e a contribuição africana no país, no Parque Ibirapuera. <https://www.museuafrobrasil.org.br>
+- **Museu da Língua Portuguesa**: (História e cultura · Instituto Ação Cultural) Museu dedicado à língua, na Estação da Luz, em São Paulo. Um passeio pelo idioma que os brasileiros reinventaram. <https://www.museudalinguaportuguesa.org.br>
+- **Biblioteca Nacional**: (História e cultura · Fundação Biblioteca Nacional) A maior biblioteca da América Latina, com acervo digital de jornais e livros raros. <https://www.bn.gov.br>
+- **Iphan**: (História e cultura · Instituto do Patrimônio Histórico e Artístico Nacional) Patrimônio material e imaterial do país, do acarajé ao frevo e às cidades históricas. <https://www.gov.br/iphan>
+- **Agência Brasil**: (Mídia · Empresa Brasil de Comunicação) Agência pública de notícias, com versão em inglês e espanhol, gratuita e de uso livre. <https://agenciabrasil.ebc.com.br>
+- **Folha de S.Paulo**: (Mídia · Grupo Folha) Um dos maiores jornais do país. Tem edição em inglês e um manual de redação famoso. <https://www.folha.uol.com.br>
+- **g1**: (Mídia · Grupo Globo) O portal de notícias mais lido, com cobertura regional em todos os estados. <https://g1.globo.com>
+- **Inpe**: (Natureza · Instituto Nacional de Pesquisas Espaciais) Monitora por satélite o desmatamento e as queimadas da Amazônia. Dados acompanhados no mundo inteiro. <https://www.gov.br/inpe>
+- **ICMBio**: (Natureza · Instituto Chico Mendes) Cuida dos parques nacionais e áreas protegidas: informações para visitar e entender cada um. <https://www.gov.br/icmbio>
+- **Tamar**: (Natureza · Projeto Tamar) Conservação de tartarugas marinhas, com centros de visitantes em várias praias. <https://www.tamar.org.br>
+
+## Você tem ginga?
+
+https://brazilianculture.biblioverse.org/pt/quiz.html
+
+- **Qual é a capital do Brasil?**: Resposta: Brasília
+- **Que língua se fala no Brasil?**: Resposta: Português
+- **De onde vem o nome “Brasil”?**: Resposta: De uma árvore
+- **Quantas Copas do Mundo o Brasil já ganhou?**: Resposta: 5
+- **Qual é o principal ingrediente da feijoada?**: Resposta: Feijão-preto
+- **O que é a caipirinha?**: Resposta: Um drinque de cachaça com limão
+- **Quem pintou o Abaporu?**: Resposta: Tarsila do Amaral
+- **Qual filme deu ao Brasil o primeiro Oscar de melhor filme internacional?**: Resposta: Ainda Estou Aqui
+- **O que é o Pix?**: Resposta: Um pagamento instantâneo
+- **O que significa “gambiarra”?**: Resposta: Um conserto improvisado
+- **Em que cidade sai o Galo da Madrugada, maior bloco de Carnaval do Guinness?**: Resposta: Recife
+- **Quem assinou a Lei Áurea?**: Resposta: Princesa Isabel
+- **Qual é a arara da capa deste guia?**: Resposta: Arara-azul
+- **Em que ano Brasília foi inaugurada?**: Resposta: 1960
+- **Qual o maior roedor do mundo, muito comum nos parques brasileiros?**: Resposta: Capivara
+- **Quem é o “Rei” da música brasileira?**: Resposta: Roberto Carlos
+- **O que é o chimarrão?**: Resposta: Erva-mate com água quente
+- **Ayrton Senna foi campeão mundial de Fórmula 1 quantas vezes?**: Resposta: Três
+- **Qual é a maior cidade do Brasil?**: Resposta: São Paulo
+- **Quem é a maior medalhista olímpica do Brasil?**: Resposta: Rebeca Andrade
+- **Qual bioma é a maior planície alagável do mundo?**: Resposta: Pantanal
+- **O que quer dizer “cafuné”?**: Resposta: Carinho nos cabelos
+- **Em que ano aconteceu o “7 a 1”?**: Resposta: 2014
+- **Quem desenhou a arquitetura de Brasília?**: Resposta: Oscar Niemeyer
+- **Qual carro foi o mais vendido do Brasil por 27 anos seguidos?**: Resposta: Volkswagen Gol
+- **O que é um caramelo, na internet brasileira?**: Resposta: Um cachorro

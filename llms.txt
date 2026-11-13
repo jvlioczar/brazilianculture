@@ -1,0 +1,60 @@
+# Brazilian Culture
+
+> An interactive guide to Brazil in 19 stops: the land, 13,000 years of history, the people and the Brazilian way, from famous faces and memes to wildlife and politics.
+
+Brazilian Culture (Cultura Brasileira in Portuguese) is a free, bilingual guide to Brazil, part of BiblioVerse. English lives at the root and Brazilian Portuguese at /pt/. Every page cites its sources. The pages build their lists with JavaScript, so the full text is also published as Markdown below.
+
+## Full content
+
+- [Full guide in English](https://brazilianculture.biblioverse.org/llms-full.txt): every list on every stop, in Markdown
+- [Guia completo em português](https://brazilianculture.biblioverse.org/pt/llms-full.txt): o mesmo conteúdo em português
+
+## Stops
+
+- [Famous Brazilians](https://brazilianculture.biblioverse.org/famous-brazilians.html): Brazil’s most famous people: athletes, actors, models, writers, artists, creators and the Instagram ranking.
+- [Music](https://brazilianculture.biblioverse.org/music.html): Brazilian music: from samba and bossa nova to Tropicália, sertanejo, funk, rock and Anitta.
+- [Film and TV](https://brazilianculture.biblioverse.org/film-and-tv.html): Brazilian films, series and animation, and the TV that shapes the culture: telenovelas, sitcoms, reality shows and big broadcasts.
+- [Companies and brands](https://brazilianculture.biblioverse.org/brands.html): Brazilian companies and brands, and their twins between Brazil and the rest of the world.
+- [Food](https://brazilianculture.biblioverse.org/food.html): Brazilian food: everyday meals and icons, from feijoada and pão de queijo to brigadeiro and caipirinha.
+- [Inventions and science](https://brazilianculture.biblioverse.org/inventions.html): Brazilian inventions and science in chronological order: from the hammock to the 14-Bis, Pix and the electronic ballot box.
+- [Virals and memes](https://brazilianculture.biblioverse.org/virals-and-memes.html): Brazilian virals, memes and comedians: Confused Math Lady, Luva de Pedreiro, the 7–1, the Varginha aliens, Porta dos Fundos and more.
+- [National passions](https://brazilianculture.biblioverse.org/national-passions.html): What many Brazilians love, stereotypes included: the barzinho, churrasco, telenovelas, BBB, football, Festa Junina, cars, memes and the caramelo dog.
+- [Brazilian Dictionary](https://brazilianculture.biblioverse.org/brazilian-dictionary.html): A dictionary of Brazilian slang and expressions: saudade, gambiarra, cafuné, oxente, uai, bah and many more, explained in English.
+- [Records and rankings](https://brazilianculture.biblioverse.org/records.html): Brazil’s records and rankings: the largest rainforest, the largest river by volume, five World Cups and the biggest Carnival bloc.
+- [Fun facts](https://brazilianculture.biblioverse.org/fun-facts.html): Fun facts about Brazil: a name that comes from a tree, a flag that’s a sky and other surprises.
+- [Wildlife and plants](https://brazilianculture.biblioverse.org/wildlife-and-plants.html): Wildlife and plants of Brazil: jaguars, capybaras, hyacinth macaws, pink river dolphins, ipê trees, brazilwood and araucaria.
+- [Main cities](https://brazilianculture.biblioverse.org/cities.html): Brazil’s 25 most populous cities, on the map and in the ranking, with a profile of each one.
+- [Places](https://brazilianculture.biblioverse.org/places.html): Brazil’s most striking places: beaches, national parks, landscapes, monuments, buildings and bridges.
+- [Historical facts](https://brazilianculture.biblioverse.org/history.html): Brazil’s history in 31 moments, from the first peoples to the 2026 election.
+- [Key dates](https://brazilianculture.biblioverse.org/key-dates.html): Brazil’s holidays and key dates, from Carnival to Black Awareness Day, with Indigenous and Black perspectives where contested.
+- [Politics and economy](https://brazilianculture.biblioverse.org/politics-and-economy.html): Brazil’s politics and economy: how the system works, parties, politicians, billionaires, activists, minimum wage and top exports.
+- [Find out more](https://brazilianculture.biblioverse.org/websites.html): Key websites for getting to know Brazil: Visit Brasil, IBGE, ISA, Museu Afro Brasil, the National Library, Agência Brasil and more.
+- [Got ginga?](https://brazilianculture.biblioverse.org/quiz.html): A quiz about Brazil: test what you know about the country and its people.
+
+## Em português
+
+- [Cultura Brasileira](https://brazilianculture.biblioverse.org/pt/): Um guia interativo do Brasil em 19 paradas: a terra, 13 mil anos de história, o povo e o jeito brasileiro, dos famosos e memes à fauna e à política.
+- [Famosos](https://brazilianculture.biblioverse.org/pt/famosos.html): Os brasileiros mais famosos: atletas, atores, modelos, escritores, artistas, criadores digitais e o ranking do Instagram.
+- [Música](https://brazilianculture.biblioverse.org/pt/musica.html): Música brasileira: do samba e da bossa nova à tropicália, ao sertanejo, ao funk e a Anitta.
+- [Filmes e séries](https://brazilianculture.biblioverse.org/pt/filmes-e-series.html): Filmes, séries e animações brasileiras, e a TV que faz parte da cultura: novelas, sitcoms, realities, nostalgia e grandes transmissões.
+- [Empresas e marcas](https://brazilianculture.biblioverse.org/pt/marcas.html): Empresas e marcas brasileiras, e as gêmeas entre o Brasil e o mundo.
+- [Comida](https://brazilianculture.biblioverse.org/pt/comida.html): Comida brasileira: o dia a dia e os ícones, de feijoada e pão de queijo a brigadeiro e caipirinha.
+- [Invenções e ciência](https://brazilianculture.biblioverse.org/pt/invencoes.html): Invenções e ciência brasileiras em ordem cronológica: da rede de dormir ao 14-Bis, ao Pix e à urna eletrônica.
+- [Virais e memes](https://brazilianculture.biblioverse.org/pt/virais-e-memes.html): Virais, memes e comediantes brasileiros: Nazaré Confusa, Luva de Pedreiro, 7 a 1, os ETs de Varginha, Chico Anysio, Porta dos Fundos e mais.
+- [Paixões nacionais](https://brazilianculture.biblioverse.org/pt/paixoes-nacionais.html): O que muitos brasileiros amam, estereótipos incluídos: barzinho, churrasco, novela, BBB, futebol, festa junina, carros, memes e o cachorro caramelo.
+- [Dicionário Brasileiro](https://brazilianculture.biblioverse.org/pt/dicionario.html): Dicionário de gírias e expressões brasileiras: saudade, gambiarra, cafuné, oxente, uai, bah e muito mais, em português e em inglês.
+- [Recordes e índices](https://brazilianculture.biblioverse.org/pt/recordes.html): Recordes e índices do Brasil: a maior floresta tropical, o maior rio em volume, cinco Copas e o maior bloco de Carnaval.
+- [Curiosidades](https://brazilianculture.biblioverse.org/pt/curiosidades.html): Curiosidades sobre o Brasil: o nome que vem de uma árvore, a bandeira que é um céu e outras surpresas.
+- [Fauna e flora](https://brazilianculture.biblioverse.org/pt/natureza.html): Fauna e flora do Brasil: onça-pintada, capivara, arara-azul, boto-cor-de-rosa, ipê, pau-brasil e araucária.
+- [Principais cidades](https://brazilianculture.biblioverse.org/pt/cidades.html): As 25 cidades mais populosas do Brasil, no mapa e no ranking, e o perfil de cada uma.
+- [Lugares](https://brazilianculture.biblioverse.org/pt/lugares.html): Os lugares mais marcantes do Brasil: praias, parques nacionais, paisagens, monumentos, edifícios e pontes.
+- [Fatos históricos](https://brazilianculture.biblioverse.org/pt/historia.html): A história do Brasil em 31 momentos, dos primeiros povos à reeleição de 2026.
+- [Datas importantes](https://brazilianculture.biblioverse.org/pt/datas.html): Feriados e datas importantes do Brasil, do Carnaval à Consciência Negra, com o olhar indígena e negro quando há crítica.
+- [Política e economia](https://brazilianculture.biblioverse.org/pt/politica-e-economia.html): Política e economia do Brasil: como funciona o sistema, partidos, políticos, bilionários, ativistas, salário mínimo e as maiores exportações.
+- [Para conhecer mais](https://brazilianculture.biblioverse.org/pt/sites.html): Sites importantes para conhecer o Brasil: Visit Brasil, IBGE, ISA, Museu Afro Brasil, Biblioteca Nacional, Agência Brasil e outros.
+- [Você tem ginga?](https://brazilianculture.biblioverse.org/pt/quiz.html): Quiz sobre o Brasil: teste o que você sabe sobre o país e os brasileiros.
+
+## Optional
+
+- [About](https://brazilianculture.biblioverse.org/about.html): About Brazilian Culture, a special BiblioVerse project created by Julio Cesar Prava, and other projects to explore.
+- [Sobre](https://brazilianculture.biblioverse.org/pt/sobre.html): Sobre o projeto Cultura Brasileira, projeto especial da BiblioVerse idealizado por Julio Cesar Prava, e outros projetos para conhecer.
