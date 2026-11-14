@@ -414,7 +414,8 @@ virais: [
   { n: 'The capybara', t: 'Virals', d: 'The world’s largest rodent is the internet’s favourite animal. In 2023, the capybara Filó and her friend Agenor Tupinambá, from Amazonas, became a national talking point.', w: 'Capybara' },
   { n: 'Dona Hermínia', t: 'Memes', d: 'Paulo Gustavo as every Brazilian mother. Her lines still do the rounds in family WhatsApp groups.', w: 'Paulo Gustavo' },
   { n: 'The family WhatsApp group', t: 'Legends', d: 'The “good morning” with a rose and a Bible verse, the chain message, your uncle’s fake news. Almost every Brazilian is in one.', wk: '' },
-  { n: 'Felca', t: 'Virals', y: '2025', d: 'His video “Adultização”, on the exploitation of children online, passed tens of millions of views and pushed Congress to pass a protection law.', wk: '' }
+  { n: 'Felca', t: 'Virals', y: '2025', d: 'His video “Adultização”, on the exploitation of children online, passed tens of millions of views and pushed Congress to pass a protection law.', wk: '' },
+  { n: 'The Enem latecomers', t: 'Virals', d: 'Every November, on the day of Enem, the national university entrance exam, the gates close at 1 pm Brasília time sharp. TV cameras and crowds wait outside to film whoever arrives running a second too late, and the “latecomers show” becomes memes, with tears, desperate sprints and even people in superhero costumes pretending to be late.', w: 'Exame Nacional do Ensino Médio' }
 ],
 
 /* ============ COMEDIANS ============ */

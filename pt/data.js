@@ -414,7 +414,8 @@ virais: [
   { n: 'Capivara', t: 'Virais', d: 'O maior roedor do mundo é o bicho de maior sucesso da internet. Em 2023, a capivara Filó e seu amigo Agenor Tupinambá, do Amazonas, viraram assunto nacional.' },
   { n: 'Dona Hermínia', t: 'Memes', d: 'Paulo Gustavo como mãe em todo o Brasil. Frases dela ainda rodam em grupos de família no WhatsApp.', w: 'Minha Mãe é uma Peça' },
   { n: 'Grupo da família no WhatsApp', t: 'Lendas', d: 'O Bom Dia com rosa e versículo, a corrente, a fake news do tio. Quase todo brasileiro faz parte de um.', wk: '' },
-  { n: 'Felca', t: 'Virais', y: '2025', d: 'O vídeo “Adultização”, sobre exploração de crianças nas redes, ultrapassou dezenas de milhões de views e levou o Congresso a aprovar uma lei de proteção.', w: 'Felca' }
+  { n: 'Felca', t: 'Virais', y: '2025', d: 'O vídeo “Adultização”, sobre exploração de crianças nas redes, ultrapassou dezenas de milhões de views e levou o Congresso a aprovar uma lei de proteção.', w: 'Felca' },
+  { n: 'Os atrasados do Enem', t: 'Virais', d: 'Todo mês de novembro, no dia do Enem, os portões fecham às 13h em ponto, no horário de Brasília. Câmeras de TV e curiosos esperam na porta para filmar quem chega correndo um segundo atrasado, e o “show dos atrasados” vira meme, com choro, correria desesperada e até gente fantasiada de super-herói fingindo que se atrasou.', w: 'Exame Nacional do Ensino Médio' }
 ],
 
 /* ============ COMEDIANTES ============ */
